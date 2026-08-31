@@ -1,0 +1,6 @@
+# python bytecode
+__pycache__/
+*.pyc
+# raw data + per-scenario analysis products (large; regenerable from .etl)
+*.etl
+raw/

@@ -1,0 +1,5038 @@
+{
+  "source": "E:\\code\\mutli_level\\features\\ps5-document\\spike_output\\psn_12_landing.html",
+  "base_page": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_Network/PlayStation_Network_Landing.html",
+  "total_unique_leafs": 559,
+  "leafs": [
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "AMM Library Overview"
+      ],
+      "title": "AMM Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AMM-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "AMM Library Reference"
+      ],
+      "title": "AMM Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AMM-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "AMPR Libraries Overview"
+      ],
+      "title": "AMPR Libraries Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AMPR-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "APR Library Overview"
+      ],
+      "title": "APR Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/APR-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "APR Library Reference"
+      ],
+      "title": "APR Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/APR-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "ATRAC9™ File Format Specification"
+      ],
+      "title": "ATRAC9™ File Format Specification",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ATRAC9-Specification/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "ATRAC9™ Seamless Playback Tutorial"
+      ],
+      "title": "ATRAC9™ Seamless Playback Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ATRAC9_Seamless_Playback-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "About Scream Documentation"
+      ],
+      "title": "About Scream Documentation",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/About_Scream_Documentation/__toc.html"
+    },
+    {
+      "category_path": [
+        "Release Information",
+        "About this SDK",
+        "About this SDK"
+      ],
+      "title": "About this SDK",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/About_this_SDK/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Accessibility",
+        "Accessibility Tags Overview"
+      ],
+      "title": "Accessibility Tags Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Accessibility_Tags-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Processing",
+        "Acm Library Overview"
+      ],
+      "title": "Acm Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Acm-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Processing",
+        "Acm Library Reference"
+      ],
+      "title": "Acm Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Acm-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "AdditionalDicEditor User's Guide"
+      ],
+      "title": "AdditionalDicEditor User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AdditionalDicEditor-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "Advanced Player Profile Editor User's Guide"
+      ],
+      "title": "Advanced Player Profile Editor User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Advanced_Player_Profile_Editor-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "Agc Programming Guide"
+      ],
+      "title": "Agc Programming Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Agc-Programming_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "Agc Library Reference"
+      ],
+      "title": "Agc Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Agc-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "AgcGpuAddress Library Overview"
+      ],
+      "title": "AgcGpuAddress Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AgcGpuAddress-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "AgcGpuAddress Library Reference"
+      ],
+      "title": "AgcGpuAddress Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AgcGpuAddress-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Textures",
+        "AgcTextureTool Library Overview"
+      ],
+      "title": "AgcTextureTool Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AgcTextureTool-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Textures",
+        "AgcTextureTool Library Reference"
+      ],
+      "title": "AgcTextureTool Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AgcTextureTool-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "Ajm Library Overview"
+      ],
+      "title": "Ajm Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ajm-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "Ajm Library Reference"
+      ],
+      "title": "Ajm Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ajm-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Performance Optimization Guides",
+        "Optimization Examples",
+        "Alpha Tested Geometry Tutorial"
+      ],
+      "title": "Alpha Tested Geometry Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Alpha_Tested_Geometry-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Application Content",
+        "AppContent Library Overview"
+      ],
+      "title": "AppContent Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AppContent-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Application Content",
+        "AppContent Library Reference"
+      ],
+      "title": "AppContent Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AppContent-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Application Content",
+        "Application Content Overview"
+      ],
+      "title": "Application Content Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Application_Content-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "Asset Streaming Tutorial"
+      ],
+      "title": "Asset Streaming Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Asset_Streaming-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "At9 Library for Windows Overview"
+      ],
+      "title": "At9 Library for Windows Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/At9_for_Windows-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "At9 Library for Windows Reference"
+      ],
+      "title": "At9 Library for Windows Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/At9_for_Windows-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Atomic Operation",
+        "Atomic Library Overview"
+      ],
+      "title": "Atomic Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Atomic-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Atomic Operation",
+        "Atomic Library Reference"
+      ],
+      "title": "Atomic Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Atomic-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "PlayStation®4 Compatibility Libraries",
+        "Audio3d Library Overview"
+      ],
+      "title": "Audio3d Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Audio3d-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "PlayStation®4 Compatibility Libraries",
+        "Audio3d Library Reference"
+      ],
+      "title": "Audio3d Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Audio3d-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio In/Out",
+        "AudioIn Library Overview"
+      ],
+      "title": "AudioIn Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioIn-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio In/Out",
+        "AudioIn Library Reference"
+      ],
+      "title": "AudioIn Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioIn-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "PlayStation®4 Compatibility Libraries",
+        "AudioOut Library Overview"
+      ],
+      "title": "AudioOut Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioOut-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "PlayStation®4 Compatibility Libraries",
+        "AudioOut Library Reference"
+      ],
+      "title": "AudioOut Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioOut-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio In/Out",
+        "AudioOut2 Library 3D Audio Concepts"
+      ],
+      "title": "AudioOut2 Library 3D Audio Concepts",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioOut2-3DAudioConcepts/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio In/Out",
+        "AudioOut2 Library Overview"
+      ],
+      "title": "AudioOut2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioOut2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio In/Out",
+        "AudioOut2 Library Reference"
+      ],
+      "title": "AudioOut2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioOut2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Propagation",
+        "AudioPropagation Library Overview"
+      ],
+      "title": "AudioPropagation Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioPropagation-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Propagation",
+        "AudioPropagation Library Reference"
+      ],
+      "title": "AudioPropagation Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudioPropagation-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "Audiodec Library Overview"
+      ],
+      "title": "Audiodec Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Audiodec-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "Audiodec Library Reference"
+      ],
+      "title": "Audiodec Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Audiodec-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "AudiodecCpu Library Overview"
+      ],
+      "title": "AudiodecCpu Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudiodecCpu-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "AudiodecCpu Library Reference"
+      ],
+      "title": "AudiodecCpu Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AudiodecCpu-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Auth Web API Cross-Generation Supplement"
+      ],
+      "title": "Auth Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Auth_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Video Player",
+        "AvPlayer Library Overview"
+      ],
+      "title": "AvPlayer Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AvPlayer-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Video Player",
+        "AvPlayer Library Reference"
+      ],
+      "title": "AvPlayer Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AvPlayer-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Video Player",
+        "AvPlayer Tutorial"
+      ],
+      "title": "AvPlayer Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/AvPlayer-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "CMake Extensions User's Guide"
+      ],
+      "title": "CMake Extensions User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CMake_Extensions-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "CPU Compiler ABI Overview"
+      ],
+      "title": "CPU Compiler ABI Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CPU_Compiler_ABI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "CPU Intrinsics Reference"
+      ],
+      "title": "CPU Intrinsics Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CPU_Intrinsics-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Performance Optimization Guides",
+        "Optimization Examples",
+        "CPU Parallel Processing Guide"
+      ],
+      "title": "CPU Parallel Processing Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CPU_Parallel_Processing-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "CPU Toolchain Overview"
+      ],
+      "title": "CPU Toolchain Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CPU_Toolchain-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "CPU Toolchain Binary Utilities User's Guide"
+      ],
+      "title": "CPU Toolchain Binary Utilities User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CPU_Toolchain_Binary_Utilities-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "C/C++ Compiler Reference"
+      ],
+      "title": "C/C++ Compiler Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/C_Cpp_Compiler-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "C and C++ Standard Libraries",
+        "C and C++ Standard Libraries: Overview and Reference"
+      ],
+      "title": "C and C++ Standard Libraries: Overview and Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/C_and_Cpp_standard_libraries/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Character Encoding",
+        "Ces Library Overview"
+      ],
+      "title": "Ces Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ces-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Character Encoding",
+        "Ces Library Reference"
+      ],
+      "title": "Ces Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ces-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "Clustered Geometry Tutorial"
+      ],
+      "title": "Clustered Geometry Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Clustered_Geometry-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "Code Coverage Tutorial"
+      ],
+      "title": "Code Coverage Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Code_Coverage-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Common Dialog",
+        "CommonDialog Library Overview"
+      ],
+      "title": "CommonDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CommonDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Common Dialog",
+        "CommonDialog Library Reference"
+      ],
+      "title": "CommonDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CommonDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Communication Restriction Status Web API Cross-Generation Supplement"
+      ],
+      "title": "Communication Restriction Status Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Communication_Restriction_Status_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Data Compression Tools",
+        "Compression Library Reference"
+      ],
+      "title": "Compression Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Compression-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Data Compression Tools",
+        "Compression Tools Overview"
+      ],
+      "title": "Compression Tools Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Compression_Tools-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Target Management UI Applications",
+        "Console Output User's Guide"
+      ],
+      "title": "Console Output User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Console_Output-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Content Management",
+        "ContentDelete Library Overview"
+      ],
+      "title": "ContentDelete Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ContentDelete-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Content Management",
+        "ContentDelete Library Reference"
+      ],
+      "title": "ContentDelete Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ContentDelete-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Content Management",
+        "ContentExport Library Overview"
+      ],
+      "title": "ContentExport Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ContentExport-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Content Management",
+        "ContentExport Library Reference"
+      ],
+      "title": "ContentExport Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ContentExport-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Content Management",
+        "ContentSearch Library Overview"
+      ],
+      "title": "ContentSearch Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ContentSearch-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Content Management",
+        "ContentSearch Library Reference"
+      ],
+      "title": "ContentSearch Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ContentSearch-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "TRC and Guidelines",
+        "Guidelines",
+        "Content Information Specifications"
+      ],
+      "title": "Content Information Specifications",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Content_Information-Specifications/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Content Packaging and Updating",
+        "Content Packaging and Updating Guide"
+      ],
+      "title": "Content Packaging and Updating Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Content_Packaging_and_Updating-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Target Management UI Applications",
+        "Controller Capture and Playback User's Guide"
+      ],
+      "title": "Controller Capture and Playback User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Controller_Capture_and_Playback-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "ConvertKeycode Library Overview"
+      ],
+      "title": "ConvertKeycode Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ConvertKeycode-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "ConvertKeycode Library Reference"
+      ],
+      "title": "ConvertKeycode Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ConvertKeycode-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Core Dump Data Request API Reference"
+      ],
+      "title": "Core Dump Data Request API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Core_Dump_Data_Request_API-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Core Dump System Overview"
+      ],
+      "title": "Core Dump System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Core_Dump_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Core Dump Viewer User's Guide"
+      ],
+      "title": "Core Dump Viewer User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Core_Dump_Viewer-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Core File API Reference"
+      ],
+      "title": "Core File API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Core_File_API-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Coredump Library Overview"
+      ],
+      "title": "Coredump Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Coredump-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Coredump Library Reference"
+      ],
+      "title": "Coredump Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Coredump-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "CoredumpStructuredData Library Overview"
+      ],
+      "title": "CoredumpStructuredData Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CoredumpStructuredData-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "CoredumpStructuredData Library Reference"
+      ],
+      "title": "CoredumpStructuredData Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/CoredumpStructuredData-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "C and C++ Standard Libraries",
+        "C++ Standard Library v2 Migration Guide"
+      ],
+      "title": "C++ Standard Library v2 Migration Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Cpp_Standard_Library_V2-Migration_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Crash Reporting",
+        "Crash Reporting System Overview"
+      ],
+      "title": "Crash Reporting System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Crash_Reporting_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Crash Reporting",
+        "Crash Reporting System Web API Overview"
+      ],
+      "title": "Crash Reporting System Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Crash_Reporting_System_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Crash Reporting",
+        "Crash Reporting System Web API Reference"
+      ],
+      "title": "Crash Reporting System Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Crash_Reporting_System_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "Creating Data-Driven Experiences with UDS"
+      ],
+      "title": "Creating Data-Driven Experiences with UDS",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Creating_Data_Driven_Experiences_with_UDS/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "Start Here",
+        "Cross-Generation Overview"
+      ],
+      "title": "Cross-Generation Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Cross_Generation-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Cross-generation Support",
+        "Cross-generation Application Tutorial"
+      ],
+      "title": "Cross-generation Application Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Cross_Generation_Application-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Dbg Library Overview"
+      ],
+      "title": "Dbg Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Dbg-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Dbg Library Reference"
+      ],
+      "title": "Dbg Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Dbg-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Debugger User's Guide"
+      ],
+      "title": "Debugger User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Debugger-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Communication Between a Target and a Host PC",
+        "Deci5 Library Overview"
+      ],
+      "title": "Deci5 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Deci5-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Communication Between a Target and a Host PC",
+        "Deci5 Library Reference"
+      ],
+      "title": "Deci5 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Deci5-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Developer Accounts",
+        "DevAdmin Tool User's Guide"
+      ],
+      "title": "DevAdmin Tool User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/DevAdmin_Tool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Development Kit Setup Guide"
+      ],
+      "title": "Development Kit Setup Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/DevKit-Setup_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Developer Accounts",
+        "Development Accounts User's Guide"
+      ],
+      "title": "Development Accounts User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Development_Accounts-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "System Software",
+        "Displayed Assets in Home Screens"
+      ],
+      "title": "Displayed Assets in Home Screens",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Displayed_Assets_in_Home_Screens/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Animation",
+        "EdgeAnim Library Overview"
+      ],
+      "title": "EdgeAnim Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/EdgeAnim-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Animation",
+        "EdgeAnim Library Reference"
+      ],
+      "title": "EdgeAnim Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/EdgeAnim-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Animation",
+        "EdgeAnim Tools Library Reference"
+      ],
+      "title": "EdgeAnim Tools Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/EdgeAnim_Tools-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "EnC Library Reference"
+      ],
+      "title": "EnC Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Enc-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Entitlements Web API Cross-Generation Supplement"
+      ],
+      "title": "Entitlements Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Entitlements_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Error Codes",
+        "Error Code Table"
+      ],
+      "title": "Error Code Table",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ErrorCode-Table/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Error Dialog",
+        "ErrorDialog Library Overview"
+      ],
+      "title": "ErrorDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ErrorDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Error Dialog",
+        "ErrorDialog Library Reference"
+      ],
+      "title": "ErrorDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ErrorDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Error Codes",
+        "Error Codes Related to User Management"
+      ],
+      "title": "Error Codes Related to User Management",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Error_Codes_Related_to_User_Management-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "FSR and Foveated Rendering Overview"
+      ],
+      "title": "FSR and Foveated Rendering Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/FSR_and_Foveated_Rendering-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Multitasking",
+        "Fiber Library Overview"
+      ],
+      "title": "Fiber Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Fiber-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Multitasking",
+        "Fiber Library Reference"
+      ],
+      "title": "Fiber Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Fiber-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Font",
+        "Font Library Overview"
+      ],
+      "title": "Font Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Font-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Font",
+        "Font Library Reference"
+      ],
+      "title": "Font Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Font-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "FrToolkit Library Reference"
+      ],
+      "title": "FrToolkit Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/FrToolkit-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "FrontPanelDisplay Library Overview"
+      ],
+      "title": "FrontPanelDisplay Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/FrontPanelDisplay-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "FrontPanelDisplay Library Reference"
+      ],
+      "title": "FrontPanelDisplay Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/FrontPanelDisplay-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "GP5 File Specification"
+      ],
+      "title": "GP5 File Specification",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GP5-Specification/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "GP5 Editor User's Guide"
+      ],
+      "title": "GP5 Editor User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GP5_Editor-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Start Here",
+        "GPU Overview"
+      ],
+      "title": "GPU Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GPU-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Analysis and Debugging",
+        "GPU Performance Counter Overview"
+      ],
+      "title": "GPU Performance Counter Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GPU_Performance_Counter-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Analysis and Debugging",
+        "GPU Performance Counter Overview Supplement"
+      ],
+      "title": "GPU Performance Counter Overview Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GPU_Performance_Counter-Overview_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "GPU Shader Core ISA Specification"
+      ],
+      "title": "GPU Shader Core ISA Specification",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GPU_Shader_Core_ISA-Specification/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "GPU Shader Core ISA Instruction Reference"
+      ],
+      "title": "GPU Shader Core ISA Instruction Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GPU_Shader_Core_ISA_Instruction-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Sharing Content",
+        "GameLiveStreaming Library Overview"
+      ],
+      "title": "GameLiveStreaming Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GameLiveStreaming-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Sharing Content",
+        "GameLiveStreaming Library Reference"
+      ],
+      "title": "GameLiveStreaming Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GameLiveStreaming-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Sharing Content",
+        "GameLiveStreaming System Overview"
+      ],
+      "title": "GameLiveStreaming System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GameLiveStreaming_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Update Check",
+        "GameUpdate Library Overview"
+      ],
+      "title": "GameUpdate Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GameUpdate-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Update Check",
+        "GameUpdate Library Reference"
+      ],
+      "title": "GameUpdate Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/GameUpdate-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Game Intent",
+        "Game Intent System Overview"
+      ],
+      "title": "Game Intent System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Game_Intent_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Geometry",
+        "Geometry Library Overview"
+      ],
+      "title": "Geometry Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Geometry-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Geometry",
+        "Geometry Library Reference"
+      ],
+      "title": "Geometry Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Geometry-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "PlayStation®5 Graphics Transition Guide"
+      ],
+      "title": "PlayStation®5 Graphics Transition Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Graphics-Transition_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "Graphics Programming Tutorial"
+      ],
+      "title": "Graphics Programming Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Graphics_Programming-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "HDR",
+        "HDR WCG Workflow Tutorial"
+      ],
+      "title": "HDR WCG Workflow Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/HDR_WCG_Workflow-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Hardware Overview"
+      ],
+      "title": "Hardware Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Hardware-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Cryptography",
+        "Hmac Library Overview"
+      ],
+      "title": "Hmac Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Hmac-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Cryptography",
+        "Hmac Library Reference"
+      ],
+      "title": "Hmac Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Hmac-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "Hmd2 Library Overview"
+      ],
+      "title": "Hmd2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Hmd2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "Hmd2 Library Reference"
+      ],
+      "title": "Hmd2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Hmd2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "HTTP",
+        "Http Library Overview"
+      ],
+      "title": "Http Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Http-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "HTTP",
+        "Http Library Reference"
+      ],
+      "title": "Http Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Http-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "HTTP",
+        "Http2 Library Overview"
+      ],
+      "title": "Http2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Http2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "HTTP",
+        "Http2 Library Reference"
+      ],
+      "title": "Http2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Http2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "ID Mapper Web API Cross-Generation Supplement"
+      ],
+      "title": "ID Mapper Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ID_Mapper_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "ISPC Compiler Reference"
+      ],
+      "title": "ISPC Compiler Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ISPC_Compiler-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Post-Processing",
+        "Image Based Lighting Tutorial"
+      ],
+      "title": "Image Based Lighting Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Image_Based_Lighting-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "Ime Library Overview"
+      ],
+      "title": "Ime Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ime-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "Ime Library Reference"
+      ],
+      "title": "Ime Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ime-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "ImeBackend Library Overview"
+      ],
+      "title": "ImeBackend Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ImeBackend-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "ImeBackend Library Reference"
+      ],
+      "title": "ImeBackend Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ImeBackend-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "ImeDialog Library Overview"
+      ],
+      "title": "ImeDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ImeDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "ImeDialog Library Reference"
+      ],
+      "title": "ImeDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ImeDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "In-Game Catalog Web API Cross-Generation Supplement"
+      ],
+      "title": "In-Game Catalog Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/In_Game_Catalog_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Processing",
+        "Ironworks Tool User's Guide"
+      ],
+      "title": "Ironworks Tool User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ironworks_Tool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Multitasking",
+        "Job Library Overview"
+      ],
+      "title": "Job Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Job-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Multitasking",
+        "Job Library Reference"
+      ],
+      "title": "Job Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Job-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Image Codec",
+        "JpegDec Library Overview"
+      ],
+      "title": "JpegDec Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/JpegDec-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Image Codec",
+        "JpegDec Library Reference"
+      ],
+      "title": "JpegDec Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/JpegDec-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Image Codec",
+        "JpegEnc Library Overview"
+      ],
+      "title": "JpegEnc Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/JpegEnc-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Image Codec",
+        "JpegEnc Library Reference"
+      ],
+      "title": "JpegEnc Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/JpegEnc-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "JSON",
+        "Json2 Library Overview"
+      ],
+      "title": "Json2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Json2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "JSON",
+        "Json2 Library Reference"
+      ],
+      "title": "Json2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Json2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Kernel",
+        "Kernel Overview"
+      ],
+      "title": "Kernel Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Kernel",
+        "Kernel Reference"
+      ],
+      "title": "Kernel Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "Keyboard Library Overview"
+      ],
+      "title": "Keyboard Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Keyboard-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Keyboards",
+        "Keyboard Library Reference"
+      ],
+      "title": "Keyboard Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Keyboard-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Kit Manager",
+        "Kit Manager User's Guide"
+      ],
+      "title": "Kit Manager User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Kit_Manager-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Leaderboards Management Web API Cross-Generation Supplement"
+      ],
+      "title": "Leaderboards Management Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Leaderboards_Management_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Leaderboards Web API Cross-Generation Supplement"
+      ],
+      "title": "Leaderboards Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Leaderboards_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "Link Time Optimization (LTO) Overview"
+      ],
+      "title": "Link Time Optimization (LTO) Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Link_Time_Optimization-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "Linker User's Guide"
+      ],
+      "title": "Linker User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Linker-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "User Management",
+        "LoginDialog Library Overview"
+      ],
+      "title": "LoginDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/LoginDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "User Management",
+        "LoginDialog Library Reference"
+      ],
+      "title": "LoginDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/LoginDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "User Management",
+        "LoginService Library Overview"
+      ],
+      "title": "LoginService Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/LoginService-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "User Management",
+        "LoginService Library Reference"
+      ],
+      "title": "LoginService Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/LoginService-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "M.2 SSD Storage Setup Guide"
+      ],
+      "title": "M.2 SSD Storage Setup Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/M2_SSD_Storage-Setup_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Machine Code Analyzer (llvm-mca) Overview"
+      ],
+      "title": "Machine Code Analyzer (llvm-mca) Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Machine_Code_Analyzer-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "Memory Management Function Replacements of the C and C++ Standard Libraries: Reference"
+      ],
+      "title": "Memory Management Function Replacements of the C and C++ Standard Libraries: Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Malloc_Replace-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "Memory Management Function Replacements of the C and C++ Standard Libraries: Tutorial"
+      ],
+      "title": "Memory Management Function Replacements of the C and C++ Standard Libraries: Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Malloc_Replace-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "Mat Library Overview"
+      ],
+      "title": "Mat Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Mat-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "Mat Library Reference"
+      ],
+      "title": "Mat Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Mat-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Matches Web API Cross-Generation Supplement"
+      ],
+      "title": "Matches Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Matches_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "Matchmaking Tool User's Guide"
+      ],
+      "title": "Matchmaking Tool User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Matchmaking_Tool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Matchmaking Web API Cross-Generation Supplement"
+      ],
+      "title": "Matchmaking Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Matchmaking_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Cryptography",
+        "Md5/Sha Hash Libraries Overview"
+      ],
+      "title": "Md5/Sha Hash Libraries Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Md5_Sha-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Cryptography",
+        "Md5/Sha Hash Libraries Reference"
+      ],
+      "title": "Md5/Sha Hash Libraries Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Md5_Sha-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "Memory Analyzer User's Guide"
+      ],
+      "title": "Memory Analyzer User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Memory_Analyzer-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "Metadata Tutorial"
+      ],
+      "title": "Metadata Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Metadata-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Mouse",
+        "Mouse Library Overview"
+      ],
+      "title": "Mouse Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Mouse-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Mouse",
+        "Mouse Library Reference"
+      ],
+      "title": "Mouse Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Mouse-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Message Dialog",
+        "MsgDialog Library Overview"
+      ],
+      "title": "MsgDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/MsgDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Message Dialog",
+        "MsgDialog Library Reference"
+      ],
+      "title": "MsgDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/MsgDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Random Numbers",
+        "Mt/Sfmt Pseudo Random Number Libraries Overview"
+      ],
+      "title": "Mt/Sfmt Pseudo Random Number Libraries Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Mt_Sfmt-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Random Numbers",
+        "Mt/Sfmt Pseudo Random Number Libraries Reference"
+      ],
+      "title": "Mt/Sfmt Pseudo Random Number Libraries Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Mt_Sfmt-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Low-Level Network Libraries",
+        "Net Library Overview"
+      ],
+      "title": "Net Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Net-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "Network",
+        "Net Library Cross-Generation Supplement"
+      ],
+      "title": "Net Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Net-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Low-Level Network Libraries",
+        "Net Library Reference"
+      ],
+      "title": "Net Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Net-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Network Connection",
+        "NetCtl Library Overview"
+      ],
+      "title": "NetCtl Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NetCtl-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "Network",
+        "NetCtl Library Cross-Generation Supplement"
+      ],
+      "title": "NetCtl Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NetCtl-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Network Connection",
+        "NetCtl Library Reference"
+      ],
+      "title": "NetCtl Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NetCtl-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Wi-Fi Access Point",
+        "NetCtlAp Library Overview"
+      ],
+      "title": "NetCtlAp Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NetCtlAp-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Wi-Fi Access Point",
+        "NetCtlAp Library Reference"
+      ],
+      "title": "NetCtlAp Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NetCtlAp-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Start Here",
+        "Network Overview"
+      ],
+      "title": "Network Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Network-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "Network",
+        "Network Overview Cross-Generation Supplement"
+      ],
+      "title": "Network Overview Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Network-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Synthesizer",
+        "Ngs2 Library Overview"
+      ],
+      "title": "Ngs2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ngs2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Synthesizer",
+        "Ngs2 Library Reference"
+      ],
+      "title": "Ngs2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ngs2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "Np Library Overview"
+      ],
+      "title": "Np Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Np-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Np Library Cross-Generation Supplement"
+      ],
+      "title": "Np Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Np-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "Np Library Reference"
+      ],
+      "title": "Np Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Np-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Authentication and Authorization",
+        "NpAuth Library Overview"
+      ],
+      "title": "NpAuth Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuth-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "NpAuth Library Cross-Generation Supplement"
+      ],
+      "title": "NpAuth Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuth-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Authentication and Authorization",
+        "NpAuth Library Reference"
+      ],
+      "title": "NpAuth Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuth-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Authentication and Authorization",
+        "NpAuthAuthorizedAppDialog Library Overview"
+      ],
+      "title": "NpAuthAuthorizedAppDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuthAuthorizedAppDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "NpAuthAuthorizedAppDialog Library Cross-Generation Supplement"
+      ],
+      "title": "NpAuthAuthorizedAppDialog Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuthAuthorizedAppDialog-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Authentication and Authorization",
+        "NpAuthAuthorizedAppDialog Library Reference"
+      ],
+      "title": "NpAuthAuthorizedAppDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuthAuthorizedAppDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Measuring Bandwidth",
+        "NpBandwidthTest Library Overview"
+      ],
+      "title": "NpBandwidthTest Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpBandwidthTest-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "NpBandwidthTest Library Cross-Generation Supplement"
+      ],
+      "title": "NpBandwidthTest Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpBandwidthTest-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Measuring Bandwidth",
+        "NpBandwidthTest Library Reference"
+      ],
+      "title": "NpBandwidthTest Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpBandwidthTest-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "NpCommerce Library Overview"
+      ],
+      "title": "NpCommerce Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCommerce-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "NpCommerce Library Reference"
+      ],
+      "title": "NpCommerce Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCommerce-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "NpCommerceDialog Library Overview"
+      ],
+      "title": "NpCommerceDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCommerceDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "NpCommerceDialog Library Reference"
+      ],
+      "title": "NpCommerceDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCommerceDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Core Libraries",
+        "NpCppWebApi Library Overview"
+      ],
+      "title": "NpCppWebApi Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCppWebApi-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "NpCppWebApi Library Cross-Generation Supplement"
+      ],
+      "title": "NpCppWebApi Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCppWebApi-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Core Libraries",
+        "NpCppWebApi Library Reference"
+      ],
+      "title": "NpCppWebApi Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCppWebApi-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Entitlements",
+        "NpEntitlementAccess Library Overview"
+      ],
+      "title": "NpEntitlementAccess Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "NpEntitlementAccess Library Cross-Generation Supplement"
+      ],
+      "title": "NpEntitlementAccess Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Entitlements",
+        "NpEntitlementAccess Library Reference"
+      ],
+      "title": "NpEntitlementAccess Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Game Intent",
+        "NpGameIntent Library Overview"
+      ],
+      "title": "NpGameIntent Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpGameIntent-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "NpGameIntent Library Cross-Generation Supplement"
+      ],
+      "title": "NpGameIntent Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpGameIntent-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Game Intent",
+        "NpGameIntent Library Reference"
+      ],
+      "title": "NpGameIntent Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpGameIntent-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Peer to Peer Communication",
+        "NpSessionSignaling Library Overview"
+      ],
+      "title": "NpSessionSignaling Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpSessionSignaling-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "NpSessionSignaling Library Cross-Generation Supplement"
+      ],
+      "title": "NpSessionSignaling Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpSessionSignaling-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Peer to Peer Communication",
+        "NpSessionSignaling Library Reference"
+      ],
+      "title": "NpSessionSignaling Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpSessionSignaling-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Trophies",
+        "NpTrophy2 Library Overview"
+      ],
+      "title": "NpTrophy2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpTrophy2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Trophies",
+        "NpTrophy2 Library Reference"
+      ],
+      "title": "NpTrophy2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpTrophy2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Universal Data System (UDS)",
+        "NpUniversalDataSystem Library Overview"
+      ],
+      "title": "NpUniversalDataSystem Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpUniversalDataSystem-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Universal Data System (UDS)",
+        "NpUniversalDataSystem Library Reference"
+      ],
+      "title": "NpUniversalDataSystem Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpUniversalDataSystem-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Core Libraries",
+        "NpWebApi2 Library Overview"
+      ],
+      "title": "NpWebApi2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpWebApi2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "NpWebApi2 Library Cross-Generation Supplement"
+      ],
+      "title": "NpWebApi2 Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpWebApi2-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Core Libraries",
+        "NpWebApi2 Library Reference"
+      ],
+      "title": "NpWebApi2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpWebApi2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Generating and Using Dynamic Libraries",
+        "PRX Programming Overview"
+      ],
+      "title": "PRX Programming Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PRX_Programming-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "PS4 Test Mode User's Guide"
+      ],
+      "title": "PS4 Test Mode User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PS4_Test_Mode-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Content Packaging and Updating",
+        "PlayStation®5 Packaging Troubleshooting"
+      ],
+      "title": "PlayStation®5 Packaging Troubleshooting",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PS5_Packaging-Troubleshooting/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Content Packaging and Updating",
+        "PlayStation®5 Packaging Tutorial"
+      ],
+      "title": "PlayStation®5 Packaging Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PS5_Packaging-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Tournaments",
+        "PlayStation®5 Tournaments Guide"
+      ],
+      "title": "PlayStation®5 Tournaments Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PS5_Tournaments-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Super Resolution",
+        "PSML MFSR Overview"
+      ],
+      "title": "PSML MFSR Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSML_MFSR-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Super Resolution",
+        "PSML Replay User's Guide"
+      ],
+      "title": "PSML Replay User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSML_Replay-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "PlayStation™Network Overview"
+      ],
+      "title": "PlayStation™Network Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Activities",
+        "PlayStation™Network Activities Guide"
+      ],
+      "title": "PlayStation™Network Activities Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Activities-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Activities",
+        "PlayStation™Network Challenge Activities Guide"
+      ],
+      "title": "PlayStation™Network Challenge Activities Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Challenge_Activities-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Cloud Streaming",
+        "PlayStation™Network Cloud Streaming Overview"
+      ],
+      "title": "PlayStation™Network Cloud Streaming Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Cloud_Streaming-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "PlayStation™Network Commerce Programming Guide"
+      ],
+      "title": "PlayStation™Network Commerce Programming Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Commerce-Programming_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "PlayStation™Network Commerce Platform Overview"
+      ],
+      "title": "PlayStation™Network Commerce Platform Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Commerce_Platform-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "PlayStation™Network Commerce Service Overview"
+      ],
+      "title": "PlayStation™Network Commerce Service Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Commerce_Service-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Game Help",
+        "PlayStation™Network Game Help Guide"
+      ],
+      "title": "PlayStation™Network Game Help Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Game_Help-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Game Hub",
+        "PlayStation™Network Game Hub Preview Application Overview"
+      ],
+      "title": "PlayStation™Network Game Hub Preview Application Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Game_Hub_Preview_Application-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "PlayStation™Network Multiplayer Best Practices"
+      ],
+      "title": "PlayStation™Network Multiplayer Best Practices",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Multiplayer_Best_Practices/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "PlayStation™Network Multiplayer Platform Concept Overview"
+      ],
+      "title": "PlayStation™Network Multiplayer Platform Concept Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Multiplayer_Platform_Concept-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "PlayStation™Network Service Setup Guide"
+      ],
+      "title": "PlayStation™Network Service Setup Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Service_Setup-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "PlayStation™Network Service Setup Guide - Cross-Generation Supplement"
+      ],
+      "title": "PlayStation™Network Service Setup Guide - Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Service_Setup_Guide-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Tournaments",
+        "PlayStation™Network Tournaments System Overview"
+      ],
+      "title": "PlayStation™Network Tournaments System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Tournaments_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "PlayStation™Network Web APIs Overview - Cross-Generation Supplement"
+      ],
+      "title": "PlayStation™Network Web APIs Overview - Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_WebAPI-Overview-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "PlayStation™Network Web APIs Overview"
+      ],
+      "title": "PlayStation™Network Web APIs Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "PSSL Standard Library Reference"
+      ],
+      "title": "PSSL Standard Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSSL_Standard-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "Package/Disc Management Tool (GEMS) Overview"
+      ],
+      "title": "Package/Disc Management Tool (GEMS) Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Package_Disc_Management_Tool_GEMS-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "Package/Disc Management Web API Overview"
+      ],
+      "title": "Package/Disc Management Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Package_Disc_Management_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "Package/Disc Management Web API Reference"
+      ],
+      "title": "Package/Disc Management Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Package_Disc_Management_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "Publishing",
+        "Package Generator User's Guide Cross-Generation Supplement"
+      ],
+      "title": "Package Generator User's Guide Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Package_Generator-Users_Guide-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "Pad Library Overview"
+      ],
+      "title": "Pad Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Pad-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "Pad Library Reference"
+      ],
+      "title": "Pad Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Pad-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "Pad Library Overview (Supplement for the PlayStation VR2 Sense™ Controller)"
+      ],
+      "title": "Pad Library Overview (Supplement for the PlayStation VR2 Sense™ Controller)",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Pad_VR_Controller-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "Pad Library Reference (Supplement for the PlayStation VR2 Sense™ Controller)"
+      ],
+      "title": "Pad Library Reference (Supplement for the PlayStation VR2 Sense™ Controller)",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Pad_VR_Controller-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "Pad Library for Windows Overview"
+      ],
+      "title": "Pad Library for Windows Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Pad_for_Windows-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "Pad Library for Windows Reference (Windows Dedicated API Supplement)"
+      ],
+      "title": "Pad Library for Windows Reference (Windows Dedicated API Supplement)",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Pad_for_Windows-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "Param Editor User's Guide"
+      ],
+      "title": "Param Editor User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Param_Editor-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "Param.json File Specification"
+      ],
+      "title": "Param.json File Specification",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Param_Json-Specification/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Perf Library Overview"
+      ],
+      "title": "Perf Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Perf-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Perf Library Reference"
+      ],
+      "title": "Perf Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Perf-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Performance Overlay User's Guide"
+      ],
+      "title": "Performance Overlay User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PerformanceOverlay-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Data Compression Tools",
+        "Pfs Library Overview"
+      ],
+      "title": "Pfs Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Pfs-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Data Compression Tools",
+        "Pfs Library Reference"
+      ],
+      "title": "Pfs Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Pfs-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "PlayGo (Background Installation)",
+        "PlayGo Library Overview"
+      ],
+      "title": "PlayGo Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayGo-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "PlayGo (Background Installation)",
+        "PlayGo Library Reference"
+      ],
+      "title": "PlayGo Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayGo-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "PlayGo (Background Installation)",
+        "PlayGoDialog Library Overview"
+      ],
+      "title": "PlayGoDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayGoDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "PlayGo (Background Installation)",
+        "PlayGoDialog Library Reference"
+      ],
+      "title": "PlayGoDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayGoDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "PlayStation™Store Content Guidelines"
+      ],
+      "title": "PlayStation™Store Content Guidelines",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_Store_Content-Guidelines/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "PlayStation®VR2 Application Demo User's Guide"
+      ],
+      "title": "PlayStation®VR2 Application Demo User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_VR2_Application_Demo-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "PlayStation®VR2 Demo Guidelines"
+      ],
+      "title": "PlayStation®VR2 Demo Guidelines",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_VR2_Demo-Guidelines/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "PlayStation®VR2 Demo Support App User's Guide"
+      ],
+      "title": "PlayStation®VR2 Demo Support App User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_VR2_DemoSupportApp-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "PlayerInvitationDialog Library Overview"
+      ],
+      "title": "PlayerInvitationDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerInvitationDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "PlayerInvitationDialog Library Cross-Generation Supplement"
+      ],
+      "title": "PlayerInvitationDialog Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerInvitationDialog-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "PlayerInvitationDialog Library Reference"
+      ],
+      "title": "PlayerInvitationDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerInvitationDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "PlayerSelectionDialog Library Overview"
+      ],
+      "title": "PlayerSelectionDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerSelectionDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "PlayerSelectionDialog Library Reference"
+      ],
+      "title": "PlayerSelectionDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerSelectionDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Image Codec",
+        "PngDec Library Overview"
+      ],
+      "title": "PngDec Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PngDec-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Image Codec",
+        "PngDec Library Reference"
+      ],
+      "title": "PngDec Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PngDec-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Image Codec",
+        "PngEnc Library Overview"
+      ],
+      "title": "PngEnc Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PngEnc-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Image Codec",
+        "PngEnc Library Reference"
+      ],
+      "title": "PngEnc Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PngEnc-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Post-Processing",
+        "Post-processing Tutorial"
+      ],
+      "title": "Post-processing Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Post_Processing-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Feature Gating",
+        "Premium Feature Gating Tutorial"
+      ],
+      "title": "Premium Feature Gating Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Premium_Feature_Gating-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "TRC and Guidelines",
+        "Guidelines",
+        "Premium Features Guidelines"
+      ],
+      "title": "Premium Features Guidelines",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Premium_Features_Guidelines/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Profanity Filter Web API Cross-Generation Supplement"
+      ],
+      "title": "Profanity Filter Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Profanity_Filter_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "Profile Guided Optimization (PGO) Overview"
+      ],
+      "title": "Profile Guided Optimization (PGO) Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Profile_Guided_Optimization-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Programming Basics",
+        "Programming Startup Guide"
+      ],
+      "title": "Programming Startup Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Programming-Startup_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Propagation",
+        "Propagation 3DAudio Tutorial"
+      ],
+      "title": "Propagation 3DAudio Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Propagation_3DAudio-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Voice Chat",
+        "ProprietaryVoiceChatHelper Library Overview"
+      ],
+      "title": "ProprietaryVoiceChatHelper Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ProprietaryVoiceChatHelper-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Voice Chat",
+        "ProprietaryVoiceChatHelper Library Reference"
+      ],
+      "title": "ProprietaryVoiceChatHelper Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ProprietaryVoiceChatHelper-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Super Resolution",
+        "Psml Library Reference"
+      ],
+      "title": "Psml Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Psml-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Ray Tracing",
+        "Psr Library Reference"
+      ],
+      "title": "Psr Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Psr-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "Publishing Tools Overview"
+      ],
+      "title": "Publishing Tools Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Publishing_Tools-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "Publishing",
+        "Publishing Tools Command Line Version User's Guide Cross-Generation Supplement"
+      ],
+      "title": "Publishing Tools Command Line Version User's Guide Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Publishing_Tools_CL-Users_Guide-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "Publishing Tools Command Line Version User's Guide"
+      ],
+      "title": "Publishing Tools Command Line Version User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Publishing_Tools_CL-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Publishing",
+        "Publishing Tools",
+        "Publishing Tools GUI User's Guide"
+      ],
+      "title": "Publishing Tools GUI User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Publishing_Tools_GUI-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Random Numbers",
+        "Random Library Overview"
+      ],
+      "title": "Random Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Random-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Random Numbers",
+        "Random Library Reference"
+      ],
+      "title": "Random Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Random-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Ray Tracing",
+        "Ray Tracing Programming Guide"
+      ],
+      "title": "Ray Tracing Programming Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ray_Tracing-Programming_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "RazorCPU Library Reference"
+      ],
+      "title": "RazorCPU Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/RazorCPU-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Razor CPU User's Guide"
+      ],
+      "title": "Razor CPU User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Razor_CPU-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Razor CPU Command Line Reference"
+      ],
+      "title": "Razor CPU Command Line Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Razor_CPU_CmdLine-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Razor Export Schema Reference"
+      ],
+      "title": "Razor Export Schema Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Razor_CPU_Export_Schema-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Analysis and Debugging",
+        "Razor GPU User's Guide"
+      ],
+      "title": "Razor GPU User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Razor_GPU-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Razor CPU Live User's Guide"
+      ],
+      "title": "Razor CPU Live User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Razor_Live-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Release Information",
+        "Release Notes",
+        "Release Notes"
+      ],
+      "title": "Release Notes",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ReleaseNotes/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Target Management UI Applications",
+        "Remote Viewer User's Guide"
+      ],
+      "title": "Remote Viewer User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Remote_Viewer-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Target Management UI Applications",
+        "Remote Viewer Server API Overview"
+      ],
+      "title": "Remote Viewer Server API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Remote_Viewer_Server_API-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Target Management UI Applications",
+        "Remote Viewer Server API Reference"
+      ],
+      "title": "Remote Viewer Server API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Remote_Viewer_Server_API-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Remote Play",
+        "Remoteplay Library Overview"
+      ],
+      "title": "Remoteplay Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Remoteplay-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Remote Play",
+        "Remoteplay Library Reference"
+      ],
+      "title": "Remoteplay Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Remoteplay-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "RTC (Real Time Clock)",
+        "Rtc Library Overview"
+      ],
+      "title": "Rtc Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Rtc-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "RTC (Real Time Clock)",
+        "Rtc Library Reference"
+      ],
+      "title": "Rtc Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Rtc-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "RUDP",
+        "Rudp Library Overview"
+      ],
+      "title": "Rudp Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Rudp-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "RUDP",
+        "Rudp Library Reference"
+      ],
+      "title": "Rudp Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Rudp-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "Shader Compiler User Interface (SCUI) User's Guide"
+      ],
+      "title": "Shader Compiler User Interface (SCUI) User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SCUI-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "SIE AAC Format Specification"
+      ],
+      "title": "SIE AAC Format Specification",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SIE_AAC_Format-Specification/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "SIE Opus Format Specification"
+      ],
+      "title": "SIE Opus Format Specification",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SIE_Opus_Format-Specification/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.5.2"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.5.2",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_5_2/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.5.4"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.5.4",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_5_4/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.5.6"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.5.6",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_5_6/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.5.8"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.5.8",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_5_8/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.6.0"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.6.0",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_6_0/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.6.10"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.6.10",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_6_10/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.6.4"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.6.4",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_6_4/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.6.6"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.6.6",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_6_6/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Distributed Build System",
+        "SN-DBS (Distributed Build System) v2.6.8"
+      ],
+      "title": "SN-DBS (Distributed Build System) v2.6.8",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SN-DBS_2_6_8/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Programming Basics",
+        "Sample Program Overview"
+      ],
+      "title": "Sample Program Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sample-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Sanitizers Overview"
+      ],
+      "title": "Sanitizers Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sanitizers-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Sanitizers Library Reference"
+      ],
+      "title": "Sanitizers Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sanitizers-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Save Data",
+        "SaveData Library Overview"
+      ],
+      "title": "SaveData Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SaveData-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Save Data",
+        "SaveData Library Reference"
+      ],
+      "title": "SaveData Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SaveData-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Save Data",
+        "SaveDataDialog Library Overview"
+      ],
+      "title": "SaveDataDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SaveDataDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Save Data",
+        "SaveDataDialog Library Reference"
+      ],
+      "title": "SaveDataDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SaveDataDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Datatype Definition",
+        "SceBase Library Overview"
+      ],
+      "title": "SceBase Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SceBase-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Datatype Definition",
+        "SceBase Library Reference"
+      ],
+      "title": "SceBase Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SceBase-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Scream Library Overview"
+      ],
+      "title": "Scream Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Scream Library Reference"
+      ],
+      "title": "Scream Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Scream Sound Designers Guide"
+      ],
+      "title": "Scream Sound Designers Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream-Sound_Designers_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Scream Audio Glossary"
+      ],
+      "title": "Scream Audio Glossary",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream_Audio-Glossary/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Scream BankMerge/Build Utility Users Guide"
+      ],
+      "title": "Scream BankMerge/Build Utility Users Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream_BankMerge_Build-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "IRPackTool Utility Users Guide"
+      ],
+      "title": "IRPackTool Utility Users Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream_Irpack_Utility-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Scream Tool Getting Started"
+      ],
+      "title": "Scream Tool Getting Started",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream_Tool-Getting_Started_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Scream Tool Installation Guide"
+      ],
+      "title": "Scream Tool Installation Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream_Tool-Installation_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Scream Tool Users Guide"
+      ],
+      "title": "Scream Tool Users Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Scream_Tool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Screamserver Library Reference"
+      ],
+      "title": "Screamserver Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Screamserver-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Target Management UI Applications",
+        "Screen Capture User's Guide"
+      ],
+      "title": "Screen Capture User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Screen_Capture-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Crash Reporting",
+        "Self-managed Recap User's Guide"
+      ],
+      "title": "Self-managed Recap User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Self_managed_Recap-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Session Manager Cross-Generation Supplement"
+      ],
+      "title": "Session Manager Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Session_Manager-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "Session Manager Service Overview"
+      ],
+      "title": "Session Manager Service Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Session_Manager_Service-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "ShaderLiveEditing Library Overview"
+      ],
+      "title": "ShaderLiveEditing Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ShaderLiveEditing-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "ShaderLiveEditing Library Reference"
+      ],
+      "title": "ShaderLiveEditing Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ShaderLiveEditing-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "ShaderLiveEditing Host API Overview"
+      ],
+      "title": "ShaderLiveEditing Host API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ShaderLiveEditingHost-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "ShaderLiveEditing Host API Reference"
+      ],
+      "title": "ShaderLiveEditing Host API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ShaderLiveEditingHost-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Analysis and Debugging",
+        "Shader Debugger User's Guide"
+      ],
+      "title": "Shader Debugger User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Shader_Debugger-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "Shader Programming User's Guide"
+      ],
+      "title": "Shader Programming User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Shader_Programming-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "Shader Reflection Library Overview"
+      ],
+      "title": "Shader Reflection Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Shader_Reflection-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Shaders",
+        "Shader Reflection Library Reference"
+      ],
+      "title": "Shader Reflection Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Shader_Reflection-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Sharing Content",
+        "Share Library Overview"
+      ],
+      "title": "Share Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Share-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Sharing Content",
+        "Share Library Reference"
+      ],
+      "title": "Share Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Share-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Share Play",
+        "SharePlay Library Overview"
+      ],
+      "title": "SharePlay Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SharePlay-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "Share Play",
+        "SharePlay Library Reference"
+      ],
+      "title": "SharePlay Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SharePlay-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Sharing Content",
+        "Share System Overview"
+      ],
+      "title": "Share System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Share_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Signin",
+        "SigninDialog Library Overview"
+      ],
+      "title": "SigninDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SigninDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Signin",
+        "SigninDialog Library Reference"
+      ],
+      "title": "SigninDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SigninDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Sndstream Library Overview"
+      ],
+      "title": "Sndstream Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sndstream-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Sndstream Library Reference"
+      ],
+      "title": "Sndstream Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sndstream-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Sndz Library Overview"
+      ],
+      "title": "Sndz Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sndz-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Sndz Library Reference"
+      ],
+      "title": "Sndz Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sndz-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "SndzConverter User's Guide"
+      ],
+      "title": "SndzConverter User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SndzConverter-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "SndzTool User's Guide"
+      ],
+      "title": "SndzTool User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SndzTool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "SndzViewer User's Guide"
+      ],
+      "title": "SndzViewer User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SndzViewer-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Integrated Sound Middleware",
+        "Sndz System Overview"
+      ],
+      "title": "Sndz System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sndz_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "SSL",
+        "Ssl Library Overview"
+      ],
+      "title": "Ssl Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ssl-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Network",
+        "SSL",
+        "Ssl Library Reference"
+      ],
+      "title": "Ssl Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ssl-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Compiling, Linking and Building",
+        "Static Analyzer Reference"
+      ],
+      "title": "Static Analyzer Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Static_Analyzer-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Analysis and Debugging",
+        "Sulpha Library Overview"
+      ],
+      "title": "Sulpha Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sulpha-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Analysis and Debugging",
+        "Sulpha Library Reference"
+      ],
+      "title": "Sulpha Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sulpha-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Analysis and Debugging",
+        "Sulpha Tool User's Guide"
+      ],
+      "title": "Sulpha Tool User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sulpha_Tool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Super Resolution",
+        "Super Resolution Tutorial"
+      ],
+      "title": "Super Resolution Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Super_Resolution-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Symbol Server for PlayStation® Platforms User's Guide"
+      ],
+      "title": "Symbol Server for PlayStation® Platforms User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Symbol_Server_for_PlayStation_Platforms-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Generating and Using Dynamic Libraries",
+        "Sysmodule Library Overview"
+      ],
+      "title": "Sysmodule Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sysmodule-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "System",
+        "Sysmodule Library Cross-Generation Supplement"
+      ],
+      "title": "Sysmodule Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sysmodule-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Generating and Using Dynamic Libraries",
+        "Sysmodule Library Reference"
+      ],
+      "title": "Sysmodule Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Sysmodule-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "SystemGesture Library Overview"
+      ],
+      "title": "SystemGesture Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SystemGesture-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "SystemGesture Library Reference"
+      ],
+      "title": "SystemGesture Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SystemGesture-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "System Service",
+        "SystemService Library Overview"
+      ],
+      "title": "SystemService Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SystemService-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "System Service",
+        "SystemService Library Reference"
+      ],
+      "title": "SystemService Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SystemService-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "System Requirements"
+      ],
+      "title": "System Requirements",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Requirements/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "System Software",
+        "System Software Overview"
+      ],
+      "title": "System Software Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "Start Here",
+        "System Software Cross-Generation Supplement"
+      ],
+      "title": "System Software Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "System Software",
+        "System Software User's Guide (Application Development Support)"
+      ],
+      "title": "System Software User's Guide (Application Development Support)",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Users_Guide_for_Development_Support/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "System Software",
+        "System Software User's Guide (Main Screens)"
+      ],
+      "title": "System Software User's Guide (Main Screens)",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Users_Guide_for_Main_Screens/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "System Software",
+        "System Software User's Guide (Settings)"
+      ],
+      "title": "System Software User's Guide (Settings)",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Users_Guide_for_Settings/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Title Cloud Storage (TCS)",
+        "TCS Cross-Platform Data Sharing Demo Overview"
+      ],
+      "title": "TCS Cross-Platform Data Sharing Demo Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TCS_Cross_Data_Transfer_Demo-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "TCS Cross-Platform Data Sharing Demo Cross-Generation Supplement"
+      ],
+      "title": "TCS Cross-Platform Data Sharing Demo Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TCS_Cross_Data_Transfer_Demo-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Title Cloud Storage Management Web API Cross-Generation Supplement"
+      ],
+      "title": "Title Cloud Storage Management Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TCS_Management_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Title Cloud Storage Web API Cross-Generation Supplement"
+      ],
+      "title": "Title Cloud Storage Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TCS_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Target Management Applications UI Overview"
+      ],
+      "title": "Target Management Applications UI Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TM_Applications_UI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "PlayStation®5 Pro",
+        "PlayStation®5 Pro Technical Overview"
+      ],
+      "title": "PlayStation®5 Pro Technical Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/T_Technical-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Communication Between a Target and a Host PC",
+        "Target Manager API Overview"
+      ],
+      "title": "Target Manager API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_API-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Communication Between a Target and a Host PC",
+        "Target Manager API Reference"
+      ],
+      "title": "Target Manager API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_API-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Target Manager CLI User's Guide"
+      ],
+      "title": "Target Manager CLI User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Target Management",
+        "Communication Between a Target and a Host PC",
+        "Target Manager C-API Reference"
+      ],
+      "title": "Target Manager C-API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_C_API-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Target Manager GUI User's Guide"
+      ],
+      "title": "Target Manager GUI User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_GUI-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Target Settings Application User's Guide"
+      ],
+      "title": "Target Settings Application User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Settings_Application-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Target Settings Application User's Guide for Development Kit/Testing Kit Configuration"
+      ],
+      "title": "Target Settings Application User's Guide for Development Kit/Testing Kit Configuration",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Settings_Application-Users_Guide_for_DevKit_TestKit_Configuration/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "TRC and Guidelines",
+        "Technical Requirements Checklist for PlayStation®5 Cross-Generation Supplement"
+      ],
+      "title": "Technical Requirements Checklist for PlayStation®5 Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Technical_Requirements_Checklist-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Testing Kit Setup Guide"
+      ],
+      "title": "Testing Kit Setup Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TestKit-Setup_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Accessibility",
+        "TextToSpeech2 Library Overview"
+      ],
+      "title": "TextToSpeech2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TextToSpeech2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Accessibility",
+        "TextToSpeech2 Library Reference"
+      ],
+      "title": "TextToSpeech2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TextToSpeech2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Textures",
+        "TexturePrep Library Overview"
+      ],
+      "title": "TexturePrep Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TexturePrep-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Textures",
+        "TexturePrep Library Reference"
+      ],
+      "title": "TexturePrep Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TexturePrep-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Textures",
+        "Texture Streaming Tutorial"
+      ],
+      "title": "Texture Streaming Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Texture_Streaming-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "GPU Programming",
+        "Tile-Based Deferred Rendering Tutorial"
+      ],
+      "title": "Tile-Based Deferred Rendering Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Tile_Based_Deferred_Rendering-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "File Handling and Memory",
+        "Tool Memory Overview"
+      ],
+      "title": "Tool Memory Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Tool_Memory-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "Trigger Effect and Vibration Tutorial"
+      ],
+      "title": "Trigger Effect and Vibration Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Trigger_Effect_And_Vibration-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "PlayStation®5 Pro",
+        "PlayStation®5 Pro FAQ"
+      ],
+      "title": "PlayStation®5 Pro FAQ",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Trinity-FAQ/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Trophies",
+        "Trophy System Overview"
+      ],
+      "title": "Trophy System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Analysis and Debugging",
+        "Type Visualizer for PlayStation® Platforms API Reference"
+      ],
+      "title": "Type Visualizer for PlayStation® Platforms API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Type_Visualizer_for_PlayStation_Platforms_API-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Multitasking",
+        "Ult Library Overview"
+      ],
+      "title": "Ult Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ult-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Multitasking",
+        "Ult Library Reference"
+      ],
+      "title": "Ult Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Ult-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Universal Data System (UDS)",
+        "Universal Data System Guide"
+      ],
+      "title": "Universal Data System Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Universal_Data_System-Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "Unreal® Engine and PlayStation®VR2 Programming Guide"
+      ],
+      "title": "Unreal® Engine and PlayStation®VR2 Programming Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Unreal_Engine_PSVR2-Programming_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "User Management",
+        "UserService Library Overview"
+      ],
+      "title": "UserService Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/UserService-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "User Management",
+        "UserService Library Reference"
+      ],
+      "title": "UserService Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/UserService-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "User Management",
+        "User Management Overview"
+      ],
+      "title": "User Management Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/User_Management-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "User Profile Web API Cross-Generation Supplement"
+      ],
+      "title": "User Profile Web API Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/User_Profile_WebAPI-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "VAG Converter 2 Library for PC Overview"
+      ],
+      "title": "VAG Converter 2 Library for PC Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VAG_Converter2-DLL-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "VAG Converter 2 Library for PC Reference"
+      ],
+      "title": "VAG Converter 2 Library for PC Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VAG_Converter2-DLL-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "VAG Converter 2 Tools User's Guide"
+      ],
+      "title": "VAG Converter 2 Tools User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VAG_Converter2_Tools-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VR Tutorial"
+      ],
+      "title": "VR Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VR-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "PlayStation VR2 Sense™ Controller Hand Interaction Tutorial"
+      ],
+      "title": "PlayStation VR2 Sense™ Controller Hand Interaction Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VR_Controller_Hand_Interaction-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VR Headset Vibration Demo Overview"
+      ],
+      "title": "VR Headset Vibration Demo Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VR_Headset_Vibration_Demo-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VR Stereoscopic Design Guide"
+      ],
+      "title": "VR Stereoscopic Design Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VR_Stereoscopic-Design_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VR Trace User's Guide"
+      ],
+      "title": "VR Trace User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VR_Trace-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Video Codec",
+        "Vdecsw Library Overview"
+      ],
+      "title": "Vdecsw Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Vdecsw-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Video Codec",
+        "Vdecsw Library Reference"
+      ],
+      "title": "Vdecsw Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Vdecsw-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Vector Operation",
+        "Vectormath Library Overview"
+      ],
+      "title": "Vectormath Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Vectormath-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Vector Operation",
+        "Vectormath Library Reference"
+      ],
+      "title": "Vectormath Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Vectormath-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "Vibration Designer User's Guide"
+      ],
+      "title": "Vibration Designer User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Vibration_Designer-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "Vibration Designer for Multi-track User's Guide"
+      ],
+      "title": "Vibration Designer for Multi-track User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Vibration_Designer_for_Multi_Track-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "VideoOut",
+        "VideoOut Library Overview"
+      ],
+      "title": "VideoOut Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VideoOut-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "VideoOut",
+        "VideoOut Library Reference"
+      ],
+      "title": "VideoOut Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VideoOut-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "VideoOut",
+        "VideoOut Overlays Sample"
+      ],
+      "title": "VideoOut Overlays Sample",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VideoOut_Overlays-Sample/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Sharing Content",
+        "VideoRecording Library Overview"
+      ],
+      "title": "VideoRecording Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VideoRecording-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Sharing Content",
+        "VideoRecording Library Reference"
+      ],
+      "title": "VideoRecording Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VideoRecording-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Video Player",
+        "Video Data Encoding Tutorial"
+      ],
+      "title": "Video Data Encoding Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Video_Data_Encoding-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Video Codec",
+        "Videodec2 Library Overview"
+      ],
+      "title": "Videodec2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Videodec2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Video Codec",
+        "Videodec2 Library Reference"
+      ],
+      "title": "Videodec2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Videodec2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "Virtual Currency Tutorial"
+      ],
+      "title": "Virtual Currency Tutorial",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Virtual_Currency-Tutorial/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "PlayStation®VR2 Design Guide"
+      ],
+      "title": "PlayStation®VR2 Design Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Virtual_Reality_Design_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "Virtual Reality System Overview"
+      ],
+      "title": "Virtual Reality System Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Virtual_Reality_System-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Visual Studio Integration for PlayStation®5 User's Guide"
+      ],
+      "title": "Visual Studio Integration for PlayStation®5 User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Voice Chat",
+        "Voice Library Overview"
+      ],
+      "title": "Voice Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Voice-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Voice Chat",
+        "Voice Library Reference"
+      ],
+      "title": "Voice Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Voice-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Voice Chat",
+        "VoiceChat Library Overview"
+      ],
+      "title": "VoiceChat Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VoiceChat-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Voice Chat",
+        "VoiceChat Library Reference"
+      ],
+      "title": "VoiceChat Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VoiceChat-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Voice Chat",
+        "VoiceQoS Library Overview"
+      ],
+      "title": "VoiceQoS Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VoiceQoS-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Voice Chat",
+        "VoiceQoS Library Reference"
+      ],
+      "title": "VoiceQoS Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VoiceQoS-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VrHand Library Overview"
+      ],
+      "title": "VrHand Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VrHand-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VrHand Library Reference"
+      ],
+      "title": "VrHand Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VrHand-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VrSetupDialog Library Overview"
+      ],
+      "title": "VrSetupDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VrSetupDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VrSetupDialog Library Reference"
+      ],
+      "title": "VrSetupDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VrSetupDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VrTracker2 Library Overview"
+      ],
+      "title": "VrTracker2 Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VrTracker2-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Virtual Reality",
+        "VrTracker2 Library Reference"
+      ],
+      "title": "VrTracker2 Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VrTracker2-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Web Browsing",
+        "WebBrowserDialog Library Overview"
+      ],
+      "title": "WebBrowserDialog Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/WebBrowserDialog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "System",
+        "WebBrowserDialog Library Cross-Generation Supplement"
+      ],
+      "title": "WebBrowserDialog Library Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/WebBrowserDialog-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Web Browsing",
+        "WebBrowserDialog Library Reference"
+      ],
+      "title": "WebBrowserDialog Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/WebBrowserDialog-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation®4 Cross-Generation SDK",
+        "PlayStation™Network",
+        "Web API Tracer User's Guide Cross-Generation Supplement"
+      ],
+      "title": "Web API Tracer User's Guide Cross-Generation Supplement",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Web_API_Tracer-Users_Guide-PS4CrossGen_Supplement/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "Web API Tracer User's Guide"
+      ],
+      "title": "Web API Tracer User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Web_API_Tracer-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Web Browsing",
+        "Web Browser Engine Specification"
+      ],
+      "title": "Web Browser Engine Specification",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Web_Browser_Engine-Specification/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Web Browsing",
+        "Web Inspector User's Guide"
+      ],
+      "title": "Web Inspector User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Web_Inspector-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Release Information",
+        "What's New in LLVM",
+        "What's New in LLVM 17.0"
+      ],
+      "title": "What's New in LLVM 17.0",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Whats_New_in_LLVM_17_0/__toc.html"
+    },
+    {
+      "category_path": [
+        "Release Information",
+        "What's New in LLVM",
+        "What's New in LLVM 18"
+      ],
+      "title": "What's New in LLVM 18",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Whats_New_in_LLVM_18/__toc.html"
+    },
+    {
+      "category_path": [
+        "Release Information",
+        "What's New in LLVM",
+        "What's New in LLVM 19"
+      ],
+      "title": "What's New in LLVM 19",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Whats_New_in_LLVM_19/__toc.html"
+    },
+    {
+      "category_path": [
+        "Release Information",
+        "What's New in LLVM",
+        "What's New in LLVM 20"
+      ],
+      "title": "What's New in LLVM 20",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Whats_New_in_LLVM_20/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Workspace Explorer User's Guide"
+      ],
+      "title": "Workspace Explorer User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Workspace",
+        "Workspace Library Overview"
+      ],
+      "title": "Workspace Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Library-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Workspace",
+        "Workspace Library Reference"
+      ],
+      "title": "Workspace Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Library-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Workspace Plugins Reference"
+      ],
+      "title": "Workspace Plugins Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Plugins-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Getting Started",
+        "Development Environment",
+        "Workspaces Overview"
+      ],
+      "title": "Workspaces Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Xml",
+        "Xml Library Overview"
+      ],
+      "title": "Xml Library Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Xml-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "System",
+        "Xml",
+        "Xml Library Reference"
+      ],
+      "title": "Xml Library Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Xml-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "at9sample User's Guide"
+      ],
+      "title": "at9sample User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/at9sample-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "at9tool User's Guide"
+      ],
+      "title": "at9tool User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/at9tool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "libScePad_static for PC Games Overview"
+      ],
+      "title": "libScePad_static for PC Games Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/libScePad_static_for_PC_Games-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Input/Output Devices",
+        "Controller",
+        "libScePad_static for PC Games Reference (Windows Dedicated API Supplement)"
+      ],
+      "title": "libScePad_static for PC Games Reference (Windows Dedicated API Supplement)",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/libScePad_static_for_PC_Games-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "Graphics",
+        "Analysis and Debugging",
+        "prospero-gpu-coreviewer Overview"
+      ],
+      "title": "prospero-gpu-coreviewer Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/prospero-gpu-coreviewer-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "sieAACFormatTool User's Guide"
+      ],
+      "title": "sieAACFormatTool User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/sieAACFormatTool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "Audio/Video",
+        "Audio Codec",
+        "sieOpusFormatTool User's Guide"
+      ],
+      "title": "sieOpusFormatTool User's Guide",
+      "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/sieOpusFormatTool-Users_Guide/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "Account Closure Overview"
+      ],
+      "title": "Account Closure Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Account_Closure-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "Account Closure Web API Reference"
+      ],
+      "title": "Account Closure Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Account_Closure_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Activities",
+        "Active Activities Web API Overview"
+      ],
+      "title": "Active Activities Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Active_Activities_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Activities",
+        "Active Activities Web API Reference"
+      ],
+      "title": "Active Activities Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Active_Activities_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "Advanced Player Profile Management Web API Reference"
+      ],
+      "title": "Advanced Player Profile Management Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Advanced_Player_Profile_Management_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "Advanced Player Profile Web API Reference"
+      ],
+      "title": "Advanced Player Profile Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Advanced_Player_Profile_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Authentication and Authorization",
+        "Auth Web API Overview"
+      ],
+      "title": "Auth Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Authentication and Authorization",
+        "Auth Web API Reference"
+      ],
+      "title": "Auth Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Authentication and Authorization",
+        "Authentication Features for Websites Overview"
+      ],
+      "title": "Authentication Features for Websites Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_for_Websites-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Authentication and Authorization",
+        "Authentication Features for Websites Reference"
+      ],
+      "title": "Authentication Features for Websites Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_for_Websites-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Entitlements",
+        "Commerce Management Web API Overview"
+      ],
+      "title": "Commerce Management Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Commerce_Management_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Entitlements",
+        "Commerce Management Web API Reference"
+      ],
+      "title": "Commerce Management Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Commerce_Management_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Online Safety",
+        "Communication Restriction Status Web API Overview"
+      ],
+      "title": "Communication Restriction Status Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Communication_Restriction_Status_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Online Safety",
+        "Communication Restriction Status Web API Reference"
+      ],
+      "title": "Communication Restriction Status Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Communication_Restriction_Status_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Entitlements",
+        "Entitlements Overview"
+      ],
+      "title": "Entitlements Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Entitlements-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Entitlements",
+        "Entitlements Web API Reference"
+      ],
+      "title": "Entitlements Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Entitlements_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "ID Mapper Web API Overview"
+      ],
+      "title": "ID Mapper Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/ID_Mapper_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "ID Mapper Web API Reference"
+      ],
+      "title": "ID Mapper Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/ID_Mapper_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "In-Game Catalog Overview"
+      ],
+      "title": "In-Game Catalog Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/In_Game_Catalog-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "PlayStation™Store",
+        "In-Game Catalog Web API Reference"
+      ],
+      "title": "In-Game Catalog Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/In_Game_Catalog_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Leaderboards",
+        "Leaderboards Overview"
+      ],
+      "title": "Leaderboards Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Leaderboards-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Leaderboards",
+        "Leaderboards Management Web API Overview"
+      ],
+      "title": "Leaderboards Management Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Leaderboards_Management_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Leaderboards",
+        "Leaderboards Management Web API Reference"
+      ],
+      "title": "Leaderboards Management Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Leaderboards_Management_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Leaderboards",
+        "Leaderboards Web API Reference"
+      ],
+      "title": "Leaderboards Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Leaderboards_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "Matches Web API Overview"
+      ],
+      "title": "Matches Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Matches_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "Matches Web API Reference"
+      ],
+      "title": "Matches Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Matches_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "Matchmaking Overview"
+      ],
+      "title": "Matchmaking Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Matchmaking-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "Matchmaking Web API Reference"
+      ],
+      "title": "Matchmaking Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Matchmaking_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Online Safety",
+        "Profanity Filter Web API Overview"
+      ],
+      "title": "Profanity Filter Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Profanity_Filter_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Online Safety",
+        "Profanity Filter Web API Reference"
+      ],
+      "title": "Profanity Filter Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Profanity_Filter_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "Sandbox Management Web API Overview"
+      ],
+      "title": "Sandbox Management Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Sandbox_Management_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Start Here",
+        "Sandbox Management Web API Reference"
+      ],
+      "title": "Sandbox Management Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Sandbox_Management_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "Session Manager Web API Overview"
+      ],
+      "title": "Session Manager Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Session_Manager_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Session Manager (Sessions, Invitations, Matches, Matchmaking)",
+        "Session Manager Web API Reference"
+      ],
+      "title": "Session Manager Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Session_Manager_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Entitlements",
+        "Subscription Status Web API Overview"
+      ],
+      "title": "Subscription Status Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Subscription_Status_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Entitlements",
+        "Subscription Status Web API Reference"
+      ],
+      "title": "Subscription Status Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Subscription_Status_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Title Cloud Storage (TCS)",
+        "Title Cloud Storage Service Overview"
+      ],
+      "title": "Title Cloud Storage Service Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/TCS-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Title Cloud Storage (TCS)",
+        "Title Cloud Storage Management Web API Overview"
+      ],
+      "title": "Title Cloud Storage Management Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/TCS_Management_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Title Cloud Storage (TCS)",
+        "Title Cloud Storage Management Web API Reference"
+      ],
+      "title": "Title Cloud Storage Management Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/TCS_Management_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Title Cloud Storage (TCS)",
+        "Title Cloud Storage Web API Reference"
+      ],
+      "title": "Title Cloud Storage Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/TCS_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Trophies",
+        "Trophy2 Web API Overview"
+      ],
+      "title": "Trophy2 Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Trophy2_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Trophies",
+        "Trophy2 Web API Reference"
+      ],
+      "title": "Trophy2 Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Trophy2_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Universal Data System (UDS)",
+        "Universal Data System Configuration Web API Overview"
+      ],
+      "title": "Universal Data System Configuration Web API Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Universal_Data_System_Configuration_WebAPI-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Universal Data System (UDS)",
+        "Universal Data System Configuration Web API Reference"
+      ],
+      "title": "Universal Data System Configuration Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Universal_Data_System_Configuration_WebAPI-Reference/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "User Profile Overview"
+      ],
+      "title": "User Profile Overview",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/User_Profile-Overview/__toc.html"
+    },
+    {
+      "category_path": [
+        "PlayStation™Network",
+        "Users and Profiles",
+        "User Profile Web API Reference"
+      ],
+      "title": "User Profile Web API Reference",
+      "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/User_Profile_WebAPI-Reference/__toc.html"
+    }
+  ]
+}

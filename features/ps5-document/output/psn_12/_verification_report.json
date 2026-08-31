@@ -1,0 +1,839 @@
+{
+  "total_files": 1784,
+  "total_index_entries": 1784,
+  "issues": [
+    {
+      "path": "WebAPI/1/Sandbox_Management_WebAPI-Overview/index.md",
+      "category": "stub",
+      "message": "Body is only 159 visible chars (likely TOC stub)",
+      "severity": "info"
+    },
+    {
+      "path": "WebAPI/1/TCS_Management_WebAPI-Overview/index.md",
+      "category": "stub",
+      "message": "Body is only 144 visible chars (likely TOC stub)",
+      "severity": "info"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/collectibles-linear.md",
+      "category": "size_outlier",
+      "message": "Size 38015B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/collectibles-open-world.md",
+      "category": "size_outlier",
+      "message": "Size 38019B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/configuring-campaign-or-story-modes.md",
+      "category": "size_outlier",
+      "message": "Size 38031B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/cooperative-campaigns.md",
+      "category": "size_outlier",
+      "message": "Size 38017B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/multiple-completion-methods.md",
+      "category": "size_outlier",
+      "message": "Size 38023B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/multiple-endings.md",
+      "category": "size_outlier",
+      "message": "Size 38012B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/open-world.md",
+      "category": "size_outlier",
+      "message": "Size 38006B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/procedurally-generated-content.md",
+      "category": "size_outlier",
+      "message": "Size 38026B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/required-and-optional.md",
+      "category": "size_outlier",
+      "message": "Size 38017B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Activities-Guide/trc-requirements-r5301.md",
+      "category": "size_outlier",
+      "message": "Size 38018B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Game_Help-Guide/creating-activity-hints.md",
+      "category": "size_outlier",
+      "message": "Size 37747B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Game_Help-Guide/creating-trophy-hints.md",
+      "category": "size_outlier",
+      "message": "Size 37745B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Game_Help-Guide/high-level-workflow-for-creating-official.md",
+      "category": "size_outlier",
+      "message": "Size 37765B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Game_Help-Guide/official-hint-lifecycle.md",
+      "category": "size_outlier",
+      "message": "Size 37747B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Game_Help-Guide/official-hints-developer-provided-help.md",
+      "category": "size_outlier",
+      "message": "Size 37762B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Game_Help-Guide/previewing-official-hints-on-dev-kits.md",
+      "category": "size_outlier",
+      "message": "Size 37761B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Game_Help-Guide/publishing-official-hints-to-production.md",
+      "category": "size_outlier",
+      "message": "Size 37763B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/PSN_Game_Help-Guide/uploading-media.md",
+      "category": "size_outlier",
+      "message": "Size 37739B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/accessing-the-tool.md",
+      "category": "size_outlier",
+      "message": "Size 90541B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/bulk-configuring-uds-entities.md",
+      "category": "size_outlier",
+      "message": "Size 90552B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/common-navigation-elements.md",
+      "category": "size_outlier",
+      "message": "Size 90549B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/configuring-metadata.md",
+      "category": "size_outlier",
+      "message": "Size 90543B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/configuring-the-uds-data-model.md",
+      "category": "size_outlier",
+      "message": "Size 90553B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/game-help-tool.md",
+      "category": "size_outlier",
+      "message": "Size 90537B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/psn-object-reference.md",
+      "category": "size_outlier",
+      "message": "Size 33172B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/reference.md",
+      "category": "size_outlier",
+      "message": "Size 33161B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/supported-browsers.md",
+      "category": "size_outlier",
+      "message": "Size 90541B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/tool-and-api-availability.md",
+      "category": "size_outlier",
+      "message": "Size 90548B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/tournament-tool.md",
+      "category": "size_outlier",
+      "message": "Size 90538B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/trophy-tool.md",
+      "category": "size_outlier",
+      "message": "Size 90534B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/uds-event-reference.md",
+      "category": "size_outlier",
+      "message": "Size 33171B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/uds-management-tool-capabilities.md",
+      "category": "size_outlier",
+      "message": "Size 90555B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/using-the-uds-management-tool.md",
+      "category": "size_outlier",
+      "message": "Size 90552B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "SDK/12.000/Universal_Data_System-Guide/viewing-uds-data.md",
+      "category": "size_outlier",
+      "message": "Size 90539B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matches_WebAPI-Reference/0002.md",
+      "category": "size_outlier",
+      "message": "Size 98816B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matches_WebAPI-Reference/0003.md",
+      "category": "size_outlier",
+      "message": "Size 98816B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matches_WebAPI-Reference/0004.md",
+      "category": "size_outlier",
+      "message": "Size 98816B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matches_WebAPI-Reference/0005.md",
+      "category": "size_outlier",
+      "message": "Size 98816B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matchmaking_WebAPI-Reference/0002.md",
+      "category": "size_outlier",
+      "message": "Size 35437B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matchmaking_WebAPI-Reference/0003.md",
+      "category": "size_outlier",
+      "message": "Size 35437B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matchmaking_WebAPI-Reference/0004.md",
+      "category": "size_outlier",
+      "message": "Size 35437B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matchmaking_WebAPI-Reference/0005.md",
+      "category": "size_outlier",
+      "message": "Size 35437B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Matchmaking_WebAPI-Reference/0006.md",
+      "category": "size_outlier",
+      "message": "Size 35437B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0011.md",
+      "category": "size_outlier",
+      "message": "Size 49681B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0012.md",
+      "category": "size_outlier",
+      "message": "Size 49681B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0013.md",
+      "category": "size_outlier",
+      "message": "Size 49681B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0014.md",
+      "category": "size_outlier",
+      "message": "Size 49681B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0015.md",
+      "category": "size_outlier",
+      "message": "Size 49681B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0016.md",
+      "category": "size_outlier",
+      "message": "Size 49681B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0025.md",
+      "category": "size_outlier",
+      "message": "Size 53667B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0026.md",
+      "category": "size_outlier",
+      "message": "Size 53667B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0027.md",
+      "category": "size_outlier",
+      "message": "Size 53667B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0028.md",
+      "category": "size_outlier",
+      "message": "Size 53667B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0029.md",
+      "category": "size_outlier",
+      "message": "Size 53667B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0030.md",
+      "category": "size_outlier",
+      "message": "Size 53667B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0037.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0038.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0039.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0040.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0041.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0042.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0043.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0044.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0045.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0046.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0047.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0048.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0049.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0050.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0051.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0052.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0053.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0054.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0055.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0056.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0057.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0058.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0059.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0060.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0061.md",
+      "category": "size_outlier",
+      "message": "Size 113143B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0062.md",
+      "category": "size_outlier",
+      "message": "Size 114758B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0063.md",
+      "category": "size_outlier",
+      "message": "Size 114219B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0064.md",
+      "category": "size_outlier",
+      "message": "Size 113129B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0065.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0066.md",
+      "category": "size_outlier",
+      "message": "Size 110371B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0067.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0068.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0069.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0070.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0071.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0072.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0073.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0074.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0075.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0076.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0077.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0078.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0079.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0080.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0081.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0082.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0083.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0084.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0085.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0086.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0087.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0088.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0089.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Session_Manager_WebAPI-Reference/0090.md",
+      "category": "size_outlier",
+      "message": "Size 112559B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_Management_WebAPI-Reference/0005.md",
+      "category": "size_outlier",
+      "message": "Size 38171B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_Management_WebAPI-Reference/0006.md",
+      "category": "size_outlier",
+      "message": "Size 38171B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_Management_WebAPI-Reference/0007.md",
+      "category": "size_outlier",
+      "message": "Size 38171B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_Management_WebAPI-Reference/0008.md",
+      "category": "size_outlier",
+      "message": "Size 38171B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_Management_WebAPI-Reference/0009.md",
+      "category": "size_outlier",
+      "message": "Size 38171B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0002.md",
+      "category": "size_outlier",
+      "message": "Size 49887B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0003.md",
+      "category": "size_outlier",
+      "message": "Size 49887B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0004.md",
+      "category": "size_outlier",
+      "message": "Size 49887B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0005.md",
+      "category": "size_outlier",
+      "message": "Size 49887B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0006.md",
+      "category": "size_outlier",
+      "message": "Size 49887B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0007.md",
+      "category": "size_outlier",
+      "message": "Size 49887B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0008.md",
+      "category": "size_outlier",
+      "message": "Size 59874B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0009.md",
+      "category": "size_outlier",
+      "message": "Size 59874B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0010.md",
+      "category": "size_outlier",
+      "message": "Size 59874B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0011.md",
+      "category": "size_outlier",
+      "message": "Size 59874B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0012.md",
+      "category": "size_outlier",
+      "message": "Size 59874B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0013.md",
+      "category": "size_outlier",
+      "message": "Size 59874B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/TCS_WebAPI-Reference/0014.md",
+      "category": "size_outlier",
+      "message": "Size 59874B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Trophy2_WebAPI-Reference/0003.md",
+      "category": "size_outlier",
+      "message": "Size 35231B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Trophy2_WebAPI-Reference/0004.md",
+      "category": "size_outlier",
+      "message": "Size 35231B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Trophy2_WebAPI-Reference/0005.md",
+      "category": "size_outlier",
+      "message": "Size 35231B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Universal_Data_System_Configuration_WebAPI-Reference/0001.md",
+      "category": "size_outlier",
+      "message": "Size 80324B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Universal_Data_System_Configuration_WebAPI-Reference/0010.md",
+      "category": "size_outlier",
+      "message": "Size 33323B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Universal_Data_System_Configuration_WebAPI-Reference/0011.md",
+      "category": "size_outlier",
+      "message": "Size 33323B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Universal_Data_System_Configuration_WebAPI-Reference/0012.md",
+      "category": "size_outlier",
+      "message": "Size 33323B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Universal_Data_System_Configuration_WebAPI-Reference/0013.md",
+      "category": "size_outlier",
+      "message": "Size 33323B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    },
+    {
+      "path": "WebAPI/1/Universal_Data_System_Configuration_WebAPI-Reference/0014.md",
+      "category": "size_outlier",
+      "message": "Size 33323B is far above upper IQR bound 32982B",
+      "severity": "warning"
+    }
+  ],
+  "counts": {
+    "error": 0,
+    "warning": 136,
+    "info": 2
+  }
+}

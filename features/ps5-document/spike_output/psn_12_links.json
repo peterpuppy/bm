@@ -1,0 +1,454 @@
+[
+  {
+    "text": "PlayStation™Network",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_Network/PlayStation_Network_Landing.html"
+  },
+  {
+    "text": "Creating Data-Driven Experiences with UDS",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Creating_Data_Driven_Experiences_with_UDS/__toc.html"
+  },
+  {
+    "text": "Np Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Np-Overview/__toc.html"
+  },
+  {
+    "text": "Np Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Np-Reference/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Commerce Platform Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Commerce_Platform-Overview/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Multiplayer Best Practices",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Multiplayer_Best_Practices/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Multiplayer Platform Concept Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Multiplayer_Platform_Concept-Overview/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN-Overview/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Service Setup Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Service_Setup-Guide/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Web APIs Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Sandbox Management Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Sandbox_Management_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Sandbox Management Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Sandbox_Management_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Web API Tracer User's Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Web_API_Tracer-Users_Guide/__toc.html"
+  },
+  {
+    "text": "Active Activities Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Active_Activities_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Active Activities Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Active_Activities_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Activities Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Activities-Guide/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Challenge Activities Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Challenge_Activities-Guide/__toc.html"
+  },
+  {
+    "text": "Auth Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Auth Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Authentication Features for Websites Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_for_Websites-Overview/__toc.html"
+  },
+  {
+    "text": "Authentication Features for Websites Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_for_Websites-Reference/__toc.html"
+  },
+  {
+    "text": "NpAuth Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuth-Overview/__toc.html"
+  },
+  {
+    "text": "NpAuth Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuth-Reference/__toc.html"
+  },
+  {
+    "text": "NpAuthAuthorizedAppDialog Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuthAuthorizedAppDialog-Overview/__toc.html"
+  },
+  {
+    "text": "NpAuthAuthorizedAppDialog Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuthAuthorizedAppDialog-Reference/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Cloud Streaming Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Cloud_Streaming-Overview/__toc.html"
+  },
+  {
+    "text": "NpCppWebApi Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCppWebApi-Overview/__toc.html"
+  },
+  {
+    "text": "NpCppWebApi Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCppWebApi-Reference/__toc.html"
+  },
+  {
+    "text": "NpWebApi2 Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpWebApi2-Overview/__toc.html"
+  },
+  {
+    "text": "NpWebApi2 Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpWebApi2-Reference/__toc.html"
+  },
+  {
+    "text": "Cross-generation Application Tutorial",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Cross_Generation_Application-Tutorial/__toc.html"
+  },
+  {
+    "text": "DevAdmin Tool User's Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/DevAdmin_Tool-Users_Guide/__toc.html"
+  },
+  {
+    "text": "Development Accounts User's Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Development_Accounts-Users_Guide/__toc.html"
+  },
+  {
+    "text": "Commerce Management Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Commerce_Management_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Commerce Management Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Commerce_Management_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Entitlements Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Entitlements-Overview/__toc.html"
+  },
+  {
+    "text": "Entitlements Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Entitlements_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "NpEntitlementAccess Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Overview/__toc.html"
+  },
+  {
+    "text": "NpEntitlementAccess Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/__toc.html"
+  },
+  {
+    "text": "Subscription Status Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Subscription_Status_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Subscription Status Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Subscription_Status_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Premium Feature Gating Tutorial",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Premium_Feature_Gating-Tutorial/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Game Help Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Game_Help-Guide/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Game Hub Preview Application Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Game_Hub_Preview_Application-Overview/__toc.html"
+  },
+  {
+    "text": "Game Intent System Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Game_Intent_System-Overview/__toc.html"
+  },
+  {
+    "text": "NpGameIntent Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpGameIntent-Overview/__toc.html"
+  },
+  {
+    "text": "NpGameIntent Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpGameIntent-Reference/__toc.html"
+  },
+  {
+    "text": "Leaderboards Management Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Leaderboards_Management_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Leaderboards Management Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Leaderboards_Management_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Leaderboards Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Leaderboards-Overview/__toc.html"
+  },
+  {
+    "text": "Leaderboards Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Leaderboards_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "NpBandwidthTest Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpBandwidthTest-Overview/__toc.html"
+  },
+  {
+    "text": "NpBandwidthTest Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpBandwidthTest-Reference/__toc.html"
+  },
+  {
+    "text": "Communication Restriction Status Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Communication_Restriction_Status_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Communication Restriction Status Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Communication_Restriction_Status_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Profanity Filter Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Profanity_Filter_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Profanity Filter Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Profanity_Filter_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "NpSessionSignaling Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpSessionSignaling-Overview/__toc.html"
+  },
+  {
+    "text": "NpSessionSignaling Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpSessionSignaling-Reference/__toc.html"
+  },
+  {
+    "text": "In-Game Catalog Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/In_Game_Catalog-Overview/__toc.html"
+  },
+  {
+    "text": "In-Game Catalog Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/In_Game_Catalog_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "NpCommerce Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCommerce-Overview/__toc.html"
+  },
+  {
+    "text": "NpCommerce Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCommerce-Reference/__toc.html"
+  },
+  {
+    "text": "NpCommerceDialog Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCommerceDialog-Overview/__toc.html"
+  },
+  {
+    "text": "NpCommerceDialog Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCommerceDialog-Reference/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Commerce Programming Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Commerce-Programming_Guide/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Commerce Service Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Commerce_Service-Overview/__toc.html"
+  },
+  {
+    "text": "PlayStation™Store Content Guidelines",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_Store_Content-Guidelines/__toc.html"
+  },
+  {
+    "text": "Virtual Currency Tutorial",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Virtual_Currency-Tutorial/__toc.html"
+  },
+  {
+    "text": "Matches Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Matches_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Matches Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Matches_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Matchmaking Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Matchmaking-Overview/__toc.html"
+  },
+  {
+    "text": "Matchmaking Tool User's Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Matchmaking_Tool-Users_Guide/__toc.html"
+  },
+  {
+    "text": "Matchmaking Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Matchmaking_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "PlayerInvitationDialog Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerInvitationDialog-Overview/__toc.html"
+  },
+  {
+    "text": "PlayerInvitationDialog Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerInvitationDialog-Reference/__toc.html"
+  },
+  {
+    "text": "Session Manager Service Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Session_Manager_Service-Overview/__toc.html"
+  },
+  {
+    "text": "Session Manager Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Session_Manager_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Session Manager Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Session_Manager_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "SigninDialog Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SigninDialog-Overview/__toc.html"
+  },
+  {
+    "text": "SigninDialog Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/SigninDialog-Reference/__toc.html"
+  },
+  {
+    "text": "TCS Cross-Platform Data Sharing Demo Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/TCS_Cross_Data_Transfer_Demo-Overview/__toc.html"
+  },
+  {
+    "text": "Title Cloud Storage Management Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/TCS_Management_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Title Cloud Storage Management Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/TCS_Management_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Title Cloud Storage Service Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/TCS-Overview/__toc.html"
+  },
+  {
+    "text": "Title Cloud Storage Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/TCS_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "PlayStation®5 Tournaments Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PS5_Tournaments-Guide/__toc.html"
+  },
+  {
+    "text": "PlayStation™Network Tournaments System Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Tournaments_System-Overview/__toc.html"
+  },
+  {
+    "text": "NpTrophy2 Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpTrophy2-Overview/__toc.html"
+  },
+  {
+    "text": "NpTrophy2 Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpTrophy2-Reference/__toc.html"
+  },
+  {
+    "text": "Trophy System Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/__toc.html"
+  },
+  {
+    "text": "Trophy2 Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Trophy2_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Trophy2 Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Trophy2_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "NpUniversalDataSystem Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpUniversalDataSystem-Overview/__toc.html"
+  },
+  {
+    "text": "NpUniversalDataSystem Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/NpUniversalDataSystem-Reference/__toc.html"
+  },
+  {
+    "text": "Universal Data System Configuration Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Universal_Data_System_Configuration_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "Universal Data System Configuration Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Universal_Data_System_Configuration_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Universal Data System Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Universal_Data_System-Guide/__toc.html"
+  },
+  {
+    "text": "Account Closure Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Account_Closure-Overview/__toc.html"
+  },
+  {
+    "text": "Account Closure Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Account_Closure_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Advanced Player Profile Editor User's Guide",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Advanced_Player_Profile_Editor-Users_Guide/__toc.html"
+  },
+  {
+    "text": "Advanced Player Profile Management Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Advanced_Player_Profile_Management_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "Advanced Player Profile Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/Advanced_Player_Profile_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "ID Mapper Web API Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/ID_Mapper_WebAPI-Overview/__toc.html"
+  },
+  {
+    "text": "ID Mapper Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/ID_Mapper_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "PlayerSelectionDialog Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerSelectionDialog-Overview/__toc.html"
+  },
+  {
+    "text": "PlayerSelectionDialog Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerSelectionDialog-Reference/__toc.html"
+  },
+  {
+    "text": "User Profile Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/User_Profile-Overview/__toc.html"
+  },
+  {
+    "text": "User Profile Web API Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/WebAPI/1/User_Profile_WebAPI-Reference/__toc.html"
+  },
+  {
+    "text": "ProprietaryVoiceChatHelper Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ProprietaryVoiceChatHelper-Overview/__toc.html"
+  },
+  {
+    "text": "ProprietaryVoiceChatHelper Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/ProprietaryVoiceChatHelper-Reference/__toc.html"
+  },
+  {
+    "text": "VoiceChat Library Overview",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VoiceChat-Overview/__toc.html"
+  },
+  {
+    "text": "VoiceChat Library Reference",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/VoiceChat-Reference/__toc.html"
+  }
+]

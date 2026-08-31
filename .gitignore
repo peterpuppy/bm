@@ -1,0 +1,4 @@
+.qoder/
+features/tracy-memory/test-result/
+data
+*.pyc

@@ -1,0 +1,65 @@
+PSN用户
+
+mengjie.yuan@boomingtech.com
+Peter@11332255
+
+PSN网站：
+mengjie.yuan@boomingtech.com
+Peter@12345678
+
+NpCommunicationId:NPWR62682_00
+
+
+ClientID： 62828b87-3b8b-4e9a-9756-1a913e7cf977
+Client Secret: DtCLkkWViqmORho9
+NP title id:PPSA38951_00
+NP Secret：9f1fe7e14fb2929211ff3bd83545551a38afc1de4104418e8e5abecaefb44149e0964cd2f96b71f7a3dfc6ac3def8158fc2e5e48b040894a3a81c0424329673facc3ff4eff71cf4eaa1d64b9a5c3eb84ed13858eb10d9d9b156b31927412f9d063ac8cece78f3fa2a9ed378908bc5ea88a57840615521443320046d0a780092a
+
+nptitle.dat: ./nptitle.dat
+nptitle.dat 存放路径：H:\cb2\dev\wolfgang\_games\proven_ground\_content\PS5\sce_sys
+
+
+
+Cross Gen SDK ClientID：CWAA09446_00
+ProductID: HP3255-PPSA38951_00-0364252386100017
+
+
+
+出口IP：
+119.13.101.157
+119.13.111.200
+61.153.4.194
+
+
+
+*.playstation.net
+*.playstation.com
+*.sony.com
+*.sonyentertainmentnetwork.com
+*.siedev.net
+
+
+
+ETCD:
+http://bm-hz-stable-etcds0.h.booming-inc.com:8080/etcdkeeper/
+etcds0-ofc.s.booming-inc.com:2380
+
+
+GAC域名：
+accounts-cbx.boomingtech.com
+
+
+PS5 SP-INT SONY环境账号
+============================
+mengjie.yuan@boomingtech.com
+Peter@11332255
+
+
+GAC   日志
+https://g-ofc.booming-inc.com/d/o6-BGgnnk/e697a5-e5bf97-e69fa5-e8afa2-e99da2-e69dbf?orgId=1&var-datasource=vWIlJxaVk&var-platform=kubernetes&var-project=cb-frontier&var-env=production&var-cluster=default&var-app=game-account-center-cbx&var-component=All&var-nodename=All&var-loglevel=All&var-query1=&var-query2=&from=now-2d&to=now
+
+选择 project ： cb-frontier
+app:game-account-center-cbx
+
+
+

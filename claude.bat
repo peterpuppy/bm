@@ -1,0 +1,1 @@
+claude --model kimi-k2.5:cloud --dangerously-skip-permissions  --allow-dangerously-skip-permissions

@@ -1,0 +1,34 @@
+{
+  "roots": {
+    "chaos_root": "H:/cb2/dev/chaos",
+    "engine_root": "H:/cb2/dev/chaos",
+    "game_root": "H:/cb2/dev/wolfgang/_games/proven_ground",
+    "engine_source": "H:/cb2/dev/chaos/_source/_engine/source",
+    "game_source": "H:/cb2/dev/wolfgang/_games/proven_ground/_source",
+    "design_data_dir": "H:/cb2/raw/_data/design"
+  },
+  "paths": {
+    "build_scripts": "{chaos_root}/build_scripts",
+    "build_dir": "{chaos_root}/build",
+    "install_dir": "{chaos_root}/_install/windows/bin/Editor_Profile"
+  },
+  "services": {
+    "game_server": {
+      "executable": "{install_dir}/server/game_server/xenon_game_server.exe",
+      "working_dir": "{install_dir}/server/game_server",
+      "log_dir": "{install_dir}/server/game_server/log",
+      "hotupdate_port": 10000,
+      "args": [
+        "--inner_addr",
+        "127.0.0.1:10000"
+      ]
+    },
+    "client": {
+      "executable": "{install_dir}/client/xenon_client.exe",
+      "working_dir": "{install_dir}/client",
+      "log_dir": "{install_dir}/client/log",
+      "hotupdate_port": 31111,
+      "lua_debugger_port": 30000
+    }
+  }
+}

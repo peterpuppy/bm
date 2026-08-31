@@ -1,0 +1,39 @@
+# NpEntitlementAccess Library Reference – SDK 12.000
+
+Source: https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/__toc.html
+
+1. Initialization
+   1. [SceNpEntitlementAccessBootParam](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-boot-param.html "SceNpEntitlementAccessBootParam")
+   2. [SceNpEntitlementAccessInitParam](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-init-param.html "SceNpEntitlementAccessInitParam")
+   3. [sceNpEntitlementAccessInitialize](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-initialize.html "sceNpEntitlementAccessInitialize")
+2. Obtaining the SKU Flag
+   1. [sceNpEntitlementAccessGetSkuFlag](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-get-sku-flag.html "sceNpEntitlementAccessGetSkuFlag")
+3. Accessing Additional Content
+   1. [SceNpEntitlementAccessAddcontEntitlementInfo](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-addcont-entitlement-info.html "SceNpEntitlementAccessAddcontEntitlementInfo")
+   2. [SceNpEntitlementAccessEntitlementKey](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-entitlement-key.html "SceNpEntitlementAccessEntitlementKey")
+   3. [sceNpEntitlementAccessGetAddcontEntitlementInfo](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-get-addcont-entitlement-info.html "sceNpEntitlementAccessGetAddcontEntitlementInfo")
+   4. [sceNpEntitlementAccessGetAddcontEntitlementInfoList](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-get-addcont-entitlement-info-list.html "sceNpEntitlementAccessGetAddcontEntitlementInfoList")
+   5. [sceNpEntitlementAccessGetEntitlementKey](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-get-entitlement-key.html "sceNpEntitlementAccessGetEntitlementKey")
+4. Accessing Entitlements
+   1. [SceNpEntitlementAccessUnifiedEntitlementInfo](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-unified-entitlement-info.html "SceNpEntitlementAccessUnifiedEntitlementInfo")
+   2. [SceNpEntitlementAccessRequestEntitlementInfoListParam](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-request-entitlement-info-list-para.html "SceNpEntitlementAccessRequestEntitlementInfoListParam")
+   3. [SceNpEntitlementAccessServiceEntitlementInfo](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-service-entitlement-info.html "SceNpEntitlementAccessServiceEntitlementInfo")
+   4. [SceNpEntitlementAccessTransactionId](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-transaction-id.html "SceNpEntitlementAccessTransactionId")
+   5. [sceNpEntitlementAccessAbortRequest](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-abort-request.html "sceNpEntitlementAccessAbortRequest")
+   6. [sceNpEntitlementAccessDeleteRequest](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-delete-request.html "sceNpEntitlementAccessDeleteRequest")
+   7. [sceNpEntitlementAccessGenerateTransactionId](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-generate-transaction-id.html "sceNpEntitlementAccessGenerateTransactionId")
+   8. [sceNpEntitlementAccessPollUnifiedEntitlementInfo](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-poll-unified-entitlement-info.html "sceNpEntitlementAccessPollUnifiedEntitlementInfo")
+   9. [sceNpEntitlementAccessPollUnifiedEntitlementInfoList](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-poll-unified-entitlement-info-list.html "sceNpEntitlementAccessPollUnifiedEntitlementInfoList")
+   10. [sceNpEntitlementAccessPollServiceEntitlementInfo](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-poll-service-entitlement-info.html "sceNpEntitlementAccessPollServiceEntitlementInfo")
+   11. [sceNpEntitlementAccessPollServiceEntitlementInfoList](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-poll-service-entitlement-info-list.html "sceNpEntitlementAccessPollServiceEntitlementInfoList")
+   12. [sceNpEntitlementAccessPollConsumeEntitlement](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-poll-consume-entitlement.html "sceNpEntitlementAccessPollConsumeEntitlement")
+   13. [sceNpEntitlementAccessRequestUnifiedEntitlementInfo](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-request-unified-entitlement-info.html "sceNpEntitlementAccessRequestUnifiedEntitlementInfo")
+   14. [sceNpEntitlementAccessRequestUnifiedEntitlementInfoList](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-request-unified-entitlement-info-l.html "sceNpEntitlementAccessRequestUnifiedEntitlementInfoList")
+   15. [sceNpEntitlementAccessRequestServiceEntitlementInfo](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-request-service-entitlement-info.html "sceNpEntitlementAccessRequestServiceEntitlementInfo")
+   16. [sceNpEntitlementAccessRequestServiceEntitlementInfoList](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-request-service-entitlement-info-l.html "sceNpEntitlementAccessRequestServiceEntitlementInfoList")
+   17. [sceNpEntitlementAccessRequestConsumeUnifiedEntitlement](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-request-consume-unified-entitlemen.html "sceNpEntitlementAccessRequestConsumeUnifiedEntitlement")
+   18. [sceNpEntitlementAccessRequestConsumeServiceEntitlement](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-request-consume-service-entitlemen.html "sceNpEntitlementAccessRequestConsumeServiceEntitlement")
+5. Obtaining the GameTrials Flag
+   1. [sceNpEntitlementAccessGetGameTrialsFlag](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/sce-np-entitlement-access-get-game-trials-flag.html "sceNpEntitlementAccessGetGameTrialsFlag")
+6. Constants
+   1. [Return Codes](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpEntitlementAccess-Reference/return-codes.html "Return Codes")

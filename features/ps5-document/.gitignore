@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Playwright / browser
+node_modules/
+
+# Sensitive login state - do not commit cookies/session storage
+spike_output/storage_state.json
+
+# Chrome persistent profile used for remote debugging login
+chrome_profile/
+
+# Screenshots are disposable debugging artifacts
+spike_output/*.png
+
+# Large raw HTML dumps are disposable
+spike_output/*.html
+!spike_output/psn_12_landing.html
+
+# Keep batch manifests but ignore logs by default
+logs/*.log
+
+# Keep output/ tracked unless it grows too large; manage manually if needed.
+# output/

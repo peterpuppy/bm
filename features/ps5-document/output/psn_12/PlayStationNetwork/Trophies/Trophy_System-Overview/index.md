@@ -1,0 +1,62 @@
+# Trophy System Overview – SDK 12.000
+
+Source: https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/__toc.html
+
+1. [About This Document](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/about-this-document.html "About This Document")
+2. Game Play and the Trophy System
+   1. [Configuration of the Trophy System](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/configuration-of-the-trophy-system.html "Configuration of the Trophy System")
+   2. [Installation of Trophy Configuration Data](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/installation-of-trophy-configuration-data.html "Installation of Trophy Configuration Data")
+   3. [Installing the Trophy Record](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/installing-the-trophy-record.html "Installing the Trophy Record")
+   4. [Displaying the Trophy Collection in the Application](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/displaying-the-trophy-collection-in-the-application.html "Displaying the Trophy Collection in the Application")
+   5. [Unlocking Trophies](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/unlocking-trophies.html "Unlocking Trophies")
+   6. [Display of the Trophy Collection in the System Software](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/display-of-the-trophy-collection-in-the-system-software.html "Display of the Trophy Collection in the System Software")
+3. Trophy Set Configuration
+   1. [Trophy Sets](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-sets.html "Trophy Sets")
+   2. [Trophy Attributes](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-attributes.html "Trophy Attributes")
+   3. [Adding Trophies with an Update](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/adding-trophies-with-an-update.html "Adding Trophies with an Update")
+4. Trophy Set Design Policy
+   1. [Design Policy](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/design-policy.html "Design Policy")
+   2. [Titles That Must Support the Trophy System](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/titles-that-must-support-the-trophy-system.html "Titles That Must Support the Trophy System")
+   3. [Trophy Points Assignment per Title](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-points-assignment-per-title.html "Trophy Points Assignment per Title")
+   4. [Trophy Group for Additional Content or Updates](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-group-for-additional-content-or-updates.html "Trophy Group for Additional Content or Updates")
+   5. [Trophy Sets for Compilation Titles](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/compilation-titles.html "Trophy Sets for Compilation Titles")
+   6. [Upgrading the Trophy Set](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/upgrading-the-trophy-set.html "Upgrading the Trophy Set")
+   7. [Notes on Designing the Trophy Set](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/notes-on-designing-the-trophy-set.html "Notes on Designing the Trophy Set")
+   8. [Retroactive Unlocking Across Platforms](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/retroactive-unlocking-across-platforms.html "Retroactive Unlocking Across Platforms")
+5. Overview of Application Development
+   1. [Process of Application Development](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/process-of-application-development.html "Process of Application Development")
+   2. [Application for Service](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/application-for-service.html "Application for Service")
+   3. [Configuration of Trophies](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/configuration-of-trophies.html "Configuration of Trophies")
+   4. [Obtaining the Package Metadata File](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/obtaining-the-package-metadata-file.html "Obtaining the Package Metadata File")
+   5. [Placement of the Trophy Configuration and UDS Configuration Files](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/placement-of-the-trophy-configuration-and-uds-configuration.html "Placement of the Trophy Configuration and UDS Configuration Files")
+   6. [Implementation of Trophy-Unlocking](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/implementation-of-trophy-unlocking.html "Implementation of Trophy-Unlocking")
+   7. [Master Creation and Submission](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/master-creation-and-submission-for-qa.html "Master Creation and Submission")
+   8. [Local Development Workflow](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/local-development-workflow.html "Local Development Workflow")
+6. Debugging Support Provided by the System Software
+   1. [Online Mode and Offline Mode](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/online-mode-and-offline-mode.html "Online Mode and Offline Mode")
+   2. [Local Mode](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/local-mode.html "Local Mode")
+   3. [Preview Trophy UI](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/preview-trophy-ui.html "Preview Trophy UI")
+   4. [Features for Deleting Trophy Data](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/features-for-deleting-trophy-data.html "Features for Deleting Trophy Data")
+   5. [Notes on Trophy-Related Debug Support Features](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/notes.html "Notes on Trophy-Related Debug Support Features")
+7. Creating Trophy Configuration Data
+   1. [Composition of Trophy Configuration Data](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/composition-of-trophy-configuration-data.html "Composition of Trophy Configuration Data")
+   2. [Summary of How to Create Trophy Configuration Data](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/summary-of-how-to-create-trophy-configuration-data.html "Summary of How to Create Trophy Configuration Data")
+   3. [Multi-lingual Support](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/multi-lingual-support.html "Multi-lingual Support")
+   4. [Trophy Set Still-image Icon](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-set-still-image-icon.html "Trophy Set Still-image Icon")
+   5. [Trophy Set Name](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-set-name.html "Trophy Set Name")
+   6. [Trophy Group Still-image Icon](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-group-still-image-icon.html "Trophy Group Still-image Icon")
+   7. [Trophy Group Name](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-group-name.html "Trophy Group Name")
+   8. [Trophy Still-image Icon](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-still-image-icon.html "Trophy Still-image Icon")
+   9. [Trophy Name](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-name.html "Trophy Name")
+   10. [Trophy Details](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-details.html "Trophy Details")
+   11. [Names of Rewards Relating to Trophies](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/names-of-rewards-relating-to-trophies.html "Names of Rewards Relating to Trophies")
+   12. [Still-Image Icons for Rewards Relating to Trophies](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/still-image-icons-for-rewards-relating-to-trophies.html "Still-Image Icons for Rewards Relating to Trophies")
+8. Reference: Displaying of Trophies by the System Software
+   1. [Parts of the System Software UI That Display Trophy Configuration Information](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/parts-of-the-system-software-ui-that-display-trophy-configur.html "Parts of the System Software UI That Display Trophy Configuration Information")
+   2. [Trophy Title List Screen](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-title-list-screen.html "Trophy Title List Screen")
+   3. [Trophy Group List Screen](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-group-list-screen.html "Trophy Group List Screen")
+   4. [Trophy List Screen](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-list-screen.html "Trophy List Screen")
+   5. [Control Center Screen](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/control-center-screen.html "Control Center Screen")
+   6. [Trophy Details (Activity Card)](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/trophy-details-activity-card.html "Trophy Details (Activity Card)")
+9. [Appendix A: Configuration Changes That Can Be Made Based on the NP Config Tag State](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/appendix-a-configuration-changes-that-can-be-made-based-on-t.html "Appendix A: Configuration Changes That Can Be Made Based on the NP Config Tag State")
+10. [Appendix B: UDS Stats That Can Be Used as Trophy Unlocking Conditions](https://game.develop.playstation.net/resources/documents/SDK/12.000/Trophy_System-Overview/appendix-b-uds-stats-that-can-be-used-as-trophy-unlocking-co.html "Appendix B: UDS Stats That Can Be Used as Trophy Unlocking Conditions")
