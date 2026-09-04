@@ -1,0 +1,11 @@
+# codebase-memory 忽略规则（gitignore 语法）
+# 爬虫产物：PS5 文档抓取输出（36MB 纯 markdown，索引成 Section 节点纯属浪费）
+features/ps5/document/output/
+features/ps5/document/spike_output/
+features/ps5/document/logs/
+# Chrome 爬虫 profile（724MB 浏览器数据，绝不能进索引）
+features/ps5/document/chrome_profile/
+# memory_tracker 离线分析数据（1.2GB dump/报告）
+features/memory_tracker/
+# 运行数据
+data/
