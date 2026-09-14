@@ -1,140 +1,51 @@
 # PSN Documentation Crawl Status Report
 
-- **Report date:** 2026-07-03 10:00
+- **Report date:** 2026-09-14 11:34
 - **Total TOC entries:** 113
-- **Crawled markdown files:** 1784
-- **Top-level sections covered:** 31
+- **Crawled markdown files:** 2622
+- **Top-level sections covered:** 1
 
 ## Coverage by Top-Level Section
 
-### SDK/12.000/Creating_Data_Driven_Experiences_with_UDS
-- Pages: 41
-- TOC title: Creating Data-Driven Experiences with UDS
-
-### SDK/12.000/Cross_Generation_Application-Tutorial
-- Pages: 7
-- TOC title: Cross-generation Application Tutorial
-
-### SDK/12.000/Np-Overview
-- Pages: 22
-- TOC title: Np Library Overview
-
-### SDK/12.000/Np-Reference
-- Pages: 69
-- TOC title: Np Library Reference
-
-### SDK/12.000/NpAuth-Overview
-- Pages: 15
-- TOC title: NpAuth Library Overview
-
-### SDK/12.000/NpAuth-Reference
-- Pages: 19
-- TOC title: NpAuth Library Reference
-
-### SDK/12.000/NpAuthAuthorizedAppDialog-Overview
-- Pages: 10
-- TOC title: NpAuthAuthorizedAppDialog Library Overview
-
-### SDK/12.000/NpAuthAuthorizedAppDialog-Reference
+### SDK/latest/Sandbox_Network_Architecture-Guide
 - Pages: 14
-- TOC title: NpAuthAuthorizedAppDialog Library Reference
-
-### SDK/12.000/NpCppWebApi-Overview
-- Pages: 19
-- TOC title: NpCppWebApi Library Overview
-
-### SDK/12.000/NpCppWebApi-Reference
-- Pages: 119
-- TOC title: NpCppWebApi Library Reference
-
-### SDK/12.000/NpWebApi2-Overview
-- Pages: 18
-- TOC title: NpWebApi2 Library Overview
-
-### SDK/12.000/NpWebApi2-Reference
-- Pages: 51
-- TOC title: NpWebApi2 Library Reference
-
-### SDK/12.000/PSN-Overview
-- Pages: 34
-- TOC title: PlayStation™Network Overview
-
-### SDK/12.000/PSN_Activities-Guide
-- Pages: 46
-- TOC title: PlayStation™Network Activities Guide
-
-### SDK/12.000/PSN_Challenge_Activities-Guide
-- Pages: 10
-- TOC title: PlayStation™Network Challenge Activities Guide
-
-### SDK/12.000/PSN_Cloud_Streaming-Overview
-- Pages: 8
-- TOC title: PlayStation™Network Cloud Streaming Overview
-
-### SDK/12.000/PSN_Commerce_Platform-Overview
-- Pages: 14
-- TOC title: PlayStation™Network Commerce Platform Overview
-
-### SDK/12.000/PSN_Multiplayer_Best_Practices
-- Pages: 14
-- TOC title: PlayStation™Network Multiplayer Best Practices
-
-### SDK/12.000/PSN_Multiplayer_Platform_Concept-Overview
-- Pages: 8
-- TOC title: PlayStation™Network Multiplayer Platform Concept Overview
-
-### SDK/12.000/PSN_Service_Setup-Guide
-- Pages: 30
-- TOC title: PlayStation™Network Service Setup Guide
-
-### SDK/12.000/PSN_WebAPI-Overview
-- Pages: 20
-- TOC title: PlayStation™Network Web APIs Overview
-
-### SDK/12.000/PlayStation_Network
-- Pages: 1
 - TOC title: Unknown
-
-### SDK/12.000/Web_API_Tracer-Users_Guide
-- Pages: 5
-- TOC title: Web API Tracer User's Guide
-
-### WebAPI/1/Active_Activities_WebAPI-Overview
-- Pages: 10
-- TOC title: Active Activities Web API Overview
-
-### WebAPI/1/Active_Activities_WebAPI-Reference
-- Pages: 4
-- TOC title: Active Activities Web API Reference
-
-### WebAPI/1/Auth_WebAPI-Overview
-- Pages: 26
-- TOC title: Auth Web API Overview
-
-### WebAPI/1/Auth_WebAPI-Reference
-- Pages: 7
-- TOC title: Auth Web API Reference
-
-### WebAPI/1/Auth_for_Websites-Overview
-- Pages: 9
-- TOC title: Authentication Features for Websites Overview
-
-### WebAPI/1/Auth_for_Websites-Reference
-- Pages: 7
-- TOC title: Authentication Features for Websites Reference
-
-### WebAPI/1/Sandbox_Management_WebAPI-Overview
-- Pages: 2
-- TOC title: Sandbox Management Web API Overview
-
-### WebAPI/1/Sandbox_Management_WebAPI-Reference
-- Pages: 4
-- TOC title: Sandbox Management Web API Reference
 
 ## Remaining Gaps (uncrawled TOC entries)
 
-**82 TOC entries not yet crawled:**
+**113 TOC entries not yet crawled:**
 
+- [PlayStation™Network](https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_Network/PlayStation_Network_Landing.html) -> `SDK/12.000/PlayStation_Network/PlayStation_Network_Landing.md`
+- [Creating Data-Driven Experiences with UDS](https://game.develop.playstation.net/resources/documents/SDK/12.000/Creating_Data_Driven_Experiences_with_UDS/__toc.html) -> `SDK/12.000/Creating_Data_Driven_Experiences_with_UDS/index.md`
+- [Np Library Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/Np-Overview/__toc.html) -> `SDK/12.000/Np-Overview/index.md`
+- [Np Library Reference](https://game.develop.playstation.net/resources/documents/SDK/12.000/Np-Reference/__toc.html) -> `SDK/12.000/Np-Reference/index.md`
+- [PlayStation™Network Commerce Platform Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Commerce_Platform-Overview/__toc.html) -> `SDK/12.000/PSN_Commerce_Platform-Overview/index.md`
+- [PlayStation™Network Multiplayer Best Practices](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Multiplayer_Best_Practices/__toc.html) -> `SDK/12.000/PSN_Multiplayer_Best_Practices/index.md`
+- [PlayStation™Network Multiplayer Platform Concept Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Multiplayer_Platform_Concept-Overview/__toc.html) -> `SDK/12.000/PSN_Multiplayer_Platform_Concept-Overview/index.md`
+- [PlayStation™Network Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN-Overview/__toc.html) -> `SDK/12.000/PSN-Overview/index.md`
+- [PlayStation™Network Service Setup Guide](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Service_Setup-Guide/__toc.html) -> `SDK/12.000/PSN_Service_Setup-Guide/index.md`
+- [PlayStation™Network Web APIs Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_WebAPI-Overview/__toc.html) -> `SDK/12.000/PSN_WebAPI-Overview/index.md`
+- [Sandbox Management Web API Overview](https://game.develop.playstation.net/resources/documents/WebAPI/1/Sandbox_Management_WebAPI-Overview/__toc.html) -> `WebAPI/1/Sandbox_Management_WebAPI-Overview/index.md`
+- [Sandbox Management Web API Reference](https://game.develop.playstation.net/resources/documents/WebAPI/1/Sandbox_Management_WebAPI-Reference/__toc.html) -> `WebAPI/1/Sandbox_Management_WebAPI-Reference/index.md`
+- [Web API Tracer User's Guide](https://game.develop.playstation.net/resources/documents/SDK/12.000/Web_API_Tracer-Users_Guide/__toc.html) -> `SDK/12.000/Web_API_Tracer-Users_Guide/index.md`
+- [Active Activities Web API Overview](https://game.develop.playstation.net/resources/documents/WebAPI/1/Active_Activities_WebAPI-Overview/__toc.html) -> `WebAPI/1/Active_Activities_WebAPI-Overview/index.md`
+- [Active Activities Web API Reference](https://game.develop.playstation.net/resources/documents/WebAPI/1/Active_Activities_WebAPI-Reference/__toc.html) -> `WebAPI/1/Active_Activities_WebAPI-Reference/index.md`
+- [PlayStation™Network Activities Guide](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Activities-Guide/__toc.html) -> `SDK/12.000/PSN_Activities-Guide/index.md`
+- [PlayStation™Network Challenge Activities Guide](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Challenge_Activities-Guide/__toc.html) -> `SDK/12.000/PSN_Challenge_Activities-Guide/index.md`
+- [Auth Web API Overview](https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_WebAPI-Overview/__toc.html) -> `WebAPI/1/Auth_WebAPI-Overview/index.md`
+- [Auth Web API Reference](https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_WebAPI-Reference/__toc.html) -> `WebAPI/1/Auth_WebAPI-Reference/index.md`
+- [Authentication Features for Websites Overview](https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_for_Websites-Overview/__toc.html) -> `WebAPI/1/Auth_for_Websites-Overview/index.md`
+- [Authentication Features for Websites Reference](https://game.develop.playstation.net/resources/documents/WebAPI/1/Auth_for_Websites-Reference/__toc.html) -> `WebAPI/1/Auth_for_Websites-Reference/index.md`
+- [NpAuth Library Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuth-Overview/__toc.html) -> `SDK/12.000/NpAuth-Overview/index.md`
+- [NpAuth Library Reference](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuth-Reference/__toc.html) -> `SDK/12.000/NpAuth-Reference/index.md`
+- [NpAuthAuthorizedAppDialog Library Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuthAuthorizedAppDialog-Overview/__toc.html) -> `SDK/12.000/NpAuthAuthorizedAppDialog-Overview/index.md`
+- [NpAuthAuthorizedAppDialog Library Reference](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpAuthAuthorizedAppDialog-Reference/__toc.html) -> `SDK/12.000/NpAuthAuthorizedAppDialog-Reference/index.md`
+- [PlayStation™Network Cloud Streaming Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/PSN_Cloud_Streaming-Overview/__toc.html) -> `SDK/12.000/PSN_Cloud_Streaming-Overview/index.md`
+- [NpCppWebApi Library Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCppWebApi-Overview/__toc.html) -> `SDK/12.000/NpCppWebApi-Overview/index.md`
+- [NpCppWebApi Library Reference](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpCppWebApi-Reference/__toc.html) -> `SDK/12.000/NpCppWebApi-Reference/index.md`
+- [NpWebApi2 Library Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpWebApi2-Overview/__toc.html) -> `SDK/12.000/NpWebApi2-Overview/index.md`
+- [NpWebApi2 Library Reference](https://game.develop.playstation.net/resources/documents/SDK/12.000/NpWebApi2-Reference/__toc.html) -> `SDK/12.000/NpWebApi2-Reference/index.md`
+- [Cross-generation Application Tutorial](https://game.develop.playstation.net/resources/documents/SDK/12.000/Cross_Generation_Application-Tutorial/__toc.html) -> `SDK/12.000/Cross_Generation_Application-Tutorial/index.md`
 - [DevAdmin Tool User's Guide](https://game.develop.playstation.net/resources/documents/SDK/12.000/DevAdmin_Tool-Users_Guide/__toc.html) -> `SDK/12.000/DevAdmin_Tool-Users_Guide/index.md`
 - [Development Accounts User's Guide](https://game.develop.playstation.net/resources/documents/SDK/12.000/Development_Accounts-Users_Guide/__toc.html) -> `SDK/12.000/Development_Accounts-Users_Guide/index.md`
 - [Commerce Management Web API Overview](https://game.develop.playstation.net/resources/documents/WebAPI/1/Commerce_Management_WebAPI-Overview/__toc.html) -> `WebAPI/1/Commerce_Management_WebAPI-Overview/index.md`
@@ -220,4 +131,6 @@
 
 ## Duplicate Path Warnings
 
-No duplicate paths detected.
+- `Getting_Started\System_Software\System_Software-Users_Guide_for_Settings\index.md`: 2 URLs
+  - https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Users_Guide_for_Settings/__toc.html
+  - https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Users_Guide_for_Settings/__document_toc.html

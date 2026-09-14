@@ -11,19 +11,23 @@
 ```
 features/ps5/
 ├── CLAUDE.md          本文件，feature 上下文
-├── README.md          结构导航
 ├── 备忘.md            账号 / ID / 密钥 / 常用命令（⚠ 含明文机密）
 ├── nptitle.dat        NP Title 配置，需拷到 _content/PS5/sce_sys/
 ├── login/             CB2N-27968  已合入 master
 ├── savedata/          CB2N-29569  已合入 master
-├── trophy/            CB2N-30497  DevKit 验证通过，未推送
-├── payment/           CB2N-30579  代码就绪，卡 DevNet
+├── trophy/            CB2N-30497  DevKit 验证通过（PLAN/STATUS/CONFIG）
+├── payment/           CB2N-30579  代码就绪，卡 DevNet（PLAN/STATUS）
 ├── dlc/               未分配      调研完成，未开工
 ├── document/          SDK 文档爬虫 + 离线文档（结构不变）
+├── question/          独立问题集（每篇一个问题，附真实文档 URL）
 └── shared/            跨功能的 SDK 索引与探测工具
 ```
 
-每个功能目录下 `STATUS.md` 是进度与下一步，`PLAN.md` 是原始方案（若有）。
+> `shared/tools/ps5_edge_probe.py`、`ps5_s2s_test.py` 是登录改走 GAC **之前**的
+> S2S 直连调试脚本，无文档引用。留作 PSN 边缘可达性排查参考，非现行流程。
+
+每个功能目录下 `STATUS.md` 是进度与下一步，`PLAN.md` 是原始方案，
+`CONFIG.md` 是配置侧流程（目前仅 trophy 有）。
 
 ---
 
@@ -36,6 +40,9 @@ features/ps5/
 | Proven Ground | 同上两个分支 |
 
 支付基于奖杯，奖杯基于 master。登录与存档已合入 master。
+
+**两仓库分支名一致**，改动需同步两边。push 前先 `git fetch` —— 换机器开发时
+远端可能已被 rebase，本地 `git range-diff origin/<branch>...HEAD` 核对后再对齐。
 
 ---
 
@@ -55,7 +62,7 @@ GAC（Go）:      E:\code\game_account_center
 |---|---|---|
 | 登录 | 已合 master | — |
 | 存档 | 已合 master | 遗留 TRC R5089（prepare 主线程）待修 |
-| 奖杯 | DevKit 验证通过 | 两仓库各一个提交未推送 |
+| 奖杯 | DevKit 验证通过，已推远端 | — |
 | 支付 | 代码就绪，未实测 | DevNet：WSP 未提交 + Certification On Hold |
 | DLC | 调研完成 | 待选 PSAL / PSAC |
 
@@ -87,7 +94,9 @@ GAC（Go）:      E:\code\game_account_center
   现只应存在于 GAC 服务端，禁止写入客户端 / 提交 git / 明文传播
 - `连接配置` 与 `服务器地址配置` 两个 xml 含 Client Secret，**永不提交**
 - **PS5 SDK 与 DevNet 文档受 NDA 保护**：禁止上传在线服务 / AI 云 / 公开仓库，
-  禁止外传截图。`document/output/` 已 gitignore
+  禁止外传截图。
+  **注意**：`document/output/` 实际**未**加入 gitignore（`document/.gitignore` 里那行被注释掉了），
+  本仓库仅作本地改动追踪、不推远端，**请勿将此仓库推送或分享**
 
 ---
 
@@ -114,6 +123,8 @@ prospero-ctrl application delete-data uds all /user:<User>
 |---|---|
 | 某功能进度 / 下一步 | `<功能>/STATUS.md` |
 | 某功能原始方案 | `<功能>/PLAN.md` |
+| 配表怎么改（奖杯） | `trophy/CONFIG.md` |
+| 某个坑为什么存在 | `question/`（含文档 URL 出处） |
 | 账号 / ID / 密钥 / 环境地址 | `备忘.md` |
 | SDK API 细节 | `document/output/psn_12/...` |
 | 爬虫怎么用 | `document/README.md` |

@@ -1,4 +1,4 @@
-# PS5 支付接入方案（CB2N-待分配）
+# PS5 支付接入方案（CB2N-30579）
 
 ## 0. 核心认知：PS5 支付与 Steam 的根本差异
 
@@ -85,7 +85,7 @@ onFinalizePS5RechargeOrder(character_id, entitlement_label):
   4. 5xx/超时 → 用同 transactionId 重试（tick 驱动，照抄 SteamOrderRetry 模式）
 ```
 
-**服务端 S2S 认证**：登录服已有 PSN OAuth token 交换（`chaos_login_user_ps5.lua`
+**服务端 S2S 认证**：登录服已有 PSN OAuth token 交换（原 `chaos_login_user_ps5.lua`，**已删除**、现走 GAC
 的 client credentials 流）。支付复用同一 client_id/secret 拿 Bearer，
 或走 Auth Web API 的 S2S token —— 与登录基建共用。
 
@@ -149,91 +149,8 @@ onFinalizePS5RechargeOrder(character_id, entitlement_label):
 
 ---
 
-## 实施状态（2026-08-26 更新）
+---
 
-### 已完成（全部代码已提交，分支 feature/CB2N-29569-ps5-trophy-payment）
+## 实施状态
 
-**客户端（Chaos）**：
-- `chaos_ps5_commerce_context.{h,cpp}`：CHECKOUT 弹窗 + 状态机（idle/running/purchased/closed）
-- 生命周期按 SDK sample 模式：**每次购买 Initialize → Open2 → 轮询 → GetResult → Terminate**（非常驻 init）
-- `sceCommonDialogInitialize` 前置（CommerceDialog 是 CommonDialog 系，与 SigninDialog 不同）
-- Param2/Open2 新 API：serviceLabel=0 + serviceName=COMMERCE_CATALOG_AND_ENTITLEMENTS
-- PRX 只有 `SCE_SYSMODULE_NP_COMMERCE`（无独立 COMMERCE_DIALOG 模块）
-- Meta 暴露：`openPS5Checkout(label)` / `getPS5CheckoutState()`
-- V1 跳过 NpCppWebApi/In-Game Catalog 自绘（商品 label 配置侧给，CHECKOUT 价格系统渲染）
-
-**服务端（PG charge_server）**：
-- `chaos_charge_server_charge_manager_ps5.lua`：mixin 进主 manager（DMM/Xsolla 同模式）
-- Bearer token：client credentials 流（POST oauth/token，Basic auth），缓存+提前5分钟刷新
-- consumeEntitlement：PUT /api/entitlement/v2/users/{account_id}/entitlements/{label}
-  - PSVC 不传 useCount（一次全部消耗），transactionId 幂等（order_id 充当，格式 ps5_N）
-  - 200→发货（CHARGE2CHARACTERFinalizeSteamOrder 复用）；5xx→重试队列；4xx→终态删单
-- **字段声明在主 manager ctor**（Chaos 严格类型 + 防御：initialize 链抛错不影响 tick）
-- RPC：CLT2CHARACTERFinalizePS5RechargeOrder → character 转发 → CHARGE.FinalizePS5RechargeOrder（nsd schema 已加，RPC 已生成）
-
-**引擎配置（Chaos general_server）**：
-- config_accessor 加 ps5_s2s_server_addr/client_id/client_secret 字段+getter+setter
-- general_server_root 解析 server_address_info_config.xml 的 <ps5> 节点
-- **坑：meta 生成后必须重编 chaos_general_server.dll**（曾因 dll 旧导致 getter 缺实现→Lua 抛错→字段未初始化→tick 崩）
-
-**客户端 Lua（PG）**：
-- 充值 UI ps5 分支：列表过滤 + 点击 openPS5Checkout + tickImpl 轮询 purchased→RPC
-- TEST 写死：商品 label "CONQCOIN00000000"（Content Pipeline 的 16 位 entitlement label）、测试档借用 steam 行
-
-### 配置侧（Content Pipeline，已完成）
-- Product Group: Add-on - Unified Entitlement（PS5 只能用 unified，service 是 PS4 遗留）
-- 虚拟货币 = PSVC 包类型；Consumable=Yes + Consumable Limit + Virtual Currency=Yes
-- **Group 内的 Product = 区域变体**（不是档位！）；**多档位 = 多个 Group 共享 entitlement**（Use existing consumable Entitlement）
-- Entitlement Label 16位：CONQCOIN00000000
-- 商品需 Publish to Sp-int 才能在 DevKit 测试
-
-### 待验证（全链路实测）
-- [ ] charge_server 启动无报错（字段 ctor 声明修复后）
-- [ ] 充值 UI 显示 "PS5 TEST" 档
-- [ ] CHECKOUT 弹窗 → 测试钱包付款（VISA 4444 4444 4444 4448）
-- [ ] 日志链：checkout opened → purchased → onFinalizeRechargeOrder → token succeed → onConsumeSuccess
-- [ ] 金币到账
-
-### 2026-08-31 排障记录（"目前无法购买此产品"）
-
-**结论：不是代码问题，是 Content Pipeline 商品未就绪。** 该文案是 PS5 系统 UI 文字
-（checkout 模式下指定了不可购商品时系统报错，CommerceDialog 文档原文）。
-
-排查过程中修掉的两个真实代码 bug（源码已改，**需重编 dll**）：
-1. `getCheckoutState()` 原 const → purchased/closed 永不复位 idle，第二次 openCheckout
-   被 `not ready state=3` 静默拒绝。改为读取 purchased/closed 后自动回 idle（一次性语义）。
-2. `sceNpCommerceDialogGetResult()` 返回值判断 `ret != SCE_OK` → 错。该函数正常终止
-   返回正值（OK=1/USER_CANCELED=2/PURCHASED），错误才是负值。改为 `ret < 0`。
-
-**商品侧依赖链（当前卡点）**：
-```
-Product: Submitted ✅（Submitted ≠ 可售）
-  └─ Entitlement: In Progress ⏳（SIE 异步开通 PSVC，只能等）
-       └─ PAR: 各区域 WSP 已填 + Availability 已填 → 提交 → SIE 审核 → Valid
-            └─ Availability 日期到（新 PAR 强制未来日期，最早约+5天）
-                 └─ Product Preview 发布（PSVC 选 Publish without Linking Entitlements）
-                      └─ ★Store Preview 确认有价 → checkout 可购买
-```
-
-**字段语义**：
-- **WSP**（Wholesale Selling Price）：批发结算价 = 商店售价基数。SIE 分成结算基准，
-  玩家看到的价格即基于它（美区等消费税另加）。dev 环境真实扣测试钱包。
-- **Availability**：上架日期（street date）。**新 PAR 只能填未来日期**（Content Pipeline
-  硬规则，防绕过审核），日期未到 = 所有环境不可购买。测试填系统允许的最早日期。
-- **Regional Termination Date**：区域下架日期（对应 catalog API SKU endDate）。
-  测试留空 = 永不下架。
-- **区域必须匹配测试账号注册国**：checkout 按账号所在区取价/判可售，账号美区就配 US/USD。
-
-**dev 环境也要走 PAR 全流程**（Commerce Programming Guide – Before Starting Development：
-dev 测试 = 购买 "products created in the development environment"）。dev 优惠仅两条：
-测试卡充值 + Product Preview 直接发布（不过 SIE 认证）。PAR 审核/Availability 规则不分环境。
-
-**一档面额一个 Product**（PSVC 文档 BIGGAMEBUCKS_100 模式）。100 金币 = CONQCOIN00000000；
-后续 500/1000 档各建 Product（独立 entitlement label），服务端按 label 映射金币数。
-
-### 遗留
-- 设计表 recharge_gold_table 加 ps5 行 + ps5_product_label 列（替换 TEST 写死）
-- client_id 确认有 entitlements scope（token 400 时查）
-- Client Secret 生产前必须轮换（已泄漏过）
-- GuardianModeManager 的 URL 缺斜杠 bug（2023年老bug，与支付无关，未修）
-- 客户端 dll 重编（含 getCheckoutState/GetResult 两修复）后才能全链路实测
+见 [STATUS.md](STATUS.md)。

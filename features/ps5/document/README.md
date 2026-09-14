@@ -1,4 +1,4 @@
-# PS5 文档抓取与整理（ps5-document）
+# PS5 文档抓取与整理（ps5/document）
 
 本目录用于爬取、整理 PlayStation 5 / PSN 官方文档，为 `CB2N-27968` PS5 登录功能提供离线参考。
 
@@ -57,7 +57,7 @@
 ## 快速开始
 
 ```bash
-cd features/ps5-document
+cd features/ps5/document
 
 # 1. 启动已登录的 Chrome（CDP 9222）
 python scripts/start_chrome_debug.py
@@ -116,4 +116,4 @@ PS5 SDK 与 DevNet 文档受 NDA 保护：
 
 ## 相关 feature
 
-- `features/ps5-login/` — PS5 登录功能实现。
+- `features/ps5/login/` — PS5 登录功能实现。

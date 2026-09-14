@@ -114,5 +114,5 @@ ClientTickManager::tickPostloads()        ← 主线程单线程段
 
 ## 相关文档
 
-- SDK：`features/ps5-document/output/psn_12/System/Save_Data/`（`SaveData-Overview/basic-procedure.md`、`notes-regarding-the-calling-source-thread.md`、`SaveData-Reference/sce-save-data-*.md`）
-- [../STATUS.md](../STATUS.md) — PS5 登录（CB2N-27968）进度，本功能复用其 `initializePS5`/`finalizePS5` 与用户 id
+- SDK：`features/ps5/document/output/psn_12/System/Save_Data/`（`SaveData-Overview/basic-procedure.md`、`notes-regarding-the-calling-source-thread.md`、`SaveData-Reference/sce-save-data-*.md`）
+- [../login/STATUS.md](../login/STATUS.md) — PS5 登录（CB2N-27968）进度，本功能复用其 `initializePS5`/`finalizePS5` 与用户 id

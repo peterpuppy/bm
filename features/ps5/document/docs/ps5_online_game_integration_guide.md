@@ -165,16 +165,16 @@
 
 | 文档 | 本地路径 |
 |---|---|
-| NpAuth 中的 NP 环境切换 | `output/psn_12/SDK/12.000/NpAuth-Overview/support-for-np-environment-switching.md` |
-| PlayStation™Network 概述 - NP 环境 | `output/psn_12/SDK/12.000/PSN-Overview/np-environments.md` |
-| PSN Service Setup - 服务请求与生产启用 | `output/psn_12/SDK/12.000/PSN_Service_Setup-Guide/requesting-a-service-enabling-to-productio.md` |
+| NpAuth 中的 NP 环境切换 | `output/psn_12/PlayStationNetwork/Authentication_and_Authorization/NpAuth-Overview/support-for-np-environment-switching.md` |
+| PlayStation™Network 概述 - NP 环境 | `output/psn_12/PlayStationNetwork/Start_Here/PSN-Overview/np-environments.md` |
+| PSN Service Setup - 服务请求与生产启用 | `output/psn_12/PlayStationNetwork/Start_Here/PSN_Service_Setup-Guide/requesting-a-service-enabling-to-productio.md` |
 
 ### Matchmaking 在两种架构下的 ruleset 应用
 
 | 文档 | 本地路径 |
 |---|---|
-| Legacy 下应用 Ruleset | `output/psn_12/WebAPI/1/Matchmaking-Overview/using-rulesets.md` |
-| Sandbox 下应用 Ruleset | `output/psn_12/WebAPI/1/Matchmaking-Overview/using-rulesets-in-sandbox-mode.md` |
+| Legacy 下应用 Ruleset | `output/psn_12/PlayStationNetwork/Session_Manager_(Sessions_Invitations_Matches_Matchmaking)/Matchmaking-Overview/using-rulesets.md` |
+| Sandbox 下应用 Ruleset | `output/psn_12/PlayStationNetwork/Session_Manager_(Sessions_Invitations_Matches_Matchmaking)/Matchmaking-Overview/using-rulesets-in-sandbox-mode.md` |
 
 ---
 

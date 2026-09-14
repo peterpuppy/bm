@@ -1,6 +1,6 @@
 # PS5 SDK 12.000 Documentation Catalog
 
-- **Source:** `E:\code\mutli_level\features\ps5-document\spike_output\psn_12_landing.html`
+- **Source:** `E:\code\mutli_level\features\ps5\document\spike_output\psn_12_landing.html`
 - **Base page:** https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayStation_Network/PlayStation_Network_Landing.html
 - **Total leaf links:** 559
 

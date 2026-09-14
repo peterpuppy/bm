@@ -4,7 +4,7 @@
 >
 > 相关实现：
 > - 客户端：`H:\cb2\dev\chaos\_source\_engine\source\client\private\chaos\client\platform\chaos_platform_delegate.cpp`
-> - 登录服：`H:\cb2\dev\wolfgang\_games\proven_ground\_source\_scripts\server\login_server\login_user\chaos_login_user_ps5.lua`
+> - 登录服：~~`.../login_user/chaos_login_user_ps5.lua`~~ **（已删除，改走 GAC，见 [game_account_center.md](game_account_center.md)）**
 
 ---
 
@@ -141,12 +141,12 @@ ID Token 方案只适合做“身份校验”，无法直接拿到 access_token 
 
 ## 原始 PS5 文档参考
 
-见 [ps5_sdk_reference_links.md](ps5_sdk_reference_links.md)。
+见 [ps5_sdk_reference_links.md](../../shared/ps5_sdk_reference_links.md)。
 
 ---
 
 ## 安全提示
 
 - Client Secret 只能存在于登录服，禁止写入客户端或提交 git。
-- 当前 `chaos_login_user_ps5.lua` 中硬编码的 Client Secret 仅用于研发测试，生产前必须轮换并迁出代码。
+- ~~`chaos_login_user_ps5.lua` 中硬编码的 Client Secret~~ —— 该文件已删除，secret 现只存在于 GAC 服务端。**GAC 侧仍需轮换**（已泄漏过）。
 - PS5 SDK 文档受 NDA 保护，不要上传到在线服务或公开仓库。

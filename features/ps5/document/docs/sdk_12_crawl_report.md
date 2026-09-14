@@ -1,10 +1,10 @@
 # PS5 SDK 12.000 Documentation Crawl Report
 
-- **Source catalog:** `E:\code\mutli_level\features\ps5-document\spike_output\sdk_12_catalog.json`
-- **Master index:** `E:\code\mutli_level\features\ps5-document\output\psn_12\_index.json`
+- **Source catalog:** `E:\code\mutli_level\features\ps5\document\spike_output\sdk_12_catalog.json`
+- **Master index:** `E:\code\mutli_level\features\ps5\document\output\psn_12\_index.json`
 - **Total catalog entries:** 559
-- **Crawled entries:** 98
-- **Coverage:** 17.5%
+- **Crawled entries:** 131
+- **Coverage:** 23.4%
 
 This report lists every section from the SDK/12.000 sidebar, marks whether it has been crawled, and includes a short synopsis for each section that has been downloaded.
 
@@ -13,16 +13,16 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 | Category | Entries | Crawled | Coverage |
 |---|---:|---:|---:|
 | Audio/Video | 78 | 0 | 0.0% |
-| Getting Started | 26 | 0 | 0.0% |
+| Getting Started | 26 | 5 | 19.2% |
 | Graphics | 49 | 0 | 0.0% |
 | Input/Output Devices | 47 | 0 | 0.0% |
 | Network | 21 | 0 | 0.0% |
 | Performance Optimization Guides | 2 | 0 | 0.0% |
-| PlayStation®4 Cross-Generation SDK | 38 | 2 | 5.3% |
-| PlayStation™Network | 112 | 94 | 83.9% |
-| Publishing | 13 | 0 | 0.0% |
+| PlayStation®4 Cross-Generation SDK | 38 | 3 | 7.9% |
+| PlayStation™Network | 112 | 108 | 96.4% |
+| Publishing | 13 | 1 | 7.7% |
 | Release Information | 6 | 0 | 0.0% |
-| System | 153 | 2 | 1.3% |
+| System | 153 | 14 | 9.2% |
 | TRC and Guidelines | 2 | 0 | 0.0% |
 | Target Management | 12 | 0 | 0.0% |
 
@@ -465,10 +465,11 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/T_Technical-Overview/__toc.html
 - **Expected local:** `output/psn_12/Getting_Started/PlayStation5_Pro/T_Technical-Overview/index.md`
 
-### Programming Startup Guide — ⬜ Not crawled
+### Programming Startup Guide — ✅ Crawled (76 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Programming-Startup_Guide/__toc.html
-- **Expected local:** `output/psn_12/Getting_Started/Programming_Basics/Programming-Startup_Guide/index.md`
+- **Local:** `output/psn_12/Getting_Started/Programming_Basics/Programming-Startup_Guide/index.md`
+- **Synopsis:** This topic provides basic information about the programming environments needed for application development on a DevKit. Concepts covered include source code file formats, standard libraries, error handling, and points to note about libraries for development only. Some informa...
 
 ### Sample Program Overview — ⬜ Not crawled
 
@@ -480,25 +481,29 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Requirements/__toc.html
 - **Expected local:** `output/psn_12/Getting_Started/Development_Environment/System_Requirements/index.md`
 
-### System Software Overview — ⬜ Not crawled
+### System Software Overview — ✅ Crawled (8 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Overview/__toc.html
-- **Expected local:** `output/psn_12/Getting_Started/System_Software/System_Software-Overview/index.md`
+- **Local:** `output/psn_12/Getting_Started/System_Software/System_Software-Overview/index.md`
+- **Synopsis:** The system software is a collective name for multiple pieces of software that run on PlayStation®5 hardware (Development Kits, Testing Kits, and retail units) with the following roles and characteristics:
 
-### System Software User's Guide (Application Development Support) — ⬜ Not crawled
+### System Software User's Guide (Application Development Support) — ✅ Crawled (10 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Users_Guide_for_Development_Support/__toc.html
-- **Expected local:** `output/psn_12/Getting_Started/System_Software/System_Software-Users_Guide_for_Development_Support/index.md`
+- **Local:** `output/psn_12/Getting_Started/System_Software/System_Software-Users_Guide_for_Development_Support/index.md`
+- **Synopsis:** The system software of the Development Kit ("DevKit" hereafter) and Testing Kit ("TestKit" hereafter) provides various features; from among them, this document explains the various features that support application development. For each feature of "Settings" > "★Debug Settings...
 
-### System Software User's Guide (Main Screens) — ⬜ Not crawled
+### System Software User's Guide (Main Screens) — ✅ Crawled (9 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Users_Guide_for_Main_Screens/__toc.html
-- **Expected local:** `output/psn_12/Getting_Started/System_Software/System_Software-Users_Guide_for_Main_Screens/index.md`
+- **Local:** `output/psn_12/Getting_Started/System_Software/System_Software-Users_Guide_for_Main_Screens/index.md`
+- **Synopsis:** This document explains the main screens of the system software (their purpose, role, and design background) that should be understood by application developers.
 
-### System Software User's Guide (Settings) — ⬜ Not crawled
+### System Software User's Guide (Settings) — ✅ Crawled (172 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-Users_Guide_for_Settings/__toc.html
-- **Expected local:** `output/psn_12/Getting_Started/System_Software/System_Software-Users_Guide_for_Settings/index.md`
+- **Local:** `output/psn_12/Getting_Started/System_Software/System_Software-Users_Guide_for_Settings/index.md`
+- **Synopsis:** This topic provides an overview and the reference materials of the [System Software User's Guide (Settings)](__document_toc.html) document.
 
 ### Target Management Applications UI Overview — ⬜ Not crawled
 
@@ -1307,10 +1312,11 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Sysmodule-PS4CrossGen_Supplement/__toc.html
 - **Expected local:** `output/psn_12/PlayStation4_Cross-Generation_SDK/System/Sysmodule-PS4CrossGen_Supplement/index.md`
 
-### System Software Cross-Generation Supplement — ⬜ Not crawled
+### System Software Cross-Generation Supplement — ✅ Crawled (3 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Software-PS4CrossGen_Supplement/__toc.html
-- **Expected local:** `output/psn_12/PlayStation4_Cross-Generation_SDK/Start_Here/System_Software-PS4CrossGen_Supplement/index.md`
+- **Local:** `output/psn_12/PlayStation4_Cross-Generation_SDK/Start_Here/System_Software-PS4CrossGen_Supplement/index.md`
+- **Synopsis:** The PlayStation®4 Cross-Generation SDK ("Cross-Gen SDK") is an SDK for making some of the SDK features provided for PlayStation®5 usable on PlayStation®4. For more information about the Cross-Gen SDK as a whole, refer to the [Cross-Generation Overview](../Cross_Generation-Over...
 
 ### TCS Cross-Platform Data Sharing Demo Cross-Generation Supplement — ⬜ Not crawled
 
@@ -1373,20 +1379,23 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **Local:** `output/psn_12/PlayStationNetwork/Activities/Active_Activities_WebAPI-Reference/index.md`
 - **Synopsis:** The Active Activities Web API allows you to obtain information about activities that a user is playing.
 
-### Advanced Player Profile Editor User's Guide — ⬜ Not crawled
+### Advanced Player Profile Editor User's Guide — ✅ Crawled (12 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Advanced_Player_Profile_Editor-Users_Guide/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/Advanced_Player_Profile_Editor-Users_Guide/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/Advanced_Player_Profile_Editor-Users_Guide/index.md`
+- **Synopsis:** This guide is for those who develop or test online games on PlayStation™Network. This includes:
 
-### Advanced Player Profile Management Web API Reference — ⬜ Not crawled
+### Advanced Player Profile Management Web API Reference — ✅ Crawled (6 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/Advanced_Player_Profile_Management_WebAPI-Reference/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/Advanced_Player_Profile_Management_WebAPI-Reference/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/Advanced_Player_Profile_Management_WebAPI-Reference/index.md`
+- **Synopsis:** Beginning Fall of 2026, support for the Advanced Player Profile Management Web API service will end.
 
-### Advanced Player Profile Web API Reference — ⬜ Not crawled
+### Advanced Player Profile Web API Reference — ✅ Crawled (4 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/Advanced_Player_Profile_WebAPI-Reference/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/Advanced_Player_Profile_WebAPI-Reference/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/Advanced_Player_Profile_WebAPI-Reference/index.md`
+- **Synopsis:** Beginning Fall of 2026, support for the Advanced Player Profile Web API service will end.
 
 ### Auth Web API Overview — ✅ Crawled (26 files)
 
@@ -1412,15 +1421,17 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **Local:** `output/psn_12/PlayStationNetwork/Authentication_and_Authorization/Auth_for_Websites-Reference/index.md`
 - **Synopsis:** Start of sign-out
 
-### Commerce Management Web API Overview — ⬜ Not crawled
+### Commerce Management Web API Overview — ✅ Crawled (8 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/Commerce_Management_WebAPI-Overview/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Entitlements/Commerce_Management_WebAPI-Overview/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Entitlements/Commerce_Management_WebAPI-Overview/index.md`
+- **Synopsis:** This chapter provides basic information on the Commerce Management Web API.
 
-### Commerce Management Web API Reference — ⬜ Not crawled
+### Commerce Management Web API Reference — ✅ Crawled (14 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/Commerce_Management_WebAPI-Reference/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Entitlements/Commerce_Management_WebAPI-Reference/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Entitlements/Commerce_Management_WebAPI-Reference/index.md`
+- **Synopsis:** The Commerce Management Web API allows you to retrieve events from self-defined title streams. A title stream is associated with one or more game titles and each title stream can have multiple event streams. You can retrieve all events from a specific start position.
 
 ### Communication Restriction Status Web API Overview — ✅ Crawled (4 files)
 
@@ -1458,15 +1469,17 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **Local:** `output/psn_12/PlayStationNetwork/Developer_Accounts/Development_Accounts-Users_Guide/index.md`
 - **Synopsis:** This topic describes the Development Accounts Feature.
 
-### Entitlements Overview — ⬜ Not crawled
+### Entitlements Overview — ✅ Crawled (16 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/Entitlements-Overview/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Entitlements/Entitlements-Overview/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Entitlements/Entitlements-Overview/index.md`
+- **Synopsis:** This chapter provides details on how to use the Entitlements Web API.
 
-### Entitlements Web API Reference — ⬜ Not crawled
+### Entitlements Web API Reference — ✅ Crawled (8 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/Entitlements_WebAPI-Reference/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Entitlements/Entitlements_WebAPI-Reference/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Entitlements/Entitlements_WebAPI-Reference/index.md`
+- **Synopsis:** The Entitlements Web API gives developers the ability to retrieve and update entitlement information. An entitlement is a rule granting conditional access for a user to protected resources associated with an SKU.
 
 ### Game Intent System Overview — ✅ Crawled (11 files)
 
@@ -1474,15 +1487,17 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **Local:** `output/psn_12/PlayStationNetwork/Game_Intent/Game_Intent_System-Overview/index.md`
 - **Synopsis:** This topic describes the debugging feature provided by the system software for supporting the development of game intent-compatible applications.
 
-### ID Mapper Web API Overview — ⬜ Not crawled
+### ID Mapper Web API Overview — ✅ Crawled (7 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/ID_Mapper_WebAPI-Overview/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/ID_Mapper_WebAPI-Overview/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/ID_Mapper_WebAPI-Overview/index.md`
+- **Synopsis:** This chapter provides information on how to use the ID Mapper Web API.
 
-### ID Mapper Web API Reference — ⬜ Not crawled
+### ID Mapper Web API Reference — ✅ Crawled (8 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/ID_Mapper_WebAPI-Reference/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/ID_Mapper_WebAPI-Reference/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/ID_Mapper_WebAPI-Reference/index.md`
+- **Synopsis:** The ID Mapper Web API provides online ID change history and mapping between account IDs and online IDs. It contains subresources that map from online ID to account ID (/map/onlineId2accountId), and account ID to online ID (/map/accountId2onlineId).
 
 ### In-Game Catalog Overview — ✅ Crawled (12 files)
 
@@ -1814,15 +1829,17 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **Local:** `output/psn_12/PlayStationNetwork/Session_Manager_(Sessions_Invitations_Matches_Matchmaking)/PlayerInvitationDialog-Reference/index.md`
 - **Synopsis:** Initialize the player invitation dialog
 
-### PlayerSelectionDialog Library Overview — ⬜ Not crawled
+### PlayerSelectionDialog Library Overview — ✅ Crawled (10 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerSelectionDialog-Overview/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/PlayerSelectionDialog-Overview/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/PlayerSelectionDialog-Overview/index.md`
+- **Synopsis:** Being in the signed-in state (state in which a connection can be made to the PlayStation™Network if network conditions are met) is a precondition to using the PlayerSelectionDialog library. A network-connected environment is also required.
 
-### PlayerSelectionDialog Library Reference — ⬜ Not crawled
+### PlayerSelectionDialog Library Reference — ✅ Crawled (19 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/PlayerSelectionDialog-Reference/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/PlayerSelectionDialog-Reference/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/PlayerSelectionDialog-Reference/index.md`
+- **Synopsis:** Initialize the player selection dialog
 
 ### Premium Feature Gating Tutorial — ✅ Crawled (11 files)
 
@@ -1894,10 +1911,11 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **Local:** `output/psn_12/PlayStationNetwork/Signin/SigninDialog-Reference/index.md`
 - **Synopsis:** List of return codes returned by the SigninDialog library
 
-### Subscription Status Web API Overview — ⬜ Not crawled
+### Subscription Status Web API Overview — ✅ Crawled (2 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/Subscription_Status_WebAPI-Overview/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Entitlements/Subscription_Status_WebAPI-Overview/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Entitlements/Subscription_Status_WebAPI-Overview/index.md`
+- **Synopsis:** This chapter provides an overview of the Subscription Status Web API and its systems.
 
 ### Subscription Status Web API Reference — ✅ Crawled (4 files)
 
@@ -1971,15 +1989,17 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **Local:** `output/psn_12/PlayStationNetwork/Universal_Data_System_(UDS)/Universal_Data_System-Guide/index.md`
 - **Synopsis:** The Local Development Workflow is a server independent workflow that facilitates rapid, local development cycles for testing UDS implementation in applications.
 
-### User Profile Overview — ⬜ Not crawled
+### User Profile Overview — ✅ Crawled (20 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/User_Profile-Overview/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/User_Profile-Overview/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/User_Profile-Overview/index.md`
+- **Synopsis:** Presence information indicates how individual users are currently accessing PlayStation™Network, as follows.
 
-### User Profile Web API Reference — ⬜ Not crawled
+### User Profile Web API Reference — ✅ Crawled (13 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/WebAPI/1/User_Profile_WebAPI-Reference/__toc.html
-- **Expected local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/User_Profile_WebAPI-Reference/index.md`
+- **Local:** `output/psn_12/PlayStationNetwork/Users_and_Profiles/User_Profile_WebAPI-Reference/index.md`
+- **Synopsis:** By using the User Profile Web API, you can obtain information relating to the relationships among fellow players, including user profile information, as well as presence information and friend lists.
 
 ### Virtual Currency Tutorial — ✅ Crawled (12 files)
 
@@ -2040,10 +2060,11 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Param_Editor-Users_Guide/__toc.html
 - **Expected local:** `output/psn_12/Publishing/Publishing_Tools/Param_Editor-Users_Guide/index.md`
 
-### Param.json File Specification — ⬜ Not crawled
+### Param.json File Specification — ✅ Crawled (14 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Param_Json-Specification/__toc.html
-- **Expected local:** `output/psn_12/Publishing/Publishing_Tools/Param_Json-Specification/index.md`
+- **Local:** `output/psn_12/Publishing/Publishing_Tools/Param_Json-Specification/index.md`
+- **Synopsis:** This document describes the parameters that can be stored in param files, and their potential values. Param files (param.json) store parameters that are used by the system software. The system software uses these param files to determine its behavior towards a control target, ...
 
 ### PlayStation®5 Packaging Troubleshooting — ⬜ Not crawled
 
@@ -2334,10 +2355,11 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/ErrorCode-Table/__toc.html
 - **Expected local:** `output/psn_12/System/Error_Codes/ErrorCode-Table/index.md`
 
-### Error Codes Related to User Management — ⬜ Not crawled
+### Error Codes Related to User Management — ✅ Crawled (3 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Error_Codes_Related_to_User_Management-Reference/__toc.html
-- **Expected local:** `output/psn_12/System/Error_Codes/Error_Codes_Related_to_User_Management-Reference/index.md`
+- **Local:** `output/psn_12/System/Error_Codes/Error_Codes_Related_to_User_Management-Reference/index.md`
+- **Synopsis:** | **Value** | **Number** | **Description** | | --- | --- | --- | | `SCE_DEVICE_SERVICE_ERROR_INVALID_USER` | 0x809B0001 | Specified user ID is invalid | | `SCE_DEVICE_SERVICE_ERROR_INVALID_DEVICE_TYPE` | 0x809B0002 | Specified device type does not exist | | `SCE_DEVICE_SERVICE...
 
 ### ErrorDialog Library Overview — ⬜ Not crawled
 
@@ -2429,15 +2451,17 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Json2-Reference/__toc.html
 - **Expected local:** `output/psn_12/System/JSON/Json2-Reference/index.md`
 
-### Kernel Overview — ⬜ Not crawled
+### Kernel Overview — ✅ Crawled (72 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/__toc.html
-- **Expected local:** `output/psn_12/System/Kernel/Kernel-Overview/index.md`
+- **Local:** `output/psn_12/System/Kernel/Kernel-Overview/index.md`
+- **Synopsis:** The PlayStation®5 kernel provides an exclusive virtual address space for each process. Both programs that run on the CPU and shaders that run on the GPU will run in the same virtual address space.
 
-### Kernel Reference — ⬜ Not crawled
+### Kernel Reference — ✅ Crawled (419 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Reference/__toc.html
-- **Expected local:** `output/psn_12/System/Kernel/Kernel-Reference/index.md`
+- **Local:** `output/psn_12/System/Kernel/Kernel-Reference/index.md`
+- **Synopsis:** Forced termination due to `sceSystemServiceReportAbnormalTermination()`
 
 ### Link Time Optimization (LTO) Overview — ⬜ Not crawled
 
@@ -2449,25 +2473,29 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Linker-Users_Guide/__toc.html
 - **Expected local:** `output/psn_12/System/Compiling_Linking_and_Building/Linker-Users_Guide/index.md`
 
-### LoginDialog Library Overview — ⬜ Not crawled
+### LoginDialog Library Overview — ✅ Crawled (14 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/LoginDialog-Overview/__toc.html
-- **Expected local:** `output/psn_12/System/User_Management/LoginDialog-Overview/index.md`
+- **Local:** `output/psn_12/System/User_Management/LoginDialog-Overview/index.md`
+- **Synopsis:** The login dialog is displayed as shown in the figure below. It can be closed by user operation.
 
-### LoginDialog Library Reference — ⬜ Not crawled
+### LoginDialog Library Reference — ✅ Crawled (17 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/LoginDialog-Reference/__toc.html
-- **Expected local:** `output/psn_12/System/User_Management/LoginDialog-Reference/index.md`
+- **Local:** `output/psn_12/System/User_Management/LoginDialog-Reference/index.md`
+- **Synopsis:** List of return codes returned by the LoginDialog library
 
-### LoginService Library Overview — ⬜ Not crawled
+### LoginService Library Overview — ✅ Crawled (15 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/LoginService-Overview/__toc.html
-- **Expected local:** `output/psn_12/System/User_Management/LoginService-Overview/index.md`
+- **Local:** `output/psn_12/System/User_Management/LoginService-Overview/index.md`
+- **Synopsis:** The following devices connected to a PlayStation®5 console are excluded from the devices that can be reassigned with the LoginService library.
 
-### LoginService Library Reference — ⬜ Not crawled
+### LoginService Library Reference — ✅ Crawled (11 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/LoginService-Reference/__toc.html
-- **Expected local:** `output/psn_12/System/User_Management/LoginService-Reference/index.md`
+- **Local:** `output/psn_12/System/User_Management/LoginService-Reference/index.md`
+- **Synopsis:** List of return codes returned by the LoginService library
 
 ### Machine Code Analyzer (llvm-mca) Overview — ⬜ Not crawled
 
@@ -2756,15 +2784,17 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Sysmodule-Reference/__toc.html
 - **Expected local:** `output/psn_12/System/Generating_and_Using_Dynamic_Libraries/Sysmodule-Reference/index.md`
 
-### SystemService Library Overview — ⬜ Not crawled
+### SystemService Library Overview — ✅ Crawled (25 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/SystemService-Overview/__toc.html
-- **Expected local:** `output/psn_12/System/System_Service/SystemService-Overview/index.md`
+- **Local:** `output/psn_12/System/System_Service/SystemService-Overview/index.md`
+- **Synopsis:** Use of the SystemService library does not require library initialization or termination. The system software will automatically perform the required processing upon application startup and termination.
 
-### SystemService Library Reference — ⬜ Not crawled
+### SystemService Library Reference — ✅ Crawled (60 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/SystemService-Reference/__toc.html
-- **Expected local:** `output/psn_12/System/System_Service/SystemService-Reference/index.md`
+- **Local:** `output/psn_12/System/System_Service/SystemService-Reference/index.md`
+- **Synopsis:** Stop display of the startup image
 
 ### TextToSpeech2 Library Overview — ⬜ Not crawled
 
@@ -2796,20 +2826,23 @@ This report lists every section from the SDK/12.000 sidebar, marks whether it ha
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/Ult-Reference/__toc.html
 - **Expected local:** `output/psn_12/System/Multitasking/Ult-Reference/index.md`
 
-### User Management Overview — ⬜ Not crawled
+### User Management Overview — ✅ Crawled (13 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/User_Management-Overview/__toc.html
-- **Expected local:** `output/psn_12/System/User_Management/User_Management-Overview/index.md`
+- **Local:** `output/psn_12/System/User_Management/User_Management-Overview/index.md`
+- **Synopsis:** With PlayStation®5, controllers have built-in microphones and speakers, and it is also possible to connect headsets. Since a single device will have multiple input/output features such as these, applications must have methods for identifying devices through each device library...
 
-### UserService Library Overview — ⬜ Not crawled
+### UserService Library Overview — ✅ Crawled (13 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/UserService-Overview/__toc.html
-- **Expected local:** `output/psn_12/System/User_Management/UserService-Overview/index.md`
+- **Local:** `output/psn_12/System/User_Management/UserService-Overview/index.md`
+- **Synopsis:** This topic describes the basic procedure for user management using the UserService library, how to obtain user IDs in a single player game, game preset configuration, and how to use settings values related to accessibility.
 
-### UserService Library Reference — ⬜ Not crawled
+### UserService Library Reference — ✅ Crawled (27 files)
 
 - **URL:** https://game.develop.playstation.net/resources/documents/SDK/12.000/UserService-Reference/__toc.html
-- **Expected local:** `output/psn_12/System/User_Management/UserService-Reference/index.md`
+- **Local:** `output/psn_12/System/User_Management/UserService-Reference/index.md`
+- **Synopsis:** Constants that indicate the maximum values for the lengths of various types of data
 
 ### Vectormath Library Overview — ⬜ Not crawled
 

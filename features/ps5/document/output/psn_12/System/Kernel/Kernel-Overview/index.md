@@ -1,0 +1,75 @@
+# Kernel Overview – SDK 12.000
+
+Source: https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/__toc.html
+
+1. About This Document
+   1. [Purpose](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/purpose.html "Purpose")
+   2. [Scope](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/scope.html "Scope")
+   3. [Reference Materials](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/reference-materials.html "Reference Materials")
+2. PlayStation®5 Kernel Overview
+   1. [PlayStation®5 Kernel](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/ps5-kernel.html "PlayStation®5 Kernel")
+   2. [PlayStation®5 Kernel API](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/ps5-kernel-api.html "PlayStation®5 Kernel API")
+3. Process Management
+   1. [Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/overview.html "Overview")
+   2. [Process ID and Execution Priority](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/process-id-and-execution-priority.html "Process ID and Execution Priority")
+   3. [Process Resources](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/process-resources.html "Process Resources")
+   4. [Process Creation](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/process-creation.html "Process Creation")
+   5. [Process Termination](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/process-termination.html "Process Termination")
+   6. [Collection of Process Resources](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/collection-of-process-resources.html "Collection of Process Resources")
+   7. [Initial Settings for the Main Thread](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/initial-settings-for-the-main-thread.html "Initial Settings for the Main Thread")
+4. Memory Management
+   1. [Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/overview-2.html "Overview")
+   2. [Memory Mapping in the Virtual Address Space](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/memory-mapping-in-the-virtual-address-space.html "Memory Mapping in the Virtual Address Space")
+   3. [Logical Pages](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/logical-pages.html "Logical Pages")
+   4. [Direct Memory](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/direct-memory.html "Direct Memory")
+   5. [Pooled Memory](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/pooled-memory.html "Pooled Memory")
+   6. [Memory Access Control by the CPU/GPU/AMPR](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/memory-access-control-by-the-cpu-gpu-ampr.html "Memory Access Control by the CPU/GPU/AMPR")
+   7. [Note Regarding Memory Access Performance in Each of the Application's Operation Modes](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/note-regarding-memory-access-performance-in-each-of-the-appl.html "Note Regarding Memory Access Performance in Each of the Application's Operation Modes")
+   8. [How to Calculate the Memory Consumption of a Program](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/how-to-calculate-the-memory-consumption-of-a-program.html "How to Calculate the Memory Consumption of a Program")
+   9. [Customization of Memory Assignment](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/customization-of-memory-assignment.html "Customization of Memory Assignment")
+5. CPU Management
+   1. [Overview of CPU Resources and CPU Management During Foreground Execution](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/cpu-resources-and-cpu-management-during-foreground-execution.html "Overview of CPU Resources and CPU Management During Foreground Execution")
+   2. [CPU Resources During Background Execution Status](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/cpu-resources-during-background-execution-status.html "CPU Resources During Background Execution Status")
+   3. [Effective Use of Application-side CPU Resources by the System](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/effective-use-of-application-side-cpu-resources-by-the-syste.html "Effective Use of Application-side CPU Resources by the System")
+   4. [Notes Regarding When Applications Support Low Energy Mode](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/notes-when-the-application-supports-low-energy-mode.html "Notes Regarding When Applications Support Low Energy Mode")
+   5. [Power Management Through Control of Frequencies](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/power-management-through-control-of-frequencies.html "Power Management Through Control of Frequencies")
+6. Thread Management
+   1. [Threads](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/threads.html "Threads")
+   2. [Thread Scheduling](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/thread-scheduling.html "Thread Scheduling")
+   3. [Thread States](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/thread-states.html "Thread States")
+   4. [Synchronization Between Threads](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/synchronization-between-threads.html "Synchronization Between Threads")
+   5. [Event Queues](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/event-queues.html "Event Queues")
+   6. [Threads and Memory Resources](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/threads-and-memory-resources.html "Threads and Memory Resources")
+7. Time Management
+   1. [Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/overview-3.html "Overview")
+   2. [Process Time](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/process-time.html "Process Time")
+   3. [Process Time Counter](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/process-time-counter.html "Process Time Counter")
+   4. [Time](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/time.html "Time")
+   5. [POSIX-compatible Times](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/posix-compatible-times.html "POSIX-compatible Times")
+   6. [Summary](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/summary.html "Summary")
+8. Dynamic Libraries
+   1. [Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/overview-4.html "Overview")
+   2. [Main Module](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/main-module.html "Main Module")
+   3. [Maximum Number of Modules That Can Be Loaded](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/maximum-number-of-modules-that-can-be-loaded.html "Maximum Number of Modules That Can Be Loaded")
+   4. [Program Module Handles](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/program-module-handle.html "Program Module Handles")
+   5. [PRX Library Load and Start](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/prx-library-load-and-start.html "PRX Library Load and Start")
+   6. [PRX Library Stop and Unload](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/prx-library-stop-and-unload.html "PRX Library Stop and Unload")
+   7. [Entry Functions](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/entry-functions.html "Entry Functions")
+   8. [Stub File and Load Order](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/stub-file-and-load-order.html "Stub File and Load Order")
+   9. [Version Checking PRX Files](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/version-checking-prx-files.html "Version Checking PRX Files")
+9. File System
+   1. [Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/overview-5.html "Overview")
+   2. [File Access](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/file-access.html "File Access")
+   3. [Asynchronous File Access](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/asynchronous-file-access.html "Asynchronous File Access")
+   4. [StreamWrite](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/stream-write.html "StreamWrite")
+   5. [Slow SSD Mode](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/slow-ssd-mode.html "Slow SSD Mode")
+   6. [SSD Write Throttling](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/ssd-write-throttling.html "SSD Write Throttling")
+   7. [Notes Specific to the PlayStation®5](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/notes-specific-to-the-ps5.html "Notes Specific to the PlayStation®5")
+10. Development Support
+    1. [Overview](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/overview-6.html "Overview")
+    2. [Kernel Objects](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/kernel-objects.html "Kernel Objects")
+    3. [System Library Verification](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/system-library-verification.html "System Library Verification")
+    4. [Process Stop Upon Occurrence of Anomalies](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/process-stop-upon-occurrence-of-anomalies.html "Process Stop Upon Occurrence of Anomalies")
+    5. [Messages Indicating Insufficient System Reserved Area](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/messages-indicating-insufficient-system-reserved-area.html "Messages Indicating Insufficient System Reserved Area")
+    6. [GPI Switch](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/gpi-switch.html "GPI Switch")
+    7. [GPO and Front Panel LEDs](https://game.develop.playstation.net/resources/documents/SDK/12.000/Kernel-Overview/gpo-and-front-panel-leds.html "GPO and Front Panel LEDs")

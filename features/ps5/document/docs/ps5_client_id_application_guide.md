@@ -35,8 +35,8 @@ App Server (Client Credential)
 ```
 
 参考文档：
-- `output/psn_12/SDK/12.000/PSN_Service_Setup-Guide/requesting-to-add-a-new-service-for-a-new.md`
-- `output/psn_12/SDK/12.000/PSN_Service_Setup-Guide/issuance-of-the-product-credential-files.md`
+- `output/psn_12/PlayStationNetwork/Start_Here/PSN_Service_Setup-Guide/requesting-to-add-a-new-service-for-a-new.md`
+- `output/psn_12/PlayStationNetwork/Start_Here/PSN_Service_Setup-Guide/issuance-of-the-product-credential-files.md`
 
 ---
 
@@ -75,7 +75,7 @@ App Server (Client Credential)
 6. 审批完成后，产品页上该服务状态从 **Requested** 变为 **Development** 或 **Production**。
 
 参考文档：
-- `output/psn_12/SDK/12.000/PSN_Service_Setup-Guide/requesting-to-add-a-new-service-for-a-new.md` 第 106-131 行
+- `output/psn_12/PlayStationNetwork/Start_Here/PSN_Service_Setup-Guide/requesting-to-add-a-new-service-for-a-new.md` 第 106-131 行
 
 ---
 
@@ -111,7 +111,7 @@ Client ID 服务状态变为可用后：
    - **Client Secret**（字符串，需保密）
 
 参考文档：
-- `output/psn_12/SDK/12.000/PSN_Service_Setup-Guide/issuance-of-the-product-credential-files.md` 第 246-281 行
+- `output/psn_12/PlayStationNetwork/Start_Here/PSN_Service_Setup-Guide/issuance-of-the-product-credential-files.md` 第 246-281 行
 
 ---
 
@@ -122,8 +122,8 @@ Client ID 服务状态变为可用后：
 3. 注意：所有下载行为都会被记录到 access log。
 
 参考文档：
-- `output/psn_12/SDK/12.000/PSN_Service_Setup-Guide/issuance-of-the-product-credential-files.md` 第 248-262 行
-- `output/psn_12/SDK/12.000/PSN_Service_Setup-Guide/managing-access-privileges.md`
+- `output/psn_12/PlayStationNetwork/Start_Here/PSN_Service_Setup-Guide/issuance-of-the-product-credential-files.md` 第 248-262 行
+- `output/psn_12/PlayStationNetwork/Start_Here/PSN_Service_Setup-Guide/managing-access-privileges.md`
 
 ---
 
@@ -158,7 +158,7 @@ Issuer ID 映射:    sp-int=1, prod-qa=8, np=256
 | Client ID 配置页截图 | DevNet Client ID 服务配置 | 确认 Redirect URL 填写位置 |
 | "Download Client Secret" 按钮截图 | DevNet 产品详情页 | 确认下载入口 |
 
-> 抓取方式：用现有爬虫扩展 `psn_12` 目录，或者手动把 DevNet 门户关键页面 HTML 保存到 `features/ps5-document/output/devnet_portal/`。
+> 抓取方式：用现有爬虫扩展 `psn_12` 目录，或者手动把 DevNet 门户关键页面 HTML 保存到 `features/ps5/document/output/devnet_portal/`。
 
 ---
 

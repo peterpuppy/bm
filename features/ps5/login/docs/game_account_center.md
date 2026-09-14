@@ -28,7 +28,7 @@
 ## 与 PS5 登录的关系（关键）
 
 - 客户端 Lua 里 steam 走的是 `k_game_account_center_addr + "/steam/getUserInfo"` → **就是这个服务**。
-- **PS5 目前这里没有任何路由**——所以现在 PS5 的 S2S 交换临时写在了 Lua 登录服 `chaos_login_user_ps5.lua` 里。
+- **PS5 此前这里没有任何路由**——所以最初把 PS5 的 S2S 交换临时写在 Lua 登录服 `chaos_login_user_ps5.lua` 里（**该文件已删除**，现已收口到 GAC）。
 - **目标架构**：把 PS5 S2S 收口到本服务，与 steam 对称：
   - 新增 `oauth2/ps5.go`：做 `POST /v3/oauth/token`（Basic ClientID:Secret）+ `GET /v3/oauth/userinfo` → 返回 `account_id`。
   - 新增路由 `/ps5/getUserInfo`（或 `/login/ps5/...`），Controller 里加对应 handler。

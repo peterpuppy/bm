@@ -1,13 +1,13 @@
 # PS5 文档爬虫能力说明
 
-> 对应目录：`E:\code\mutli_level\features\ps5-document`> 用途：爬取 PlayStation Developer Network（DevNet）在线文档到本地 Markdown，供离线查阅与接入参考。
+> 对应目录：`E:\code\mutli_level\features\ps5\document`> 用途：爬取 PlayStation Developer Network（DevNet）在线文档到本地 Markdown，供离线查阅与接入参考。
 
 ---
 
 ## 1. 目录结构
 
 ```
-features/ps5-document/
+features/ps5/document/
 ├── docs/                       # 人工整理/生成的文档
 │   ├── ps5_client_id_application_guide.md   # Client ID / Secret 申请手册
 │   ├── ps5_online_game_integration_guide.md # 联网游戏接入总览
@@ -69,7 +69,7 @@ features/ps5-document/
 ### 3.1 首次抓取 PSN 文档
 
 ```bash
-cd features/ps5-document
+cd features/ps5/document
 
 # 1. 启动已登录 DevNet 的 Chrome（CDP 9222）
 python scripts/start_chrome_debug.py

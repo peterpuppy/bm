@@ -1,12 +1,12 @@
-# PS5 奖杯接入方案（CB2N-待分配）
+# PS5 奖杯接入方案（CB2N-30497）
 
-## 0. 前置结论（颠覆初版设想）
+## 0. 解锁机制
 
-初版设想"调 `sceNpTrophy2UnlockTrophy` 直接解锁"——**该函数在 SDK12 不存在**。
+**SDK12 没有 unlock 函数** —— `NpTrophy2-Reference` 全函数清单只有
+create/destroy-context、register-context、create/destroy-handle、get-{game,group,trophy}-info、
+register/unregister-unlock-callback、show-trophy-list、progress 等。该库是只读 + 回调。
 
-`NpTrophy2-Reference` 全函数清单：create/destroy-context、register-context、create/destroy-handle、get-{game,group,trophy}-info、register/unregister-unlock-callback、show-trophy-list、progress 等。**没有任何 unlock 函数**。NpTrophy2 库是只读+回调。
-
-PS5 SDK12 解锁走 **NpUniversalDataSystem (UDS) 事件**：
+解锁走 **NpUniversalDataSystem (UDS) 事件**：
 
 ```
 应用 post UDS 事件 "_UnlockTrophy" { "_trophy_id": N }
@@ -25,13 +25,13 @@ PS5 SDK12 解锁走 **NpUniversalDataSystem (UDS) 事件**：
 ```
 服务端 CharacterAchievementManager (Lua) → DB character_achievements 表
 客户端 ClientAchievementManager (Lua) → 条件评估 + UI toast
-平台解锁入口：platform_delegate:unlockAchievement(achievement_did)   [Lua player_description.lua:15827/15840 已调]
-  └─ PlatformDelegate::unlockAchievement(DID)  [C++ chaos_platform_delegate.cpp:244]
+平台解锁入口：platform_delegate:unlockAchievement(achievement_did)   [Lua player_description.lua:15860/15872 已调]
+  └─ PlatformDelegate::unlockAchievement(DID)  [C++ chaos_platform_delegate.cpp:322]
        └─ Win32: DID→Steam api_name 映射 → SteamUserStats()->SetAchievement
-       └─ PS5:  空操作（当前 return k_false）
+       └─ PS5:  DID → trophy_id → UDS _UnlockTrophy 事件
 ```
 
-集成点已在。本方案 = 给 PS5 分支填实现。
+集成点已在，PS5 分支实现见 [STATUS.md](STATUS.md)。
 
 ---
 
@@ -138,7 +138,7 @@ void onTrophyUnlocked(SceNpTrophy2Context, SceNpTrophy2Id trophy_id, void*)
 | `sceNpTrophy2RegisterContext` | **阻塞，必须子线程**，不能 time-critical 线程 | register-context.md Notes |
 | `sceNpTrophy2GetTrophyInfo` | 耗时，建议子线程 | using-the-library.md |
 | `sceNpTrophy2CreateContext` | 无明确子线程要求 | create-context.md |
-| `sceNpUniversalDataSystemPostEvent` | 待确认（UDS 文档未读，假设可主线程，实测验证） | — |
+| `sceNpUniversalDataSystemPostEvent` | 主线程可调（DevKit 实测通过） | — |
 | `sceNpCheckCallback` | 主线程（派发回调用） | Np 文档 |
 
 `RegisterContext` 的子线程要求与 SaveData 的 `Prepare` 同构 —— 复用 `PS5DataArchive::runWriteTransaction` 那套 `g_common_system_task_scheduler->addTask` + `waitForSingleTaskCounter` 模式。考虑把那个子线程事务封装抽到更通用的工具里（SaveData 和 Trophy 共用）。
@@ -156,9 +156,10 @@ void onTrophyUnlocked(SceNpTrophy2Context, SceNpTrophy2Id trophy_id, void*)
 
 **开发期**：DevKit 的 UDS Development Mode 设 Local Mode，系统读本地安装的配置文件。
 
-**这块归构建管线**，不归本代码 feature。需要确认：
-- sce_sys 目录现在有没有？放没放 npconfig？
-- 谁负责从 GEMS 拉 npconfig.zip？
+**这块归构建管线**，不归本代码 feature。
+
+**实际采用**：开发期用 DevKit 的 **UDS Local Mode**，系统读本地安装的配置文件，
+不依赖 GEMS 下载 npconfig.zip。
 
 ---
 
@@ -195,9 +196,17 @@ void onTrophyUnlocked(SceNpTrophy2Context, SceNpTrophy2Id trophy_id, void*)
 
 ## 11. 待确认/风险
 
-1. **NP Title Secret**：`sceNpSetNpTitleId` 需要 NP Title ID + Secret。ID 是 `NPWR62682_00`，Secret 从哪来？（PS5 登录申请 Client ID 时一起拿到的？需确认）
-2. **sce_sys/npconfig**：现在有没有？谁放？没这个文件 RegisterContext 会报 `SCE_NP_TROPHY2_ERROR_TITLE_CONF_NOT_INSTALLED` (0x8055391e)
-3. **UDS PostEvent 线程约束**：未读 UDS 文档，假设可主线程，实测验证
-4. **trophy_id 与设计表 DID 的对应**：UDS Management Tool 配置的 trophy_id 必须与 `PlatformAchievementInfo.m_ps5_trophy_id` 一致，配置侧约束
-5. **NP base 模块是否已 load**：现 initializePS5 只 load NP_AUTH，未 load NP。需确认 `sceNpInitialize` 是否已在别处调（prospero_platform.cpp grep 命中但未确认）
-6. **子线程事务封装复用**：SaveData 的 runWriteTransaction 模式可抽通用，Trophy 的 RegisterContext 共用
+已解决（DevKit 验证通过，方案落地时确认）：
+
+- ~~NP Title Secret~~ —— `nptitle.dat` 已放在 `_content/PS5/sce_sys/`，见 `../备忘.md`
+- ~~sce_sys/npconfig~~ —— 走 **UDS Local Mode**，系统读本地配置，无需 GEMS 下载 npconfig
+- ~~UDS PostEvent 线程约束~~ —— 实测主线程可调
+- ~~NP base 模块是否已 load~~ —— `initializePS5` 已覆盖
+
+仍有效：
+
+1. **trophy_id 与设计表 DID 的对应**：UDS Management Tool 配置的 trophy_id 必须与
+   `PlatformAchievementInfo.m_ps5_trophy_id` 一致，配置侧约束（改触发事件时不受影响，
+   见 `CONFIG.md`）
+2. **子线程事务封装复用**：SaveData 的 runWriteTransaction 模式可抽通用，
+   Trophy 的 RegisterContext 共用（未做）

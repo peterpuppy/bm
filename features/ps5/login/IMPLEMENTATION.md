@@ -169,7 +169,8 @@ LoginHttpRequestType.ps5_userinfo = 36;
 
 ### 4.2 LoginUserPS5
 
-文件：`_scripts/server/login_server/login_user/chaos_login_user_ps5.lua`
+文件：~~`_scripts/server/login_server/login_user/chaos_login_user_ps5.lua`~~ **已删除**
+（登录改走 GAC，见 [STATUS.md](STATUS.md) 与 [docs/game_account_center.md](docs/game_account_center.md)）
 
 主要流程：
 
