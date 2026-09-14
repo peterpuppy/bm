@@ -15573,5 +15573,485 @@
     "title": "Technical Requirements Checklist for PlayStation®5 – TRC 2026.07",
     "url": "https://game.develop.playstation.net/resources/documents/TRC/latest/TRC/__toc.html",
     "path": "TRC\\latest\\TRC\\index.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/__toc.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\index.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/workspace-explorer-application-interface.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\workspace-explorer-application-interface.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/002_setting-the-file-serving-directory.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\002_setting-the-file-serving-directory.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/creating-a-new-workspace-in-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\creating-a-new-workspace-in-workspace-explorer.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/managing-workspaces-in-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\managing-workspaces-in-workspace-explorer.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/selecting-a-workspace-in-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\selecting-a-workspace-in-workspace-explorer.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/local-file-system-and-target-workspace-views.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\local-file-system-and-target-workspace-views.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/push-files-to-a-target-workspace-using-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\push-files-to-a-target-workspace-using-workspace-explorer.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/mirror-push-files-using-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\mirror-push-files-using-workspace-explorer.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/deploy-files-using-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\deploy-files-using-workspace-explorer.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/pull-files-from-target-workspace-using-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\pull-files-from-target-workspace-using-workspace-explorer.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/comparing-target-workspace-and-local-file-system-contents.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\comparing-target-workspace-and-local-file-system-contents.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/specifying-the-correct-workspace-when-launching-an-elf.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\specifying-the-correct-workspace-when-launching-an-elf.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/troubleshooting-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\troubleshooting-workspace-explorer.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/workspace-explorer-users-guide-introduction.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\workspace-explorer-users-guide-introduction.md"
+  },
+  {
+    "title": "Workspace Explorer User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspace_Explorer-Users_Guide/using-workspace-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Workspace_Explorer-Users_Guide\\using-workspace-explorer.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/__toc.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\index.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/using-standalone-workspaces.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\using-standalone-workspaces.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/host-file-system-monitoring.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\host-file-system-monitoring.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/mirroring-modes-for-system-managed-host-mirror-workspaces.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\mirroring-modes-for-system-managed-host-mirror-workspaces.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspaces-hot-loading-support-update-phase.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspaces-hot-loading-support-update-phase.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspaces-hot-loading-apply-phase.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspaces-hot-loading-apply-phase.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/data-eligible-for-hot-loading.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\data-eligible-for-hot-loading.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/using-hot-loading-with-on-demand-mirror-mode.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\using-hot-loading-with-on-demand-mirror-mode.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/considerations-when-using-hot-loading-for-workspaces.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\considerations-when-using-hot-loading-for-workspaces.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/using-gp5-files-in-workspaces.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\using-gp5-files-in-workspaces.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/high-speed-workspace-file-transferring.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\high-speed-workspace-file-transferring.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/configuring-workspace-overlay.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\configuring-workspace-overlay.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/applying-workspace-overlay.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\applying-workspace-overlay.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/logging-and-debugging-with-workspace-overlay.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\logging-and-debugging-with-workspace-overlay.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/limitations-of-workspace-overlay.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\limitations-of-workspace-overlay.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/maximum-uncompressed-data-capacity-in-assist-mode.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\maximum-uncompressed-data-capacity-in-assist-mode.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/maximum-uncompressed-data-capacity-in-development-mode.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\maximum-uncompressed-data-capacity-in-development-mode.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/diagnosing-failures-caused-by-exceeding-workspace-limits.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\diagnosing-failures-caused-by-exceeding-workspace-limits.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/filename-restrictions-for-applications-that-support-workspaces.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\filename-restrictions-for-applications-that-support-workspaces.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspace-dump.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspace-dump.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspace-garbage-collection.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspace-garbage-collection.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspaces-overview-appendix-a-workspace-specific-errors.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspaces-overview-appendix-a-workspace-specific-errors.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/troubleshooting-actions-for-workspace-corruption-and-recovery.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\troubleshooting-actions-for-workspace-corruption-and-recovery.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspaces-overview-appendix-c-reparse-points-and-hard-links-support.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspaces-overview-appendix-c-reparse-points-and-hard-links-support.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspaces-overview-introduction.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspaces-overview-introduction.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/system-managed-host-mirror.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\system-managed-host-mirror.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/hot-loading-support-for-workspaces.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\hot-loading-support-for-workspaces.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspace_overlay.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspace_overlay.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspace-limits.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspace-limits.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/maximum-uncompressed-data-capacity.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\maximum-uncompressed-data-capacity.md"
+  },
+  {
+    "title": "Workspaces Overview – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Workspaces-Overview/workspaces-overview-appendix-b-workspace-corruption-and-recovery.html",
+    "path": "Getting_Started\\Development_Environment\\Workspaces-Overview\\workspaces-overview-appendix-b-workspace-corruption-and-recovery.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/__toc.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\index.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/visual-studio-integration-for-playstation5-users-guide-introduction.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\visual-studio-integration-for-playstation5-users-guide-introduction.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/creating-projects-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\creating-projects-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/build-configurations-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\build-configurations-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/configuring-build-settings-for-projects-and-files-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\configuring-build-settings-for-projects-and-files-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-general-projects.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-general-projects.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-general-files.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-general-files.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/specifying-sdk-location-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\specifying-sdk-location-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-advanced.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-advanced.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-ps5-standard-debugger.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-ps5-standard-debugger.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-ps5-application-debugger.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-ps5-application-debugger.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-ps5-launch-file-debugger.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-ps5-launch-file-debugger.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-vc-plus-plus-directories.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-vc-plus-plus-directories.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-c-c-plus-plus.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-c-c-plus-plus.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-linker.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-linker.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-librarian.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-librarian.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-custom-build-steps-and-build-events.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-custom-build-steps-and-build-events.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-wave-compiler.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-wave-compiler.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-intel-implicit-spmd-program-compiler-ispc.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-intel-implicit-spmd-program-compiler-ispc.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-global-build-settings-distributed-building.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-global-build-settings-distributed-building.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-global-build-settings-general.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-global-build-settings-general.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/determining-build-settings-used-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\determining-build-settings-used-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/viewing-statistical-performance-of-cpu-instructions-using-llvm-mca.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\viewing-statistical-performance-of-cpu-instructions-using-llvm-mca.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/formatting-c-c-source-code-with-clang-format.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\formatting-c-c-source-code-with-clang-format.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-support-for-clang-fix-it-hints.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-support-for-clang-fix-it-hints.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/integration-between-vsi-and-other-playstation-tools.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\integration-between-vsi-and-other-playstation-tools.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/performing-a-local-command-line-build.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\performing-a-local-command-line-build.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/performing-a-distributed-command-line-build.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\performing-a-distributed-command-line-build.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/performing-a-static-analysis-using-the-visual-studio-solution-explorer.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\performing-a-static-analysis-using-the-visual-studio-solution-explorer.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/suppressing-issues-generated-by-static-analysis.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\suppressing-issues-generated-by-static-analysis.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/visual-studio-issues-window-options.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\visual-studio-issues-window-options.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/filtering-the-issues-list-in-the-visual-studio-issues-window.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\filtering-the-issues-list-in-the-visual-studio-issues-window.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/source-code-annotation-of-issues-from-the-issues-window.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\source-code-annotation-of-issues-from-the-issues-window.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-appendix-a-shader-migration-guide-for-existing-ps4-projects.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-appendix-a-shader-migration-guide-for-existing-ps4-projects.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-appendix-b-user-hosted-msbuild-platform-files.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-appendix-b-user-hosted-msbuild-platform-files.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-appendix-c-live-code-pssl-editor-features.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-appendix-c-live-code-pssl-editor-features.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-appendix-d-address-sanitizer-errors.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-appendix-d-address-sanitizer-errors.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-appendix-e-thread-sanitizer-errors.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-appendix-e-thread-sanitizer-errors.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-appendix-f-undefined-behavior-sanitizer-errors.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-appendix-f-undefined-behavior-sanitizer-errors.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/creating-projects-and-configurations-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\creating-projects-and-configurations-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/configuring-visual-studio-project-settings.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\configuring-visual-studio-project-settings.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/project-settings-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\project-settings-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/configuring-global-build-settings-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\configuring-global-build-settings-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-general.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-general.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/vsi-project-settings-debugging.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\vsi-project-settings-debugging.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/using-the-visual-studio-issues-window.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\using-the-visual-studio-issues-window.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/building-running-and-debugging-an-application-in-visual-studio.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\building-running-and-debugging-an-application-in-visual-studio.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/clang-static-analysis.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\clang-static-analysis.md"
+  },
+  {
+    "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/building-projects-from-the-command-line.html",
+    "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\building-projects-from-the-command-line.md"
   }
 ]
