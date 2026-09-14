@@ -16053,5 +16053,160 @@
     "title": "Visual Studio Integration for PlayStation®5 User's Guide – SDK 12.000",
     "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Visual_Studio_Integration_for_PS5-Users_Guide/building-projects-from-the-command-line.html",
     "path": "Getting_Started\\Development_Environment\\Visual_Studio_Integration_for_PS5-Users_Guide\\building-projects-from-the-command-line.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/__toc.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\index.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/introduction.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\introduction.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/running-executables-with-prospero-run.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\running-executables-with-prospero-run.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-command-groups.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-command-groups.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-application-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-application-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-controller-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-controller-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-diagnostic-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-diagnostic-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-filesystem-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-filesystem-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-kitmanager-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-kitmanager-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-network-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-network-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-package-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-package-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-playgo-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-playgo-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-power-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-power-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-process-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-process-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-process-dump-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-process-dump-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-psn-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-psn-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-savedata-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-savedata-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-settings-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-settings-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-target-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-target-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-user-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-user-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-video-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-video-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-workspace-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-prospero-ctrl-workspace-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/commonly-used-cli-safe-mode-tasks.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\commonly-used-cli-safe-mode-tasks.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-cli-safe-mode-commands.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\list-of-cli-safe-mode-commands.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/enabling-tab-completion-in-powershell-for-prospero-ctrl.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\enabling-tab-completion-in-powershell-for-prospero-ctrl.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/network-configuration-for-targets.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\network-configuration-for-targets.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/environment-variables-in-target-manager-cli.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\environment-variables-in-target-manager-cli.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/target-manager-cli-mutual-tls-encryption.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\target-manager-cli-mutual-tls-encryption.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/controlling-targets-using-the-command-line.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\controlling-targets-using-the-command-line.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/controlling-targets-with-prospero-ctrl.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\controlling-targets-with-prospero-ctrl.md"
+  },
+  {
+    "title": "Target Manager CLI User's Guide – SDK 12.000",
+    "url": "https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/controlling-safe-mode-through-prospero-ctrl.html",
+    "path": "Getting_Started\\Development_Environment\\Target_Manager_CLI-Users_Guide\\controlling-safe-mode-through-prospero-ctrl.md"
   }
 ]

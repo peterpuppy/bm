@@ -1,0 +1,34 @@
+# Target Manager CLI User's Guide – SDK 12.000
+
+Source: https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/__toc.html
+
+1. [Target Manager CLI User's Guide Introduction](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/introduction.html "Target Manager CLI User's Guide Introduction")
+2. Controlling Targets Using the Command Line
+   1. [Running Executables with prospero-run](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/running-executables-with-prospero-run.html "Running Executables with prospero-run")
+   2. Controlling Targets with prospero-ctrl
+      1. [List of prospero-ctrl Command Groups](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-command-groups.html "List of prospero-ctrl Command Groups")
+      2. [List of prospero-ctrl application Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-application-commands.html "List of prospero-ctrl application Commands")
+      3. [List of prospero-ctrl controller Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-controller-commands.html "List of prospero-ctrl controller Commands")
+      4. [List of prospero-ctrl diagnostics Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-diagnostic-commands.html "List of prospero-ctrl diagnostics Commands")
+      5. [List of prospero-ctrl filesystem Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-filesystem-commands.html "List of prospero-ctrl filesystem Commands")
+      6. [List of prospero-ctrl kitmanager Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-kitmanager-commands.html "List of prospero-ctrl kitmanager Commands")
+      7. [List of prospero-ctrl network Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-network-commands.html "List of prospero-ctrl network Commands")
+      8. [List of prospero-ctrl package Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-package-commands.html "List of prospero-ctrl package Commands")
+      9. [List of prospero-ctrl playgo Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-playgo-commands.html "List of prospero-ctrl playgo Commands")
+      10. [List of prospero-ctrl power Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-power-commands.html "List of prospero-ctrl power Commands")
+      11. [List of prospero-ctrl process Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-process-commands.html "List of prospero-ctrl process Commands")
+      12. [List of prospero-ctrl process-dump Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-process-dump-commands.html "List of prospero-ctrl process-dump Commands")
+      13. [List of prospero-ctrl psn Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-psn-commands.html "List of prospero-ctrl psn Commands")
+      14. [List of prospero-ctrl savedata Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-savedata-commands.html "List of prospero-ctrl savedata Commands")
+      15. [List of prospero-ctrl settings Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-settings-commands.html "List of prospero-ctrl settings Commands")
+      16. [List of prospero-ctrl target Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-target-commands.html "List of prospero-ctrl target Commands")
+      17. [List of prospero-ctrl user Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-user-commands.html "List of prospero-ctrl user Commands")
+      18. [List of prospero-ctrl video Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-video-commands.html "List of prospero-ctrl video Commands")
+      19. [List of prospero-ctrl workspace Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-prospero-ctrl-workspace-commands.html "List of prospero-ctrl workspace Commands")
+3. Controlling Safe Mode through prospero-ctrl
+   1. [Commonly Used CLI Safe Mode Tasks](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/commonly-used-cli-safe-mode-tasks.html "Commonly Used CLI Safe Mode Tasks")
+   2. [List of CLI Safe Mode Commands](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/list-of-cli-safe-mode-commands.html "List of CLI Safe Mode Commands")
+4. [Enabling Tab Completion in Powershell for prospero-ctrl](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/enabling-tab-completion-in-powershell-for-prospero-ctrl.html "Enabling Tab Completion in Powershell for prospero-ctrl")
+5. [Network Configuration for Targets](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/network-configuration-for-targets.html "Network Configuration for Targets")
+6. [Environment Variables in Target Manager CLI](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/environment-variables-in-target-manager-cli.html "Environment Variables in Target Manager CLI")
+7. [Target Manager CLI Mutual TLS Encryption](https://game.develop.playstation.net/resources/documents/SDK/12.000/Target_Manager_CLI-Users_Guide/target-manager-cli-mutual-tls-encryption.html "Target Manager CLI Mutual TLS Encryption")
