@@ -124,6 +124,7 @@ prospero-ctrl application delete-data uds all /user:<User>
 | 某功能进度 / 下一步 | `<功能>/STATUS.md` |
 | 某功能原始方案 | `<功能>/PLAN.md` |
 | 配表怎么改（奖杯） | `trophy/CONFIG.md` |
+| 用户流程（匿名/真实/切换） | `login/USER_FLOWS.md` |
 | 某个坑为什么存在 | `question/`（含文档 URL 出处） |
 | 账号 / ID / 密钥 / 环境地址 | `备忘.md` |
 | SDK API 细节 | `document/output/psn_12/...` |

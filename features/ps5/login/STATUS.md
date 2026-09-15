@@ -12,8 +12,9 @@
 
 - `initializePS5()` 只做初始化：加载 SigninDialog / LoginDialog / NpAuth PRX
   + `sceUserServiceGetInitialUser()`，**不弹任何框**
-- 登录入口原语化为 `startPS5Login()`：重置凭证 + `beginPS5AuthForUser()`
-  （内部判 guest → 选用户框 / 真实用户 → 登录框）
+- 登录入口统一为 `startPS5Login()`：**每次从头判定**（无条件拆 dialog → 重查
+  `getInitialUser` + `sceNpHasSignedUp` → 唯一分叉）。原 `beginPS5AuthForUser()`
+  已删除（2026-09-14 重构，见 [USER_FLOWS.md](USER_FLOWS.md)）
 - `tick()` 状态机轮询 `sceLoginDialogUpdateStatus()` / `sceSigninDialogUpdateStatus()`，
   OK 后 `sceNpAuthGetAuthorizationCodeV3()` 拿 auth code + issuer_id 存入 `ClientRoot`
 - NpAuth scope 用文档要求的 `"psn:s2s openid id_token:psn.basic_claims"`；
@@ -317,6 +318,7 @@ https://game.develop.playstation.net/resources/documents/SDK/12.000/System_Softw
 
 ## 相关文档
 
+- [USER_FLOWS.md](USER_FLOWS.md) — **用户流程全景**（匿名/真实/切换，所有路径与分叉点）
 - [IMPLEMENTATION.md](IMPLEMENTATION.md) — 实现细节、代码路径、数据流
 - [docs/game_account_center.md](docs/game_account_center.md) — GAC Go 服务分析 + PS5 收口方案
 - [docs/ps5_login_methods.md](docs/ps5_login_methods.md) — S2S vs ID Token 方案选型
