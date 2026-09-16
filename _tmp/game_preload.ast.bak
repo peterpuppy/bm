@@ -1,0 +1,1288 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GamePreloadRSA xmlns="http://www.boominggames.com">
+  <header>
+    <guid>743CD10C3W56NYDS</guid>
+    <description>
+      <version>0</version>
+      <tags>
+      </tags>
+      <comments>
+      </comments>
+      <thumbnails />
+      <client_only>0</client_only>
+    </description>
+    <data_reference>
+    </data_reference>
+    <template>
+      <is_template>0</is_template>
+      <interface_parameter_pathes />
+    </template>
+    <cooked_info>
+      <file_id>Donot touch</file_id>
+      <md5>
+      </md5>
+      <referenced_asset_count>0</referenced_asset_count>
+    </cooked_info>
+  </header>
+  <variable_interface>
+    <variables />
+    <variable_references_map />
+  </variable_interface>
+  <generated_traits />
+  <preload_ui_resources>
+    <ui_resource>
+      <url>_project/global/ui_resource/default.ui_resource.ast</url>
+      <guid>
+      </guid>
+      <parameter>
+        <parameters />
+      </parameter>
+    </ui_resource>
+    <ui_webm_video_set>
+      <element sketum_id="D4DD6E2D60OAF8SI">
+        <key>thermopylae</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/thermopylae.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4DDUI2Z90OAOAIS">
+        <key>thermopylae_reverse</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/thermopylae_reverse.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4DD9J2EI0OA7D77">
+        <key>salamis</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/salamis.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4DD8K2V70OAKGVG">
+        <key>salamis_reverse</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/salamis_reverse.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4DDPK2U30OANJXZ">
+        <key>marathon</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/marathon.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4DDTK2340OAOLX8">
+        <key>marathon_reverse</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/marathon_reverse.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4IFIO1RPOHRRBM5">
+        <key>heilung</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/heilung.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4IFKO103OHR4E6T">
+        <key>heilung_reverse</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/heilung_reverse.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4IFKO18JOHRNGNZ">
+        <key>yunding</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/yunding.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D4IFLO1R3OHRCJTC">
+        <key>yunding_reverse</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/yunding_reverse.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D5DG150BC4UEH8US">
+        <key>liejia</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/liejia.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+      <element sketum_id="D5DG250P54UEIBEH">
+        <key>liejia_reverse</key>
+        <data>
+          <ui_video_file>
+            <url>_project/video/pvpve_gamemode/liejia_reverse.webm</url>
+          </ui_video_file>
+        </data>
+      </element>
+    </ui_webm_video_set>
+  </preload_ui_resources>
+  <lusion_assets>
+    <url>
+    </url>
+    <guid>
+    </guid>
+    <parameter>
+      <parameters />
+    </parameter>
+  </lusion_assets>
+  <global_input>
+    <input_device_layouts>
+      <element sketum_id="B5SEBU09DKFY1BH4">
+        <url>_engine/global/input/mouse.input_device_layout.ast</url>
+        <guid>
+        </guid>
+        <parameter>
+          <parameters />
+        </parameter>
+      </element>
+      <element sketum_id="B5SECU0K4KFY2BH4">
+        <url>_engine/global/input/keyboard.input_device_layout.ast</url>
+        <guid>
+        </guid>
+        <parameter>
+          <parameters />
+        </parameter>
+      </element>
+      <element sketum_id="B5SECU03IKFY5BIA">
+        <url>_engine/global/input/gamepad.input_device_layout.ast</url>
+        <guid>
+        </guid>
+        <parameter>
+          <parameters />
+        </parameter>
+      </element>
+    </input_device_layouts>
+    <input_control_ascii_map>
+      <url>_engine/global/input/default.input_control_ascii_map.ast</url>
+      <guid>
+      </guid>
+      <parameter>
+        <parameters />
+      </parameter>
+    </input_control_ascii_map>
+    <input_display_info>
+      <url>_engine/global/input/default.input_display_info.ast</url>
+      <guid>
+      </guid>
+      <parameter>
+        <parameters />
+      </parameter>
+    </input_display_info>
+    <input_scheme_palette>
+      <url>_project/global/input_control/global.input_scheme.ast</url>
+      <guid>
+      </guid>
+      <parameter>
+        <parameters />
+      </parameter>
+    </input_scheme_palette>
+  </global_input>
+  <global_textures>
+    <global_materials />
+  </global_textures>
+  <global_colour_palette>
+    <url>_project/global/colour_palette/colour_palette.global_colour_palette.ast</url>
+    <guid>
+    </guid>
+    <parameter>
+      <parameters />
+    </parameter>
+  </global_colour_palette>
+  <global_game_cameras>
+    <url>_project/global/cameras/default.game_camera_set.ast</url>
+    <guid>
+    </guid>
+    <parameter>
+      <parameters />
+    </parameter>
+  </global_game_cameras>
+  <background_music_settings>
+    <background_music_by_global_state_setting>
+      <element sketum_id="36MA4F2GBOC3W105">
+        <state_name>login_screen</state_name>
+        <background_music_event_name>Play_Music_CB2_Intf_Login</background_music_event_name>
+      </element>
+      <element sketum_id="36MACF2IIOC3X1AT">
+        <state_name>game_over_win</state_name>
+        <background_music_event_name>Play_Music_CB2_Intf_Settlement_Victory</background_music_event_name>
+      </element>
+      <element sketum_id="36MAMF2JAOC3Y1YO">
+        <state_name>game_over_lose</state_name>
+        <background_music_event_name>Play_Music_CB2_Intf_Settlement_Defeat</background_music_event_name>
+      </element>
+      <element sketum_id="45FFD323EK03W38R">
+        <state_name>character_selection</state_name>
+        <background_music_event_name>Play_Music_Cmn_Character_Creation</background_music_event_name>
+      </element>
+      <element sketum_id="82PH421C6SH4R7S0">
+        <state_name>combat_deploy</state_name>
+        <background_music_event_name>Play_Music_CB2_Intf_Deploy</background_music_event_name>
+      </element>
+    </background_music_by_global_state_setting>
+  </background_music_settings>
+  <preload_music_banks>
+    <element sketum_id="38UA1C07HCI142ZJ">
+      <url>_project/sounds/_bank_wwise/Init.bnk</url>
+    </element>
+    <element sketum_id="43MD032G3OM2R3R6">
+      <url>_project/sounds/_bank_wwise/Music_Common.bnk</url>
+    </element>
+    <element sketum_id="43MDB3236OM2S3ES">
+      <url>_project/sounds/_bank_wwise/SFX_UI.bnk</url>
+    </element>
+    <element sketum_id="B3IEGZ17JO6MQL7N">
+      <url>_project/sounds/_bank_wwise/Hero_Movement.bnk</url>
+    </element>
+    <element sketum_id="B3KFJK1L44CXLH1Z">
+      <url>_project/sounds/_bank_wwise/Bus.bnk</url>
+    </element>
+    <element sketum_id="B3KF8L1Z74CXYHIQ">
+      <url>_project/sounds/_bank_wwise/Hero_Motion.bnk</url>
+    </element>
+    <element sketum_id="B3KFLL1GD4CX5K2W">
+      <url>_project/sounds/_bank_wwise/Hero_Skill.bnk</url>
+    </element>
+    <element sketum_id="B3KFTL1CA4CXMKT0">
+      <url>_project/sounds/_bank_wwise/SFX_Hit_Hero.bnk</url>
+    </element>
+    <element sketum_id="B3KFIM11F4CX5LV1">
+      <url>_project/sounds/_bank_wwise/SFX_Hit_Seige.bnk</url>
+    </element>
+    <element sketum_id="B3KFQM1564CXQL0W">
+      <url>_project/sounds/_bank_wwise/SFX_Hit_Soldier.bnk</url>
+    </element>
+    <element sketum_id="B3KFWM1TG4CXDMQ6">
+      <url>_project/sounds/_bank_wwise/SFX_Siege.bnk</url>
+    </element>
+    <element sketum_id="B3KF6N18L4CX2NV3">
+      <url>_project/sounds/_bank_wwise/SFX_Special_Ammo.bnk</url>
+    </element>
+    <element sketum_id="B5KHV41PJOV4Y5VE">
+      <url>_project/sounds/_bank_wwise/Ambient_Default.bnk</url>
+    </element>
+    <element sketum_id="B6QJUZ160GNCWGCD">
+      <url>_project/sounds/_bank_wwise/Hero_Orginal.bnk</url>
+    </element>
+    <element sketum_id="B9QEZP1Y98EHIE05">
+      <url>_project/sounds/_bank_wwise/SFX_Human_Origin_Action.bnk</url>
+    </element>
+    <element sketum_id="B9QEDR17M8EHXF78">
+      <url>_project/sounds/_bank_wwise/SFX_Human_Origin_Foley.bnk</url>
+    </element>
+    <element sketum_id="B9QEOR1UN8EHEH70">
+      <url>_project/sounds/_bank_wwise/SFX_Human_Origin_Motion.bnk</url>
+    </element>
+    <element sketum_id="B9QEUR1S68EHXIYS">
+      <url>_project/sounds/_bank_wwise/SFX_Human_Origin_Special.bnk</url>
+    </element>
+    <element sketum_id="BC9FM50XI8JVQ6ZL">
+      <url>_project/sounds/_bank_wwise/Music_Levels_CB2_Wdm.bnk</url>
+    </element>
+    <element sketum_id="C47HQO2JH42MKUUB">
+      <url>_project/sounds/_bank_wwise/SFX_Animals.bnk</url>
+    </element>
+    <element sketum_id="C99E6B258S5BMIQ3">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_Default.bnk</url>
+    </element>
+    <element sketum_id="C99E1C2YOS5BNIKH">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_LinHanYue.bnk</url>
+    </element>
+    <element sketum_id="C99E8C27NS5BOIF5">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_Lyra.bnk</url>
+    </element>
+    <element sketum_id="C99EFC21HS5BPIL0">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_Morrigan.bnk</url>
+    </element>
+    <element sketum_id="C99ELC271S5BQI3Z">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_UE_Hum.bnk</url>
+    </element>
+    <element sketum_id="C99ERC2ZOS5BRI9F">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Sp_Default.bnk</url>
+    </element>
+    <element sketum_id="C99EZC2FDS5BSIZW">
+      <url>_project/sounds/_bank_wwise/SFX_Hit_Default.bnk</url>
+    </element>
+    <element sketum_id="C99GOG0IA83HMISG">
+      <url>_project/sounds/_bank_wwise/Music_HaiZhan.bnk</url>
+    </element>
+    <element sketum_id="C99GTH0BH83HOIHM">
+      <url>_project/sounds/_bank_wwise/Music_Worldmap.bnk</url>
+    </element>
+    <element sketum_id="C9HKW10YL8RMMI2F">
+      <url>_project/sounds/_bank_wwise/SFX_Special.bnk</url>
+    </element>
+    <element sketum_id="C9JHOF1VJ802MIHE">
+      <url>_project/sounds/_bank_wwise/CB2_Sequence.bnk</url>
+    </element>
+    <element sketum_id="C9SEI81DP40BMIKB">
+      <url>_project/sounds/_bank_wwise/Music_Worldmap_WoHu_Instance.bnk</url>
+    </element>
+    <element sketum_id="CAEI9E2224QBMIR6">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_Cassius.bnk</url>
+    </element>
+    <element sketum_id="CAEIZH24F4QBPI4D">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_HuPoShan.bnk</url>
+    </element>
+    <element sketum_id="CAEICI2374QB0LM8">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_Stellan.bnk</url>
+    </element>
+    <element sketum_id="CATGW31HJOELMITS">
+      <url>_project/sounds/_bank_wwise/Amb_Level_0600_Artcorner.bnk</url>
+    </element>
+    <element sketum_id="CC2GC91728WF93O2">
+      <url>_project/sounds/_bank_wwise/SFX_Objects.bnk</url>
+    </element>
+    <element sketum_id="D1EJU723JOO332V4">
+      <url>_project/sounds/_bank_wwise/Music_Levels_War.bnk</url>
+    </element>
+    <element sketum_id="D3OF48070SQMP7HK">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Chr_NPC_Motion.bnk</url>
+    </element>
+    <element sketum_id="D6MF6029JGNC9JM4">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Rided.bnk</url>
+    </element>
+    <element sketum_id="D7AHIM1DMK4QYZ1F">
+      <url>_project/sounds/_bank_wwise/CB2_SFX_Ship_L.bnk</url>
+    </element>
+  </preload_music_banks>
+  <preload_sound_resources>
+    <preload_bank_info>
+      <url>_project/sounds/_bank_wwise/SoundbanksInfo.xml</url>
+    </preload_bank_info>
+    <preload_event_info>
+      <url>_project/sounds/_bank_wwise/EventsInfo.xml</url>
+    </preload_event_info>
+  </preload_sound_resources>
+  <preload_sound_palette />
+  <login_preload_data>
+    <scenario_environment />
+    <scenario_gpa />
+    <director_gpa />
+  </login_preload_data>
+  <sound_bank_language_map>
+    <language>
+      <element sketum_id="59PJU106POH5Q2PX">
+        <key>cn</key>
+        <data>cn</data>
+      </element>
+      <element sketum_id="59PJ220W2OH5R224">
+        <key>en</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="59PJ620BNOH5S27L">
+        <key>de</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="59PJB20NQOH5T292">
+        <key>fr</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="59PJJ2067OH5U2K4">
+        <key>ru</key>
+        <data>ru</data>
+      </element>
+      <element sketum_id="64B9QR2RI8P6IISA">
+        <key>es</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="66TD0921LC58VJZV">
+        <key>tw</key>
+        <data>cn</data>
+      </element>
+      <element sketum_id="6BMI400WL87H6SII">
+        <key>jp</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="6BMIA00ZK87H7SPZ">
+        <key>kr</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="746AFE1UK4912ZX1">
+        <key>th</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="746A6H1KL4913Z9K">
+        <key>vn</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="77DIIF26OS5263HE">
+        <key>pt</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="77DINF219S5273FZ">
+        <key>ar</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="77NG5R2ZBG3A3Y1X">
+        <key>tr</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="83PE5Y0I6WLYK9T8">
+        <key>pl</key>
+        <data>en</data>
+      </element>
+    </language>
+    <mailru_language>
+      <element sketum_id="59PJU106POH5Q2PX">
+        <key>cn</key>
+        <data>cn</data>
+      </element>
+      <element sketum_id="59PJ220W2OH5R224">
+        <key>en</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="59PJ620BNOH5S27L">
+        <key>de</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="59PJB20NQOH5T292">
+        <key>fr</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="59PJJ2067OH5U2K4">
+        <key>ru</key>
+        <data>ru</data>
+      </element>
+      <element sketum_id="64B9QR2RI8P6IISA">
+        <key>es</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="66TD0921LC58VJZV">
+        <key>tw</key>
+        <data>cn</data>
+      </element>
+      <element sketum_id="6BMI400WL87H6SII">
+        <key>jp</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="6BMIA00ZK87H7SPZ">
+        <key>kr</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="746AFE1UK4912ZX1">
+        <key>th</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="746A6H1KL4913Z9K">
+        <key>vn</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="77DIIF26OS5263HE">
+        <key>pt</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="77DINF219S5273FZ">
+        <key>ar</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="77NG1G1VAO6AQVPO">
+        <key>tr</key>
+        <data>eu</data>
+      </element>
+      <element sketum_id="83PEHY0GAWLYL90K">
+        <key>pl</key>
+        <data>eu</data>
+      </element>
+    </mailru_language>
+    <default_bank>
+      <element sketum_id="59PJU106POH5Q2PX">
+        <key>cn</key>
+        <data>cn</data>
+      </element>
+      <element sketum_id="59PJ220W2OH5R224">
+        <key>en</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="59PJ620BNOH5S27L">
+        <key>de</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="59PJB20NQOH5T292">
+        <key>fr</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="59PJJ2067OH5U2K4">
+        <key>ru</key>
+        <data>ru</data>
+      </element>
+      <element sketum_id="64B9QR2RI8P6IISA">
+        <key>es</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="66TD0921LC58VJZV">
+        <key>tw</key>
+        <data>cn</data>
+      </element>
+      <element sketum_id="6BMI560AK87H8S6N">
+        <key>jp</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="6BMIB60TD87H9S9M">
+        <key>kr</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="746AJH10A4914Z6C">
+        <key>th</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="746A3I14J4915ZTY">
+        <key>vn</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="77DIXF2G3S5283NV">
+        <key>pt</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="77DI4G2XLS5293G8">
+        <key>ar</key>
+        <data>en</data>
+      </element>
+      <element sketum_id="83PEPY0ZKWLYM99K">
+        <key>pl</key>
+        <data>en</data>
+      </element>
+    </default_bank>
+    <mailru_bank>
+      <element sketum_id="59PJU106POH5Q2PX">
+        <key>cn</key>
+        <data>cn</data>
+      </element>
+      <element sketum_id="59PJ220W2OH5R224">
+        <key>en</key>
+        <data>euen</data>
+      </element>
+      <element sketum_id="59PJ620BNOH5S27L">
+        <key>de</key>
+        <data>euen</data>
+      </element>
+      <element sketum_id="59PJB20NQOH5T292">
+        <key>fr</key>
+        <data>euen</data>
+      </element>
+      <element sketum_id="59PJJ2067OH5U2K4">
+        <key>ru</key>
+        <data>ru</data>
+      </element>
+      <element sketum_id="64B9QR2RI8P6IISA">
+        <key>es</key>
+        <data>euen</data>
+      </element>
+      <element sketum_id="66TD0921LC58VJZV">
+        <key>tw</key>
+        <data>cn</data>
+      </element>
+      <element sketum_id="77NGNF1YBO6APVDL">
+        <key>tr</key>
+        <data>euen</data>
+      </element>
+      <element sketum_id="83PEVZ0NEWLYN91Q">
+        <key>pl</key>
+        <data>euen</data>
+      </element>
+    </mailru_bank>
+  </sound_bank_language_map>
+  <platform_achievement_infos>
+    <element sketum_id="D91HZW060K67HTRC">
+      <did>2404002001</did>
+      <api_name>22</api_name>
+      <display_name>首次登录</display_name>
+      <ps5_trophy_id>0</ps5_trophy_id>
+    </element>
+  </platform_achievement_infos>
+  <reference_rendering_settings>
+    <gbuffer_layout_type>gbuffer_layout_mr</gbuffer_layout_type>
+  </reference_rendering_settings>
+  <game_rendering_settings>
+    <url>_project/global/render/cb2.game_rendering_settings.ast</url>
+    <guid>
+    </guid>
+    <parameter>
+      <parameters />
+    </parameter>
+  </game_rendering_settings>
+  <all_pass_templates />
+  <post_process_template>
+    <name>
+    </name>
+    <type>Output</type>
+    <pass_slots />
+    <pass_resources />
+    <pass_connections />
+    <fallback_connections />
+    <sub_passes />
+  </post_process_template>
+  <render_pipeline>
+    <pass_nodes>
+      <element sketum_id="938ERM0UMG2BERJD">
+        <key>SMAAEdgeDetectionPass</key>
+        <data>
+          <name>SMAAEdgeDetectionPass</name>
+          <pass_type>SMAAEdgeDetectionPass</pass_type>
+          <input_slots>
+            <element sketum_id="938E3O0U1G2BFRCR">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>OutlinePass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="938E7H1CMKSJHR9E">
+              <name>LinearDepth</name>
+              <attachment>
+                <pass_name>OutlinePass</pass_name>
+                <slot_name>LinearDepth</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="938EMV0U7G2BGRP4">
+              <name>Output</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93KHDP12HK3GMRDV">
+        <key>SMAABlendWeightsPass</key>
+        <data>
+          <name>SMAABlendWeightsPass</name>
+          <pass_type>SMAABlendWeightsPass</pass_type>
+          <input_slots>
+            <element sketum_id="93KHZS1HRK3GORQQ">
+              <name>EdgeDetection</name>
+              <attachment>
+                <pass_name>SMAAEdgeDetectionPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93KHXS19LK3GNR4Z">
+              <name>Output</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>EdgeDetection</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93L9DJ1JH8MBMR1T">
+        <key>SMAANeighborhoodBlendPass</key>
+        <data>
+          <name>SMAANeighborhoodBlendPass</name>
+          <pass_type>SMAANeighborhoodBlendPass</pass_type>
+          <input_slots>
+            <element sketum_id="93L9CK1SG8MBNRPJ">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>SMAAEdgeDetectionPass</pass_name>
+                <slot_name>SceneColor</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93L9FN1IP8MBORRH">
+              <name>BlendWeightsOutput</name>
+              <attachment>
+                <pass_name>SMAABlendWeightsPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93L9KN1Y58MBPRTE">
+              <name>Output</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93LDN72BK4WGSQXU">
+        <key>OutlinePass</key>
+        <data>
+          <name>OutlinePass</name>
+          <pass_type>OutlinePass</pass_type>
+          <input_slots>
+            <element sketum_id="93LD4A2IO4WGTQ3F">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>Default</pass_name>
+                <slot_name>SceneColor</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93LD9D2N54WGVQS2">
+              <name>Mask</name>
+              <attachment>
+                <pass_name>Default</pass_name>
+                <slot_name>Mask</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93LE570914WG0RXS">
+              <name>LinearDepth</name>
+              <attachment>
+                <pass_name>Default</pass_name>
+                <slot_name>LinearDepth</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93LDDA2G04WGUQNX">
+              <name>Output</name>
+              <attachment>
+                <pass_name>OutlinePass</pass_name>
+                <slot_name>SceneColor</slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93LEF907H4WG1R4E">
+        <key>HistogramComputePass</key>
+        <data>
+          <name>HistogramComputePass</name>
+          <pass_type>HistogramComputePass</pass_type>
+          <input_slots>
+            <element sketum_id="93LEQB0ML4WG2RZ8">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>OutlinePass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93LEJC0VM4WG3R0F">
+              <name>Output</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93LEJD0J54WG4RF9">
+        <key>AutoExposurePass</key>
+        <data>
+          <name>AutoExposurePass</name>
+          <pass_type>AutoExposurePass</pass_type>
+          <input_slots>
+            <element sketum_id="93LE0E0ZO4WG5RUY">
+              <name>HistogramOutput</name>
+              <attachment>
+                <pass_name>HistogramComputePass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93LEMG0BO4WG6RKK">
+              <name>PreviousExposure</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93LEBH0GC4WG7RR9">
+              <name>CurrentExposure</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>PreviousExposure</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93LE8T11Q4WGERI1">
+        <key>SunShaftMaskPass</key>
+        <data>
+          <name>SunShaftMaskPass</name>
+          <pass_type>Output</pass_type>
+          <input_slots>
+            <element sketum_id="93LEHY1BF4WGFRUL">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>SMAANeighborhoodBlendPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93LEG12Z14WGHRL6">
+              <name>LinearDepth</name>
+              <attachment>
+                <pass_name>SMAAEdgeDetectionPass</pass_name>
+                <slot_name>LinearDepth</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93LEB12J14WGGRB2">
+              <name>Output</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93LHQ421JWJGKR7P">
+        <key>SMAAPass</key>
+        <data>
+          <name>SMAAPass</name>
+          <pass_type>SMAAPass</pass_type>
+          <input_slots>
+            <element sketum_id="93LHM52DKWJGLRWP">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>OutlinePass</pass_name>
+                <slot_name>SceneColor</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93LH662G4WJGMRRD">
+              <name>LinearDepth</name>
+              <attachment>
+                <pass_name>OutlinePass</pass_name>
+                <slot_name>LinearDepth</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93LHR621KWJGRR75">
+              <name>Output</name>
+              <attachment>
+                <pass_name>SMAANeighborhoodBlendPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93LMTI0W8WJGSRG6">
+        <key>HdrPass</key>
+        <data>
+          <name>HdrPass</name>
+          <pass_type>HdrPass</pass_type>
+          <input_slots>
+            <element sketum_id="93LMWJ0UBWJGUR24">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>SMAAPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93MA580RQCOBLR14">
+              <name>LinearDepth</name>
+              <attachment>
+                <pass_name>OutlinePass</pass_name>
+                <slot_name>LinearDepth</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93LM6J0NNWJGTRWA">
+              <name>Output</name>
+              <attachment>
+                <pass_name>ToneMappingPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93MDDN05ACOBSRTH">
+        <key>BloodPass</key>
+        <data>
+          <name>BloodPass</name>
+          <pass_type>BloodPass</pass_type>
+          <input_slots>
+            <element sketum_id="93MD8Q0A6COBTR9U">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>HdrPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93MD4R090COBURRS">
+              <name>Output</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+    </pass_nodes>
+    <output_node>
+      <name>Output</name>
+      <pass_type>Output</pass_type>
+      <input_slots>
+        <element sketum_id="938EIJ1NAKSJIRCB">
+          <name>Output</name>
+          <attachment>
+            <pass_name>HdrPass</pass_name>
+            <slot_name>Output</slot_name>
+          </attachment>
+        </element>
+      </input_slots>
+      <output_slots />
+      <detail />
+    </output_node>
+  </render_pipeline>
+  <mini_pipeline>
+    <pass_nodes>
+      <element sketum_id="93TE362SC4TDJRFB">
+        <key>StaticObjectGBufferGeneratePass</key>
+        <data>
+          <name>StaticObjectGBufferGeneratePass</name>
+          <pass_type>StaticObjectGBufferGeneratePass</pass_type>
+          <input_slots />
+          <output_slots>
+            <element sketum_id="93TEG92X14TDKR9K">
+              <name>RT0</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="93TEJ92IA4TDLRSF">
+              <name>RT1</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="93TEK92D04TDMRZ6">
+              <name>RT2</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="93TEP92WE4TDNRZZ">
+              <name>RT3</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="93TETE2234TDSRQ3">
+              <name>Depth</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93VH5I0KG02CWTO4">
+        <key>StaticObjectGBufferBatchPass</key>
+        <data>
+          <name>StaticObjectGBufferBatchPass</name>
+          <pass_type>StaticObjectGBufferBatchPass</pass_type>
+          <input_slots />
+          <output_slots>
+            <element sketum_id="93VHJK0U68OIPS7M">
+              <name>RT0</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="93VHJK0UB8OIQSRW">
+              <name>RT1</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="93VHJK0EG8OIRSYD">
+              <name>RT2</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="93VHJK0DL8OISSOC">
+              <name>RT3</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="93VHLK0TA8OITSNY">
+              <name>Depth</name>
+              <attachment>
+                <pass_name>
+                </pass_name>
+                <slot_name>
+                </slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="94CEKX1OROH2US5R">
+        <key>DeferredShadingPass</key>
+        <data>
+          <name>DeferredShadingPass</name>
+          <pass_type>Output</pass_type>
+          <input_slots>
+            <element sketum_id="94CE8Y1UJOH2VSSK">
+              <name>NormalSmoothness</name>
+              <attachment>
+                <pass_name>StaticObjectGBufferBatchPass</pass_name>
+                <slot_name>RT0</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="94CE9Y1OCOH2WSRB">
+              <name>AlbedoAO</name>
+              <attachment>
+                <pass_name>StaticObjectGBufferBatchPass</pass_name>
+                <slot_name>RT1</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="94CE9Y1CROH2XS4X">
+              <name>SpecularTranslucent</name>
+              <attachment>
+                <pass_name>StaticObjectGBufferBatchPass</pass_name>
+                <slot_name>RT2</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="94CEBY1DCOH2YS4U">
+              <name>DepthStencil</name>
+              <attachment>
+                <pass_name>StaticObjectGBufferBatchPass</pass_name>
+                <slot_name>Depth</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="94CEQ22EBOH26UAC">
+              <name>Output</name>
+              <attachment>
+                <pass_name>DeferredClusterNotSkyPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+            <element sketum_id="94D9N52BIS5ARTG2">
+              <name>Depth</name>
+              <attachment>
+                <pass_name>DeferredClusterNotSkyPass</pass_name>
+                <slot_name>Depth</slot_name>
+              </attachment>
+              <fallback_attachment>
+              </fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93LHQ421JWJGKR7P">
+        <key>SMAAPass</key>
+        <data>
+          <name>SMAAPass</name>
+          <pass_type>SMAAPass</pass_type>
+          <input_slots>
+            <element sketum_id="93LHM52DKWJGLRWP">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>DeferredShadingPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93LH662G4WJGMRRD">
+              <name>LinearDepth</name>
+              <attachment>
+                <pass_name>DeferredShadingPass</pass_name>
+                <slot_name>Depth</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93LHR621KWJGRR75">
+              <name>Output</name>
+              <attachment>
+                <pass_name>SMAANeighborhoodBlendPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+      <element sketum_id="93LMTI0W8WJGSRG6">
+        <key>HdrPass</key>
+        <data>
+          <name>HdrPass</name>
+          <pass_type>HdrPass</pass_type>
+          <input_slots>
+            <element sketum_id="93LMWJ0UBWJGUR24">
+              <name>SceneColor</name>
+              <attachment>
+                <pass_name>SMAAPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+            </element>
+            <element sketum_id="93MA580RQCOBLR14">
+              <name>LinearDepth</name>
+              <attachment>
+                <pass_name>DeferredShadingPass</pass_name>
+                <slot_name>Depth</slot_name>
+              </attachment>
+            </element>
+          </input_slots>
+          <output_slots>
+            <element sketum_id="93LM6J0NNWJGTRWA">
+              <name>Output</name>
+              <attachment>
+                <pass_name>ToneMappingPass</pass_name>
+                <slot_name>Output</slot_name>
+              </attachment>
+              <fallback_attachment>SceneColor</fallback_attachment>
+            </element>
+          </output_slots>
+          <detail />
+        </data>
+      </element>
+    </pass_nodes>
+    <output_node>
+      <name>Output</name>
+      <pass_type>Output</pass_type>
+      <input_slots>
+        <element sketum_id="93UB9P1EM02CNSPZ">
+          <name>Output</name>
+          <attachment>
+            <pass_name>HdrPass</pass_name>
+            <slot_name>Output</slot_name>
+          </attachment>
+        </element>
+      </input_slots>
+      <output_slots />
+      <detail />
+    </output_node>
+  </mini_pipeline>
+  <preload_coherent_ui>
+    <element sketum_id="B7GLSP01P01DMDN8">coui://ui/coherent/_common/js/cohtml.js</element>
+    <element sketum_id="B7JHU9126GRENDO7">coui://ui/editor_export/_common/_editor_runtime/_frame/cohtml.js</element>
+    <element sketum_id="C2DLAX0O2SOI1V1D">coui://ui/coherent/loading/js/index.js</element>
+    <element sketum_id="C2DLH11G0SOI2VKO">coui://ui/coherent/loading/css/index.css</element>
+    <element sketum_id="C2DLV11LNSOI3VXR">coui://ui/coherent/loading/index.html</element>
+    <element sketum_id="C2EA4J0AJ0F71VHI">coui://ui/coherent/_common/css/common.css</element>
+    <element sketum_id="C2EAHJ0R20F72VCD">coui://ui/coherent/_common/components/cb-legion-icon/style.css</element>
+    <element sketum_id="C2EABK09K0F73VZH">coui://ui/coherent/_common/js/chaos_common.js</element>
+    <element sketum_id="C2EALK0FD0F74V9N">coui://ui/coherent/_common/js/chaos_window.js</element>
+    <element sketum_id="C2EAZK0DN0F75VRM">coui://ui/coherent/_common/components/coherent-gameface-components/dist/components.production.min.js</element>
+    <element sketum_id="C2EA8L0QL0F76V4Y">coui://ui/coherent/_common/components/cb-legion-slot/dist/cb-legion-slot.production.min.js</element>
+    <element sketum_id="C2EA8N0S90F77VBD">coui://ui/coherent/_common/components/cb-legion-icon/dist/cb-legion-icon.production.min.js</element>
+  </preload_coherent_ui>
+</GamePreloadRSA>

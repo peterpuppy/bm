@@ -268,6 +268,30 @@ Lua: 点「退出游戏」→ 弹确认框 "do_you_really_want_to_exit_game"
    —— 文档说设为 "On" 时「按 PS 键 → Home」会 suspend 而非 background。
    **若为 On，测的就不是真实场景**，需确认。
 
+### 2026-09-16 基线排查结论（ad999c + b965，含两个过渡补丁）
+
+在奖杯/支付**之前**的基线上复现了 guest→取消→提示框无法操作 —— **问题早于奖杯与支付提交**。
+最终定位为 [message_box 手柄确认键未注册](../question/05-提示框手柄确认无响应.md)（登录时代就存在的缺口）。
+
+本轮同时查明并记录的事实：
+
+| 事项 | 结论 |
+|---|---|
+| 基线启动 SIGSEGV（TypedHandle\<InputSchemeRSA\>） | `game_preload.ast`（**_content/ 被 gitignore，checkout 不回退**）含 ps5_trophy_id 字段超前于基线 schema。过渡修法：从奖杯提交借回 `preload.rsd` 一行字段定义 |
+| 分层截图（`target screenshot /mode:system`） | 系统层全黑 —— 排除"系统 UI 占输入" |
+| `prospero-ctrl user list` | LoginDialog 交互后多用户同时登录（手柄归属漂移的源头） |
+| LoginService 手柄认领 | 文档要求、引擎 0 实现。claim 目标应为 **initial user**（OIS handle 锚定者），不是 LoginDialog 选定的新账号。已在基线验证 claim 调用成功（ret=0），对提示框问题无效（真因是 x 键映射），但按文档保留 |
+| workspace 与引擎版本必须匹配 | workspace Lua 是 9-11 支付版全量同步；跑基线引擎时出现"进游戏无法操作" —— 优先怀疑支付 Lua 调用基线引擎缺失接口所致。**换基线测试必须同步换 workspace Lua** |
+
+诊断命令速查：
+
+```bash
+prospero-ctrl user list                                          # 查登录用户状态
+prospero-ctrl target screenshot x.png /mode:system               # 系统层（输入占用判据）
+prospero-ctrl target screenshot x.png /mode:game                 # 游戏层
+prospero-ctrl workspace explore ymj-ps5-dev "_scripts/client"    # workspace 布局
+```
+
 ### 文档地址（原始 URL）
 
 **换用户 / 挂起恢复**
