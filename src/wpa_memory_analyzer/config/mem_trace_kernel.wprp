@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WindowsPerformanceRecorder
+    Version="1.0"
+    Author="Custom"
+    Company="Custom">
+
+  <Profiles>
+
+    <!-- =========================
+         Collectors
+         ========================= -->
+
+    <SystemCollector
+        Id="SystemCollector_MemAlloc_File"
+        Name="NT Kernel Logger"
+        Realtime="false">
+      <BufferSize Value="1024"/>
+      <Buffers Value="128"/>
+      <StackCaching BucketCount="100" CacheSize="4096"/>
+    </SystemCollector>
+
+    <SystemCollector
+        Id="SystemCollector_MemAlloc_Memory"
+        Base="SystemCollector_MemAlloc_File">
+      <Buffers Value="3" PercentageOfTotalMemory="true"/>
+    </SystemCollector>
+
+
+    <!-- =========================
+         System Provider: VirtualAlloc / VirtualFree
+         ========================= -->
+
+    <SystemProvider Id="SystemProvider_VirtualAllocOnly">
+      <Keywords>
+        <!-- 进程、线程、模块加载，用于还原调用栈和模块名 -->
+        <Keyword Value="ProcessThread"/>
+        <Keyword Value="Loader"/>
+
+        <!-- 基础内存信息 -->
+        <Keyword Value="MemoryInfo"/>
+        <Keyword Value="MemoryInfoWS"/>
+
+        <!-- 核心：VirtualAlloc / VirtualFree -->
+        <Keyword Value="VirtualAllocation"/>
+      </Keywords>
+
+      <Stacks>
+        <!-- 进程/模块辅助栈信息 -->
+        <Stack Value="ProcessCreate"/>
+        <Stack Value="ImageLoad"/>
+
+        <!-- 核心：虚拟内存分配/释放调用栈 -->
+        <Stack Value="VirtualAllocation"/>
+        <Stack Value="VirtualFree"/>
+      </Stacks>
+    </SystemProvider>
+
+
+    <!-- =========================
+         Profile: File mode
+         ========================= -->
+
+    <Profile
+        Id="MemAllocOnly.Verbose.File"
+        Name="MemAllocOnly"
+        Description="Capture only low-level virtual memory allocations"
+        DetailLevel="Verbose"
+        LoggingMode="File">
+
+      <Collectors>
+        <SystemCollectorId Value="SystemCollector_MemAlloc_File">
+          <SystemProviderId Value="SystemProvider_VirtualAllocOnly"/>
+        </SystemCollectorId>
+      </Collectors>
+    </Profile>
+
+
+    <!-- =========================
+         Profile: Memory mode
+         ========================= -->
+
+    <Profile
+        Id="MemAllocOnly.Verbose.Memory"
+        Name="MemAllocOnly"
+        Description="Capture only low-level virtual memory allocations"
+        DetailLevel="Verbose"
+        LoggingMode="Memory">
+
+      <Collectors>
+        <SystemCollectorId Value="SystemCollector_MemAlloc_Memory">
+          <SystemProviderId Value="SystemProvider_VirtualAllocOnly"/>
+        </SystemCollectorId>
+      </Collectors>
+    </Profile>
+
+  </Profiles>
+</WindowsPerformanceRecorder>
